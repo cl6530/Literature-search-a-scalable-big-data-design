@@ -1,0 +1,494 @@
+
+
+
+
+
+There is piracy of copyrighted material. Lots of it. This piracy comes in many 
+forms. The most significant is commercial piracy, the unauthorized taking of 
+other people’s content within a commercial context. Despite the many 
+justifications that are offered in its defense, this taking is wrong. No one 
+should condone it, and the law should stop it.
+But as well as copy-shop piracy, there is another kind of taking” that is more 
+directly related to the Internet. That taking, too, seems wrong to many, and it 
+is wrong much of the time. Before we paint this taking piracy, however, we 
+should understand its nature a bit more. For the harm of this taking is 
+significantly more ambiguous than outright copying, and the law should account 
+for that ambiguity, as it has so often done in the past.
+Piracy I
+All across the world, but especially in Asia and Eastern Europe, there are 
+businesses that do nothing but take others people’s copyrighted content, copy 
+it, and sell itall without the permission of a copyright owner. The recording 
+industry estimates that it loses about $4.6 billion every year to physical 
+piracy [1] (that works out to one in three CDs sold worldwide). The MPAA 
+estimates that it loses $3 billion annually worldwide to piracy.
+This is piracy plain and simple. Nothing in the argument of this book, nor in 
+the argument that most people make when talking about the subject of this book, 
+should draw into doubt this simple point: This piracy is wrong.
+Which is not to say that excuses and justifications couldn’t be made for it. We 
+could, for example, remind ourselves that for the first one hundred years of the 
+American Republic, America did not honor foreign copyrights. We were born, in 
+this sense, a pirate nation. It might therefore seem hypocritical for us to 
+insist so strongly that other developing nations treat as wrong what we, for the 
+first hundred years of our existence, treated as right.
+That excuse isn’t terribly strong. Technically, our law did not ban the taking 
+of foreign works. It explicitly limited itself to American works. Thus the 
+American publishers who published foreign works without the permission of 
+foreign authors were not violating any rule. The copy shops in Asia, by 
+contrast, are violating Asian law. Asian law does protect foreign copyrights, 
+and the actions of the copy shops violate that law. So the wrong of piracy that 
+they engage in is not just a moral wrong, but a legal wrong, and not just an 
+internationally legal wrong, but a locally legal wrong as well.
+True, these local rules have, in effect, been imposed upon these countries. No 
+country can be part of the world economy and choose not to protect copyright 
+internationally. We may have been born a pirate nation, but we will not allow 
+any other nation to have a similar childhood.
+If a country is to be treated as a sovereign, however, then its laws are its 
+laws regardless of their source. The international law under which these nations 
+live gives them some opportunities to escape the burden of intellectual property 
+law. [2] In my view, more developing nations should take advantage of that 
+opportunity, but when they don’t, then their laws should be respected. And under 
+the laws of these nations, this piracy is wrong.
+Alternatively, we could try to excuse this piracy by noting that in any case, it 
+does no harm to the industry. The Chinese who get access to American CDs at 50 
+cents a copy are not people who would have bought those American CDs at $15 a 
+copy. So no one really has any less money than they otherwise would have had. 
+[3]
+This is often true (though I have friends who have purchased many thousands of 
+pirated DVDs who certainly have enough money to pay for the content they have 
+taken), and it does mitigate to some degree the harm caused by such taking. 
+Extremists in this debate love to say, You wouldn’t go into Barnes & Noble and 
+take a book off of the shelf without paying; why should it be any different with 
+on-line music? The difference is, of course, that when you take a book from 
+Barnes & Noble, it has one less book to sell. By contrast, when you take an MP3 
+from a computer network, there is not one less CD that can be sold. The physics 
+of piracy of the intangible are different from the physics of piracy of the 
+tangible.
+This argument is still very weak. However, although copyright is a property 
+right of a very special sort, it is a property right. Like all property 
+rights, the copyright gives the owner the right to decide the terms under which 
+content is shared. If the copyright owner doesn’t want to sell, she doesn’t have 
+to. There are exceptions: important statutory licenses that apply to copyrighted 
+content regardless of the wish of the copyright owner. Those licenses give 
+people the right to take copyrighted content whether or not the copyright 
+owner wants to sell. But where the law does not give people the right to take 
+content, it is wrong to take that content even if the wrong does no harm. If we 
+have a property system, and that system is properly balanced to the technology 
+of a time, then it is wrong to take property without the permission of a 
+property owner. That is exactly what property means.
+Finally, we could try to excuse this piracy with the argument that the piracy 
+actually helps the copyright owner. When the Chinese steal” Windows, that makes 
+the Chinese dependent on Microsoft. Microsoft loses the value of the software 
+that was taken. But it gains users who are used to life in the Microsoft world. 
+Over time, as the nation grows more wealthy, more and more people will buy 
+software rather than steal it. And hence over time, because that buying will 
+benefit Microsoft, Microsoft benefits from the piracy. If instead of pirating 
+Microsoft Windows, the Chinese used the free GNU/Linux operating system, then 
+these Chinese users would not eventually be buying Microsoft. Without piracy, 
+then, Microsoft would lose.
+This argument, too, is somewhat true. The addiction strategy is a good one. Many 
+businesses practice it. Some thrive because of it. Law students, for example, 
+are given free access to the two largest legal databases. The companies 
+marketing both hope the students will become so used to their service that they 
+will want to use it and not the other when they become lawyers (and must pay 
+high subscription fees).
+Still, the argument is not terribly persuasive. We don’t give the alcoholic a 
+defense when he steals his first beer, merely because that will make it more 
+likely that he will buy the next three. Instead, we ordinarily allow businesses 
+to decide for themselves when it is best to give their product away. If 
+Microsoft fears the competition of GNU/Linux, then Microsoft can give its 
+product away, as it did, for example, with Internet Explorer to fight Netscape. 
+A property right means giving the property owner the right to say who gets 
+access to whatat least ordinarily. And if the law properly balances the rights 
+of the copyright owner with the rights of access, then violating the law is 
+still wrong.
+Thus, while I understand the pull of these justifications for piracy, and I 
+certainly see the motivation, in my view, in the end, these efforts at 
+justifying commercial piracy simply don’t cut it. This kind of piracy is rampant 
+and just plain wrong. It doesn’t transform the content it steals; it doesn’t 
+transform the market it competes in. It merely gives someone access to something 
+that the law says he should not have. Nothing has changed to draw that law into 
+doubt. This form of piracy is flat out wrong.
+But as the examples from the four chapters that introduced this part suggest, 
+even if some piracy is plainly wrong, not all piracy is. Or at least, not all 
+piracy is wrong if that term is understood in the way it is increasingly used 
+today. Many kinds of piracy are useful and productive, to produce either new 
+content or new ways of doing business. Neither our tradition nor any tradition 
+has ever banned all piracy in that sense of the term.
+This doesn’t mean that there are no questions raised by the latest piracy 
+concern, peer-to-peer file sharing. But it does mean that we need to understand 
+the harm in peer-to-peer sharing a bit more before we condemn it to the gallows 
+with the charge of piracy.
+For (1) like the original Hollywood, p2p sharing escapes an overly controlling 
+industry; and (2) like the original recording industry, it simply exploits a new 
+way to distribute content; but (3) unlike cable TV, no one is selling the 
+content that is shared on p2p services.
+These differences distinguish p2p sharing from true piracy. They should push us 
+to find a way to protect artists while enabling this sharing to survive.
+Piracy II
+The key to the piracy that the law aims to quash is a use that rob[s] the 
+author of [his] profit. [4] This means we must determine whether and how much 
+p2p sharing harms before we know how strongly the law should seek to either 
+prevent it or find an alternative to assure the author of his profit.
+Peer-to-peer sharing was made famous by Napster. But the inventors of the 
+Napster technology had not made any major technological innovations. Like every 
+great advance in innovation on the Internet (and, arguably, off the Internet as 
+well [5]), Shawn Fanning and crew had simply put together components that had 
+been developed independently.
+The result was spontaneous combustion. Launched in July 1999, Napster amassed 
+over 10 million users within nine months. After eighteen months, there were 
+close to 80 million registered users of the system. [6] Courts quickly shut 
+Napster down, but other services emerged to take its place. (Kazaa is currently 
+the most popular p2p service. It boasts over 100 million members.) These 
+services’ systems are different architecturally, though not very different in 
+function: Each enables users to make content available to any number of other 
+users. With a p2p system, you can share your favorite songs with your best 
+friend or your 20,000 best friends.
+According to a number of estimates, a huge proportion of Americans have tasted 
+file-sharing technology. A study by Ipsos-Insight in September 2002 estimated 
+that 60 million Americans had downloaded music28 percent of Americans older 
+than 12. [7] A survey by the NPD group quoted in The New York Times estimated 
+that 43 million citizens used file-sharing networks to exchange content in May 
+2003. [8] The vast majority of these are not kids. Whatever the actual figure, a 
+massive quantity of content is being taken on these networks. The ease and 
+inexpensiveness of file-sharing networks have inspired millions to enjoy music 
+in a way that they hadn’t before.
+Some of this enjoying involves copyright infringement. Some of it does not. And 
+even among the part that is technically copyright infringement, calculating the 
+actual harm to copyright owners is more complicated than one might think. So 
+considera bit more carefully than the polarized voices around this debate 
+usually dothe kinds of sharing that file sharing enables, and the kinds of harm 
+it entails.
+File sharers share different kinds of content. We can divide these different 
+kinds into four types.
+A. There are some who use sharing networks as substitutes for purchasing 
+content. Thus, when a new Madonna CD is released, rather than buying the CD, 
+these users simply take it. We might quibble about whether everyone who takes it 
+would actually have bought it if sharing didn’t make it available for free. Most 
+probably wouldn’t have, but clearly there are some who would. The latter are the 
+target of category A: users who download instead of purchasing.
+B. There are some who use sharing networks to sample music before purchasing it. 
+Thus, a friend sends another friend an MP3 of an artist he’s not heard of. The 
+other friend then buys CDs by that artist. This is a kind of targeted 
+advertising, quite likely to succeed. If the friend recommending the album gains 
+nothing from a bad recommendation, then one could expect that the 
+recommendations will actually be quite good. The net effect of this sharing 
+could increase the quantity of music purchased.
+C. There are many who use sharing networks to get access to copyrighted content 
+that is no longer sold or that they would not have purchased because the 
+transaction costs off the Net are too high. This use of sharing networks is 
+among the most rewarding for many. Songs that were part of your childhood but 
+have long vanished from the marketplace magically appear again on the network. 
+(One friend told me that when she discovered Napster, she spent a solid weekend 
+recalling” old songs. She was astonished at the range and mix of content that 
+was available.) For content not sold, this is still technically a violation of 
+copyright, though because the copyright owner is not selling the content 
+anymore, the economic harm is zerothe same harm that occurs when I sell my 
+collection of 1960s 45-rpm records to a local collector.
+D. Finally, there are many who use sharing networks to get access to content 
+that is not copyrighted or that the copyright owner wants to give away.
+How do these different types of sharing balance out?
+Let’s start with some simple but important points. From the perspective of the 
+law, only type D sharing is clearly legal. From the perspective of economics, 
+only type A sharing is clearly harmful. [9] Type B sharing is illegal but 
+plainly beneficial. Type C sharing is illegal, yet good for society (since more 
+exposure to music is good) and harmless to the artist (since the work is not 
+otherwise available). So how sharing matters on balance is a hard question to 
+answerand certainly much more difficult than the current rhetoric around the 
+issue suggests.
+Whether on balance sharing is harmful depends importantly on how harmful type A 
+sharing is. Just as Edison complained about Hollywood, composers complained 
+about piano rolls, recording artists complained about radio, and broadcasters 
+complained about cable TV, the music industry complains that type A sharing is a 
+kind of theft that is devastating the industry.
+While the numbers do suggest that sharing is harmful, how harmful is harder to 
+reckon. It has long been the recording industry’s practice to blame technology 
+for any drop in sales. The history of cassette recording is a good example. As a 
+study by Cap Gemini Ernst & Young put it, Rather than exploiting this new, 
+popular technology, the labels fought it. [10] The labels claimed that every 
+album taped was an album unsold, and when record sales fell by 11.4 percent in 
+1981, the industry claimed that its point was proved. Technology was the 
+problem, and banning or regulating technology was the answer.
+Yet soon thereafter, and before Congress was given an opportunity to enact 
+regulation, MTV was launched, and the industry had a record turnaround. In the 
+end, Cap Gemini concludes, the crisis’ ... was not the fault of the tapers
+who did not [stop after MTV came into being]but had to a large extent resulted 
+from stagnation in musical innovation at the major labels. [11]
+But just because the industry was wrong before does not mean it is wrong today. 
+To evaluate the real threat that p2p sharing presents to the industry in 
+particular, and society in generalor at least the society that inherits the 
+tradition that gave us the film industry, the record industry, the radio 
+industry, cable TV, and the VCRthe question is not simply whether type A 
+sharing is harmful. The question is also how harmful type A sharing is, and 
+how beneficial the other types of sharing are.
+We start to answer this question by focusing on the net harm, from the 
+standpoint of the industry as a whole, that sharing networks cause. The net 
+harm to the industry as a whole is the amount by which type A sharing exceeds 
+type B. If the record companies sold more records through sampling than they 
+lost through substitution, then sharing networks would actually benefit music 
+companies on balance. They would therefore have little static reason to resist 
+them.
+Could that be true? Could the industry as a whole be gaining because of file 
+sharing? Odd as that might sound, the data about CD sales actually suggest it 
+might be close.
+In 2002, the RIAA reported that CD sales had fallen by 8.9 percent, from 882 
+million to 803 million units; revenues fell 6.7 percent. [12] This confirms a 
+trend over the past few years. The RIAA blames Internet piracy for the trend, 
+though there are many other causes that could account for this drop. SoundScan, 
+for example, reports a more than 20 percent drop in the number of CDs released 
+since 1999. That no doubt accounts for some of the decrease in sales. Rising 
+prices could account for at least some of the loss. From 1999 to 2001, the 
+average price of a CD rose 7.2 percent, from $13.04 to $14.19. [13] Competition 
+from other forms of media could also account for some of the decline. As Jane 
+Black of BusinessWeek notes, The soundtrack to the film High Fidelity has a 
+list price of $18.98. You could get the whole movie [on DVD] for $19.99. [14]
+But let’s assume the RIAA is right, and all of the decline in CD sales is 
+because of Internet sharing. Here’s the rub: In the same period that the RIAA 
+estimates that 803 million CDs were sold, the RIAA estimates that 2.1 billion 
+CDs were downloaded for free. Thus, although 2.6 times the total number of CDs 
+sold were downloaded for free, sales revenue fell by just 6.7 percent.
+There are too many different things happening at the same time to explain these 
+numbers definitively, but one conclusion is unavoidable: The recording industry 
+constantly asks, What’s the difference between downloading a song and stealing 
+a CD?but their own numbers reveal the difference. If I steal a CD, then there 
+is one less CD to sell. Every taking is a lost sale. But on the basis of the 
+numbers the RIAA provides, it is absolutely clear that the same is not true of 
+downloads. If every download were a lost saleif every use of Kazaa rob[bed] 
+the author of [his] profitthen the industry would have suffered a 100 percent 
+drop in sales last year, not a 7 percent drop. If 2.6 times the number of CDs 
+sold were downloaded for free, and yet sales revenue dropped by just 6.7 
+percent, then there is a huge difference between downloading a song and 
+stealing a CD.
+These are the harmsalleged and perhaps exaggerated but, let’s assume, real. 
+What of the benefits? File sharing may impose costs on the recording industry. 
+What value does it produce in addition to these costs?
+One benefit is type C sharingmaking available content that is technically still 
+under copyright but is no longer commercially available. This is not a small 
+category of content. There are millions of tracks that are no longer 
+commercially available. [15] And while it’s conceivable that some of this 
+content is not available because the artist producing the content doesn’t want 
+it to be made available, the vast majority of it is unavailable solely because 
+the publisher or the distributor has decided it no longer makes economic sense 
+/to the company to make it available.
+In real spacelong before the Internetthe market had a simple response to this 
+problem: used book and record stores. There are thousands of used book and used 
+record stores in America today.16 These stores buy content from owners, then 
+sell the content they buy. And under American copyright law, when they buy and 
+sell this content, even if the content is still under copyright, the copyright 
+owner doesn’t get a dime. Used book and record stores are commercial entities; 
+their owners make money from the content they sell; but as with cable companies 
+before statutory licensing, they don’t have to pay the copyright owner for the 
+content they sell.
+Type C sharing, then, is very much like used book stores or used record stores. 
+It is different, of course, because the person making the content available 
+isn’t making money from making the content available. It is also different, of 
+course, because in real space, when I sell a record, I don’t have it anymore, 
+while in cyberspace, when someone shares my 1949 recording of Bernstein’s Two 
+Love Songs, I still have it. That difference would matter economically if the 
+owner of the 1949 copyright were selling the record in competition to my 
+sharing. But we’re talking about the class of content that is not currently 
+commercially available. The Internet is making it available, through cooperative 
+sharing, without competing with the market.
+It may well be, all things considered, that it would be better if the copyright 
+owner got something from this trade. But just because it may well be better, it 
+doesn’t follow that it would be good to ban used book stores. Or put 
+differently, if you think that type C sharing should be stopped, do you think 
+that libraries and used book stores should be shut as well?
+Finally, and perhaps most importantly, file-sharing networks enable type D 
+sharing to occurthe sharing of content that copyright owners want to have 
+shared or for which there is no continuing copyright. This sharing clearly 
+benefits authors and society. Science fiction author Cory Doctorow, for example, 
+released his first novel, Down and Out in the Magic Kingdom, both free on-line 
+and in bookstores on the same day. His (and his publisher’s) thinking was that 
+the on-line distribution would be a great advertisement for the real book. 
+People would read part on-line, and then decide whether they liked the book or 
+not. If they liked it, they would be more likely to buy it. Doctorow’s content 
+is type D content. If sharing networks enable his work to be spread, then both 
+he and society are better off. (Actually, much better off: It is a great book!)
+Likewise for work in the public domain: This sharing benefits society with no 
+legal harm to authors at all. If efforts to solve the problem of type A sharing 
+destroy the opportunity for type D sharing, then we lose something important in 
+order to protect type A content.
+The point throughout is this: While the recording industry understandably says, 
+This is how much we’ve lost, we must also ask, How much has society gained 
+from p2p sharing? What are the efficiencies? What is the content that otherwise 
+would be unavailable?
+For unlike the piracy I described in the first section of this chapter, much of 
+the piracy that file sharing enables is plainly legal and good. And like the 
+piracy I described in chapter 4, much of this piracy is motivated by a new way 
+of spreading content caused by changes in the technology of distribution. Thus, 
+consistent with the tradition that gave us Hollywood, radio, the recording 
+industry, and cable TV, the question we should be asking about file sharing is 
+how best to preserve its benefits while minimizing (to the extent possible) the 
+wrongful harm it causes artists. The question is one of balance. The law should 
+seek that balance, and that balance will be found only with time.
+But isn’t the war just a war against illegal sharing? Isn’t the target just 
+what you call type A sharing?
+You would think. And we should hope. But so far, it is not. The effect of the 
+war purportedly on type A sharing alone has been felt far beyond that one class 
+of sharing. That much is obvious from the Napster case itself. When Napster told 
+the district court that it had developed a technology to block the transfer of 
+99.4 percent of identified infringing material, the district court told counsel 
+for Napster 99.4 percent was not good enough. Napster had to push the 
+infringements down to zero. [17]
+If 99.4 percent is not good enough, then this is a war on file-sharing 
+technologies, not a war on copyright infringement. There is no way to assure 
+that a p2p system is used 100 percent of the time in compliance with the law, 
+any more than there is a way to assure that 100 percent of VCRs or 100 percent 
+of Xerox machines or 100 percent of handguns are used in compliance with the 
+law. Zero tolerance means zero p2p. The court’s ruling means that we as a 
+society must lose the benefits of p2p, even for the totally legal and beneficial 
+uses they serve, simply to assure that there are zero copyright infringements 
+caused by p2p.
+Zero tolerance has not been our history. It has not produced the content 
+industry that we know today. The history of American law has been a process of 
+balance. As new technologies changed the way content was distributed, the law 
+adjusted, after some time, to the new technology. In this adjustment, the law 
+sought to ensure the legitimate rights of creators while protecting innovation. 
+Sometimes this has meant more rights for creators. Sometimes less.
+So, as we’ve seen, when mechanical reproduction threatened the interests of 
+composers, Congress balanced the rights of composers against the interests of 
+the recording industry. It granted rights to composers, but also to the 
+recording artists: Composers were to be paid, but at a price set by Congress. 
+But when radio started broadcasting the recordings made by these recording 
+artists, and they complained to Congress that their creative property was not 
+being respected (since the radio station did not have to pay them for the 
+creativity it broadcast), Congress rejected their claim. An indirect benefit was 
+enough.
+Cable TV followed the pattern of record albums. When the courts rejected the 
+claim that cable broadcasters had to pay for the content they rebroadcast, 
+Congress responded by giving broadcasters a right to compensation, but at a 
+level set by the law. It likewise gave cable companies the right to the content, 
+so long as they paid the statutory price.
+This compromise, like the compromise affecting records and player pianos, served 
+two important goalsindeed, the two central goals of any copyright legislation. 
+First, the law assured that new innovators would have the freedom to develop new 
+ways to deliver content. Second, the law assured that copyright holders would be 
+paid for the content that was distributed. One fear was that if Congress simply 
+required cable TV to pay copyright holders whatever they demanded for their 
+content, then copyright holders associated with broadcasters would use their 
+power to stifle this new technology, cable. But if Congress had permitted cable 
+to use broadcasters’ content for free, then it would have unfairly subsidized 
+cable. Thus Congress chose a path that would assure compensation without 
+giving the past (broadcasters) control over the future (cable).
+In the same year that Congress struck this balance, two major producers and 
+distributors of film content filed a lawsuit against another technology, the 
+video tape recorder (VTR, or as we refer to them today, VCRs) that Sony had 
+produced, the Betamax. Disney’s and Universal’s claim against Sony was 
+relatively simple: Sony produced a device, Disney and Universal claimed, that 
+enabled consumers to engage in copyright infringement. Because the device that 
+Sony built had a record button, the device could be used to record copyrighted 
+movies and shows. Sony was therefore benefiting from the copyright infringement 
+of its customers. It should therefore, Disney and Universal claimed, be 
+partially liable for that infringement.
+There was something to Disney’s and Universal’s claim. Sony did decide to design 
+its machine to make it very simple to record television shows. It could have 
+built the machine to block or inhibit any direct copying from a television 
+broadcast. Or possibly, it could have built the machine to copy only if there 
+were a special copy me” signal on the line. It was clear that there were many 
+television shows that did not grant anyone permission to copy. Indeed, if anyone 
+had asked, no doubt the majority of shows would not have authorized copying. And 
+in the face of this obvious preference, Sony could have designed its system to 
+minimize the opportunity for copyright infringement. It did not, and for that, 
+Disney and Universal wanted to hold it responsible for the architecture it 
+chose.
+MPAA president Jack Valenti became the studios’ most vocal champion. Valenti 
+called VCRs tapeworms. He warned, When there are 20, 30, 40 million of these 
+VCRs in the land, we will be invaded by millions of ’tapeworms,’ eating away at 
+the very heart and essence of the most precious asset the copyright owner has, 
+his copyright. [18] One does not have to be trained in sophisticated marketing 
+and creative judgment, he told Congress, to understand the devastation on the 
+after-theater marketplace caused by the hundreds of millions of tapings that 
+will adversely impact on the future of the creative community in this country. 
+It is simply a question of basic economics and plain common sense. [19] Indeed, 
+as surveys would later show, 45 percent of VCR owners had movie libraries of ten 
+videos or more [20]a use the Court would later hold was not fair. By 
+allowing VCR owners to copy freely by the means of an exemption from copyright 
+infringement without creating a mechanism to compensate copyright owners, 
+Valenti testified, Congress would take from the owners the very essence of 
+their property: the exclusive right to control who may use their work, that is, 
+who may copy it and thereby profit from its reproduction. [21]
+It took eight years for this case to be resolved by the Supreme Court. In the 
+interim, the Ninth Circuit Court of Appeals, which includes Hollywood in its 
+jurisdictionleading Judge Alex Kozinski, who sits on that court, refers to it 
+as the Hollywood Circuitheld that Sony would be liable for the copyright 
+infringement made possible by its machines. Under the Ninth Circuit’s rule, this 
+totally familiar technologywhich Jack Valenti had called the Boston Strangler 
+of the American film industry (worse yet, it was a Japanese Boston Strangler 
+of the American film industry)was an illegal technology. [22]
+But the Supreme Court reversed the decision of the Ninth Circuit. And in its 
+reversal, the Court clearly articulated its understanding of when and whether 
+courts should intervene in such disputes. As the Court wrote,
+Sound policy, as well as history, supports our consistent deference to Congress 
+when major technological innovations alter the market for copyrighted materials. 
+Congress has the constitutional authority and the institutional ability to 
+accommodate fully the varied permutations of competing interests that are 
+inevitably implicated by such new technology. [23]
+Congress was asked to respond to the Supreme Court’s decision. But as with the 
+plea of recording artists about radio broadcasts, Congress ignored the request. 
+Congress was convinced that American film got enough, this taking 
+notwithstanding.
+If we put these cases together, a pattern is clear:
+CASE		WHOSE VALUE	RESPONSE OF	RESPONSE OF CONGRESS
+		WAS PIRATED 	THE COURTS
+Recordings	Composers		No protection		Statutory License
+Radio		Recording Artists	N/A			Nothing
+Cable TV	Broadcasters		No protection		Statutory License
+VCR		Film Creators	No protection		Nothing
+In each case throughout our history, a new technology changed the way content 
+was distributed. [24] In each case, throughout our history, that change meant 
+that someone got a free ride on someone else’s work.
+In none of these cases did either the courts or Congress eliminate all free 
+riding. In none of these cases did the courts or Congress insist that the law 
+should assure that the copyright holder get all the value that his copyright 
+created. In every case, the copyright owners complained of piracy. In every 
+case, Congress acted to recognize some of the legiti macy in the behavior of the 
+pirates. In each case, Congress allowed some new technology to benefit from 
+content made before. It balanced the interests at stake.
+When you think across these examples, and the other examples that make up the 
+first four chapters of this section, this balance makes sense. Was Walt Disney a 
+pirate? Would doujinshi be better if creators had to ask permission? Should 
+tools that enable others to capture and spread images as a way to cultivate or 
+criticize our culture be better regulated? Is it really right that building a 
+search engine should expose you to $15 million in damages? Would it have been 
+better if Edison had controlled film? Should every cover band have to hire a 
+lawyer to get permission to record a song?
+We could answer yes to each of these questions, but our tradition has answered 
+no. In our tradition, as the Supreme Court has stated, copyright has never 
+accorded the copyright owner complete control over all possible uses of his 
+work. [25] Instead, the particular uses that the law regulates have been 
+defined by balancing the good that comes from granting an exclusive right 
+against the burdens such an exclusive right creates. And this balancing has 
+historically been done after a technology has matured, or settled into the mix 
+of technologies that facilitate the distribution of content.
+We should be doing the same thing today. The technology of the Internet is 
+changing quickly. The way people connect to the Internet (wires vs. wireless) is 
+changing very quickly. No doubt the network should not become a tool for 
+stealing from artists. But neither should the law become a tool to entrench 
+one particular way in which artists (or more accurately, distributors) get paid. 
+As I describe in some detail in the last chapter of this book, we should be 
+securing income to artists while we allow the market to secure the most 
+efficient way to promote and distribute content. This will require changes in 
+the law, at least in the interim. These changes should be designed to balance 
+the protection of the law against the strong public interest that innovation 
+continue.
+This is especially true when a new technology enables a vastly superior mode of 
+distribution. And this p2p has done. P2p technologies can be ideally efficient 
+in moving content across a widely diverse network. Left to develop, they could 
+make the network vastly more efficient. Yet these potential public benefits, 
+as John Schwartz writes in The New York Times, could be delayed in the P2P 
+fight. [26]
+Yet when anyone begins to talk about balance, the copyright warriors raise a 
+different argument. All this hand waving about balance and incentives, they 
+say, misses a fundamental point. Our content, the warriors insist, is our 
+/property. Why should we wait for Congress to ’rebalance’ our property rights? 
+Do you have to wait before calling the police when your car has been stolen? And 
+why should Congress deliberate at all about the merits of this theft? Do we ask 
+whether the car thief had a good use for the car before we arrest him?
+It is our property, the warriors insist. And it should be protected just as 
+any other property is protected.
+Continue...
+
+“Free Culture” by Lawrence Lessig is available for free under a Creative Commons license.
+(You may redistribute, copy, or otherwise reuse/remix this book provided that you do so for non-commercial purposes and credit Professor Lessig.)
+Complete book. Authorama - Classic Literature, free of copyright. About...
+Free Culture: The Nature and Future of CreativityBy Lawrence LessigAt Amazon

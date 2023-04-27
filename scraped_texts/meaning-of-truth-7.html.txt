@@ -1,0 +1,436 @@
+
+
+
+
+
+[Footnote: Reprint from the Journal of Philosophy, July 18,1907.]
+ My failure in making converts to my conception of truth seems, if I
+may judge by what I hear in conversation, almost complete.
+An ordinary philosopher would feel disheartened, and a common
+choleric sinner would curse God and die, after such a reception. But
+instead of taking counsel of despair, I make bold to vary my
+statements, in the faint hope that repeated droppings may wear upon
+the stone, and that my formulas may seem less obscure if surrounded
+by something more of a ’mass’ whereby to apperceive them.
+For fear of compromising other pragmatists, whoe’er they be, I will
+speak of the conception which I am trying to make intelligible, as
+my own conception. I first published it in the year 1885, in the
+first article reprinted in the present book. Essential theses of
+this article were independently supported in 1893 and 1895
+by Professor D. S. Miller [Footnote: Philosophical Review, vol. ii,
+p. 408, and Psychological Review, vol. ii, p. 533.] and were
+repeated by me in a presidential address on ’The knowing of things
+together’ [Footnote: The relevant parts of which are printed above,
+p. 43.] in 1895. Professor Strong, in an article in the Journal of
+Philosophy, etc., [Footnote: Vol. i, p. 253.] entitled ’A
+naturalistic theory of the reference of thought to reality,’ called
+our account ’the James-Miller theory of cognition,’ and, as I
+understood him, gave it his adhesion. Yet, such is the difficulty of
+writing clearly in these penetralia of philosophy, that each of
+these revered colleagues informs me privately that the account of
+truth I now give–which to me is but that earlier statement more
+completely set forth–is to him inadequate, and seems to leave the
+gist of real cognition out. If such near friends disagree, what can
+I hope from remoter ones, and what from unfriendly critics?
+Yet I feel so sure that the fault must lie in my lame forms of
+statement and not in my doctrine, that I am fain to try once more
+to express myself.
+Are there not some general distinctions which it may help us to
+agree about in advance? Professor Strong distinguishes between what
+he calls ’saltatory’ and what he calls ’ambulatory’ relations.
+’Difference,’ for example, is saltatory, jumping as it were
+immediately from one term to another, but ’distance’ in time or
+space is made out of intervening parts of experience through which
+we ambulate in succession. Years ago, when T. H. Green’s ideas were
+most influential, I was much troubled by his criticisms of english
+sensationalism. One of his disciples in particular would always say
+to me, ’Yes! TERMS may indeed be possibly sensational in origin; but
+RELATIONS, what are they but pure acts of the intellect coming upon
+the sensations from above, and of a higher nature?’ I well remember
+the sudden relief it gave me to perceive one day that SPACE-
+relations at any rate were homogeneous with the terms between which
+they mediated. The terms were spaces, and the relations were other
+intervening spaces. [Footnote: See my Principles of Psychology, vol.
+ii, pp. 148-153.] For the Greenites space-relations had
+been saltatory, for me they became thenceforward ambulatory.
+Now the most general way of contrasting my view of knowledge with
+the popular view (which is also the view of most epistemologists) is
+to call my view ambulatory, and the other view saltatory; and the
+most general way of characterizing the two views is by saying
+that my view describes knowing as it exists concretely, while the
+other view only describes its results abstractly taken.
+I fear that most of my recalcitrant readers fail to recognize that
+what is ambulatory in the concrete may be taken so abstractly as
+to appear saltatory. Distance, for example, is made abstract by
+emptying out whatever is particular in the concrete intervals–it is
+reduced thus to a sole ’difference,’ a difference of ’place,’ which
+is a logical or saltatory distinction, a so-called ’pure relation.’
+The same is true of the relation called ’knowing,’ which may connect
+an idea with a reality. My own account of this relation is
+ambulatory through and through. I say that we know an object by
+means of an idea, whenever we ambulate towards the object under the
+impulse which the idea communicates. If we believe in so-called
+’sensible’ realities, the idea may not only send us towards its
+object, but may put the latter into our very hand, make it
+our immediate sensation. But, if, as most reflective people opine,
+sensible realities are not ’real’ realities, but only their
+appearances, our idea brings us at least so far, puts us in touch
+with reality’s most authentic appearances and substitutes. In any
+case our idea brings us into the object’s neighborhood, practical or
+ideal, gets us into commerce with it, helps us towards its closer
+acquaintance, enables us to foresee it, class it, compare it, deduce
+it,–in short, to deal with it as we could not were the idea not in
+our possession.
+The idea is thus, when functionally considered, an instrument for
+enabling us the better to HAVE TO DO with the object and to act
+about it. But it and the object are both of them bits of the general
+sheet and tissue of reality at large; and when we say that the idea
+leads us towards the object, that only means that it carries us
+forward through intervening tracts of that reality into the object’s
+closer neighborhood, into the midst of its associates at least, be
+these its physical neighbors, or be they its logical congeners only.
+Thus carried into closer quarters, we are in an improved
+situation as regards acquaintance and conduct; and we say that
+through the idea we now KNOW the object better or more truly.
+My thesis is that the knowing here is MADE by the ambulation through
+the intervening experiences. If the idea led us nowhere, or FROM
+that object instead of towards it, could we talk at all of its
+having any cognitive quality? Surely not, for it is only when taken
+in conjunction with the intermediate experiences that it gets
+related to THAT PARTICULAR OBJECT rather than to any other part of
+nature. Those intermediaries determine what particular
+knowing function it exerts. The terminus they guide us to tells us
+what object it ’means,’ the results they enrich us with ’verify’ or
+’refute’ it. Intervening experiences are thus as
+indispensable foundations for a concrete relation of cognition as
+intervening space is for a relation of distance. Cognition, whenever
+we take it concretely, means determinate ’ambulation,’ through
+intermediaries, from a terminus a quo to, or towards, a terminus ad
+quem. As the intermediaries are other than the termini,
+and connected with them by the usual associative bonds (be these
+’external’ or be they logical, i.e., classificatory, in character),
+there would appear to be nothing especially unique about the
+processes of knowing. They fall wholly within experience; and we
+need use, in describing them, no other categories than those which
+we employ in describing other natural processes.
+But there exist no processes which we cannot also consider
+abstractly, eviscerating them down to their essential skeletons or
+outlines; and when we have treated the processes of knowing thus, we
+are easily led to regard them as something altogether unparalleled
+in nature. For we first empty idea, object and intermediaries of all
+their particularities, in order to retain only a general scheme, and
+then we consider the latter only in its function of giving a result,
+and not in its character of being a process. In this treatment the
+intermediaries shrivel into the form of a mere space of separation,
+while the idea and object retain only the logical distinctness of
+being the end-terms that are separated. In other words,
+the intermediaries which in their concrete particularity form a
+bridge, evaporate ideally into an empty interval to cross, and then,
+the relation of the end-terms having become saltatory, the whole
+hocus-pocus of Erkenntnistheorie begins, and goes on unrestrained by
+further concrete considerations. The idea, in ’meaning’ an object
+separated by an ’epistemological chasm’ from itself, now executes
+what Professor Ladd calls a ’salto mortale’; in knowing the object’s
+nature, it now ’transcends’ its own. The object in turn becomes
+’present’ where it is really absent, etc.; until a scheme remains
+upon our hands, the sublime paradoxes of which some of us think that
+nothing short of an ’absolute’ can explain.
+The relation between idea and object, thus made abstract and
+saltatory, is thenceforward opposed, as being more essential and
+previous, to its own ambulatory self, and the more
+concrete description is branded as either false or insufficient. The
+bridge of intermediaries, actual or possible, which in every real
+case is what carries and defines the knowing, gets treated as an
+episodic complication which need not even potentially be there. I
+believe that this vulgar fallacy of opposing abstractions to the
+concretes from which they are abstracted, is the main reason why my
+account of knowing is deemed so unsatisfactory, and I will
+therefore say a word more on that general point.
+Any vehicle of conjunction, if all its particularities are
+abstracted from it, will leave us with nothing on our hands but the
+original disjunction which it bridged over. But to escape treating
+the resultant self-contradiction as an achievement of dialectical
+profundity, all we need is to restore some part, no matter
+how small, of what we have taken away. In the case of the
+epistemological chasm the first reasonable step is to remember that
+the chasm was filled with SOME empirical material,
+whether ideational or sensational, which performed SOME bridging
+function and saved us from the mortal leap. Restoring thus the
+indispensable modicum of reality to the matter of our discussion, we
+find our abstract treatment genuinely useful. We escape entanglement
+with special cases without at the same time falling into gratuitous
+paradoxes. We can now describe the general features of cognition,
+tell what on the whole it DOES FOR US, in a universal way.
+We must remember that this whole inquiry into knowing grows up on a
+reflective level. In any real moment of knowing, what we
+are thinking of is our object, not the way in which we ourselves are
+momentarily knowing it. We at this moment, as it happens, have
+knowing itself for our object; but I think that the reader will
+agree that his present knowing of that object is included only
+abstractly, and by anticipation, in the results he may reach. What
+he concretely has before his mind, as he reasons, is some supposed
+objective instance of knowing, as he conceives it to go on in some
+other person, or recalls it from his own past. As such, he, the
+critic, sees it to contain both an idea and an object, and processes
+by which the knower is guided from the one towards the other. He
+sees that the idea is remote from the object, and that, whether
+through intermediaries or not, it genuinely HAS TO DO with it.
+He sees that it thus works beyond its immediate being, and lays hold
+of a remote reality; it jumps across, transcends itself. It does all
+this by extraneous aid, to be sure, but when the aid has come, it
+HAS done it and the result is secure. Why not talk of results by
+themselves, then, without considering means? Why not treat the idea
+as simply grasping or intuiting the reality, of its having the
+faculty anyhow, of shooting over nature behind the scenes
+and knowing things immediately and directly? Why need we always lug
+in the bridging?–it only retards our discourse to do so.
+Such abstract talk about cognition’s results is surely convenient;
+and it is surely as legitimate as it is convenient, SO LONG AS WE DO
+NOT FORGET OR POSITIVELY DENY, WHAT IT IGNORES. We may on occasion
+say that our idea meant ALWAYS that particular object, that it led
+us there because it was OF it intrinsically and essentially. We may
+insist that its verification follows upon that original
+cognitive virtue in it–and all the rest–and we shall do no harm so
+long as we know that these are only short cuts in our thinking. They
+are positively true accounts of fact AS FAR AS THEY GO, only they
+leave vast tracts of fact out of the account, tracts of tact that
+have to be reinstated to make the accounts literally true of any
+real case. But if, not merely passively ignoring the intermediaries,
+you actively deny them [Footnote: This is the fallacy which I have
+called ’vicious intellectualism’ in my book A Pluralistic Universe,
+Longmans, Green & Co., 1909.] to be even potential requisites for
+the results you are so struck by, your epistemology goes to
+irremediable smash. You are as far off the track as an historian
+would be, if, lost in admiration of Napoleon’s personal power, he
+were to ignore his marshals and his armies, and were to accuse you
+of error in describing his conquests as effected by their means.
+Of such abstractness and one-sidedness I accuse most of the critics
+of my own account.
+In the second lecture of the book Pragmatism, I used the
+illustration of a squirrel scrambling round a tree-trunk to keep
+out of sight of a pursuing man: both go round the tree, but does the
+man go round the squirrel? It all depends, I said, on what you mean
+by going round.’ In one sense of the word the man ’goes round,’ in
+another sense he does not. I settled the dispute by
+pragmatically distinguishing the senses. But I told how
+some disputants had called my distinction a shuffling evasion and
+taken their stand on what they called ’plain honest English going-
+round.’
+In such a simple case few people would object to letting the term in
+dispute be translated into its concreter equivalents. But in
+the case of a complex function like our knowing they act
+differently. I give full concrete particular value for the ideas of
+knowing in every case I can think of, yet my critics insist
+that ’plain honest English knowing’ is left out of my account. They
+write as if the minus were on my side and the plus on theirs.
+The essence of the matter for me is that altho knowing can be both
+abstractly and concretely described, and altho the
+abstract descriptions are often useful enough, yet they are all
+sucked up and absorbed without residuum into the concreter ones, and
+contain nothing of any essentially other or higher nature, which the
+concrete descriptions can be justly accused of leaving behind.
+Knowing is just a natural process like any other. There is no
+ambulatory process whatsoever, the results of which we may not
+describe, if we prefer to, in saltatory terms, or represent
+in static formulation. Suppose, e.g., that we say a man is
+’prudent.’ Concretely, that means that he takes out insurance,
+hedges in betting, looks before he leaps. Do such acts
+CONSTITUTE the prudence? ARE they the man qua prudent?
+Or is the prudence something by itself and independent of them? As a
+constant habit in him, a permanent tone of character, it
+is convenient to call him prudent in abstraction from any one of his
+acts, prudent in general and without specification, and to say the
+acts follow from the pre-existing prudence. There are peculiarities
+in his psycho-physical system that make him act prudently; and there
+are tendencies to association in our thoughts that prompt some of
+them to make for truth and others for error. But would the man be
+prudent in the absence of each and all of the acts? Or would the
+thoughts be true if they had no associative or impulsive
+tendencies? Surely we have no right to oppose static essences in
+this way to the moving processes in which they live embedded.
+My bedroom is above my library. Does the ’aboveness’ here mean aught
+that is different from the concrete spaces which have to be moved-
+through in getting from the one to the other? It means, you may say,
+a pure topographic relation, a sort of architect’s plan among the
+eternal essences. But that is not the full aboveness, it is only an
+abbreviated substitute that on occasion may lead my mind towards
+truer, i.e., fuller, dealings with the real aboveness. It is not an
+aboveness ante rem, it is a post rem extract from the aboveness in
+rebus. We may indeed talk, for certain conveniences, as if the
+abstract scheme preceded, we may say ’I must go up stairs because of
+the essential aboveness,’ just as we may say that the man ’does
+prudent acts because of his ingrained prudence,’ or that our ideas
+’lead us truly because of their intrinsic truth.’ But this should
+not debar us on other occasions from using completer forms of
+description. A concrete matter of fact always remains identical
+under any form of description, as when we say of a line, now that it
+runs from left to right, and now that it runs from right to left.
+These are but names of one and the same fact, one more expedient to
+use at one time, one at another. The full facts of cognition,
+whatever be the way in which we talk about them, even when we talk
+most abstractly, stand inalterably given in the actualities and
+possibilities of the experience-continuum. [Footnote 1: The ultimate
+object or terminus of a cognitive process may in certain instances
+lie beyond the direct experience of the particular cognizer, but it,
+of course, must exist as part of the total universe of experience
+whose constitution, with cognition in it, the critic is discussing.]
+But my critics treat my own more concrete talk as if IT were the
+kind that sinned by its inadequacy, and as if the full continuum
+left something out.
+A favorite way of opposing the more abstract to the more concrete
+account is to accuse those who favor the latter of
+’confounding psychology with logic.’ Our critics say that when we
+are asked what truth MEANS, we reply by telling only how it is
+ARRIVED-AT. But since a meaning is a logical relation, static,
+independent of time, how can it possibly be identified, they say,
+with any concrete man’s experience, perishing as this does at the
+instant of its production? This, indeed, sounds profound, but I
+challenge the profundity. I defy any one to show any difference
+between logic and psychology here. The logical relation stands to
+the psychological relation between idea and object only as saltatory
+abstractness stands to ambulatory concreteness. Both relations need
+a psychological vehicle; and the ’logical’ one is simply the
+’psychological’ one disemboweled of its fulness, and reduced to a
+bare abstractional scheme.
+A while ago a prisoner, on being released, tried to assassinate the
+judge who had sentenced him. He had apparently succeeded
+in conceiving the judge timelessly, had reduced him to a bare
+logical meaning, that of being his ’enemy and persecutor,’ by
+stripping off all the concrete conditions (as jury’s
+verdict, official obligation, absence of personal spite, possibly
+sympathy) that gave its full psychological character to the sentence
+as a particular man’s act in time. Truly the sentence WAS inimical
+to the culprit; but which idea of it is the truer one, that bare
+logical definition of it, or its full psychological specification?
+The anti-pragmatists ought in consistency to stand up for the
+criminal’s view of the case, treat the judge as the latter’s logical
+enemy, and bar out the other conditions as so much
+inessential psychological stuff.
+A still further obstacle, I suspect, stands in the way of my
+account’s acceptance. Like Dewey and like Schiller, I have had to
+say that the truth of an idea is determined by its satisfactoriness.
+But satisfactoriness is a subjective term, just as idea is; and
+truth is generally regarded as ’objective.’ Readers who admit
+that satisfactoriness is our only MARK of truth, the only sign that
+we possess the precious article, will still say that the objective
+relation between idea and object which the word ’truth’ points to is
+left out of my account altogether. I fear also that the association
+of my poor name with the ’will to believe’ (which ’will,’ it seems
+to me, ought to play no part in this discussion) works against my
+credit in some quarters. I fornicate with that unclean thing,
+my adversaries may think, whereas your genuine truth-lover must
+discourse in huxleyan heroics, and feel as if truth, to be real
+truth, ought to bring eventual messages of death to all
+our satisfactions. Such divergences certainly prove the complexity
+of the area of our discussion; but to my mind they also are based
+on misunderstandings, which (tho with but little hope of success) I
+will try to diminish by a further word of explanation.
+First, then, I will ask my objectors to define exactly what SORT of
+thing it is they have in mind when they speak of a truth that shall
+be absolute, complete and objective; and then I will defy them to
+show me any conceivable standing-room for such a kind of truth
+outside the terms of my own description. It will fall, as I contend,
+entirely within the field of my analysis.
+To begin with, it must obtain between an idea and a reality that is
+the idea’s object; and, as a predicate, it must apply to the
+idea and not to the object, for objective realities are not TRUE, at
+least not in the universe of discourse to which we are now confining
+ourselves, for there they are taken as simply BEING, while the ideas
+are true OF them. But we can suppose a series of ideas to be
+successively more and more true of the same object, and can ask what
+is the extreme approach to being absolutely true that the last idea
+might attain to.
+The maximal conceivable truth in an idea would seem to be that it
+should lead to an actual merging of ourselves with the object, to an
+utter mutual confluence and identification. On the common-sense
+level of belief this is what is supposed really to take place in
+sense-perception. My idea of this pen verifies itself through my
+percept; and my percept is held to BE the pen for the time being–
+percepts and physical realities being treated by common sense as
+identical. But the physiology of the senses has criticised common
+sense out of court, and the pen ’in itself’ is now believed to lie
+beyond my momentary percept. Yet the notion once suggested, of what
+a completely consummated acquaintance with a reality might be like,
+remains over for our speculative purposes. TOTAL CONFLUX OF THE MIND
+WITH THE REALITY would be the absolute limit of truth, there could
+be no better or more satisfying knowledge than that.
+Such total conflux, it is needless to say, is ALREADY EXPLICITLY
+PROVIDED FOR, AS A POSSIBILITY, IN MY ACCOUNT OF THE MATTER. If an
+idea should ever lead us not only TOWARDS, or UP TO, or AGAINST, a
+reality, but so close that we and the reality should MELT TOGETHER,
+it would be made absolutely true, according to me, by that
+performance.
+In point of fact philosophers doubt that this ever occurs. What
+happens, they think, is only that we get nearer and nearer to
+realities, we approximate more and more to the all-satisfying limit;
+and the definition of actually, as distinguished from
+imaginably, complete and objective truth, can then only be that it
+belongs to the idea that will lead us as CLOSE UP AGAINST THE OBJECT
+as in the nature of our experience is possible, literally NEXT
+to it, for instance.
+Suppose, now, there were an idea that did this for a certain
+objective reality. Suppose that no further approach were possible,
+that nothing lay between, that the next step would carry us right
+INTO the reality; then that result, being the next thing to conflux,
+would make the idea true in the maximal degree that might be
+supposed practically attainable in the world which we inhabit.
+Well, I need hardly explain that THAT DEGREE OF TRUTH IS ALSO
+PROVIDED FOR IN MY ACCOUNT OF THE MATTER. And if satisfactions are
+the marks of truth’s presence, we may add that any less true
+substitute for such a true idea would prove less satisfactory.
+Following its lead, we should probably find out that we did not
+quite touch the terminus. We should desiderate a closer approach,
+and not rest till we had found it.
+I am, of course, postulating here a standing reality independent of
+the idea that knows it. I am also postulating that satisfactions
+grow pari passu with our approximation to such reality. [Footnote 1:
+Say, if you prefer to, that DISsatisfactions decrease pari passu
+with such approximation. The approximation may be of any kind
+assignable–approximation in time or in space, or approximation in
+kind, which in common speech means ’copying.’] If my critics
+challenge this latter assumption, I retort upon them with the
+former. Our whole notion of a standing reality grows up in the form
+of an ideal limit to the series of successive termini to which
+our thoughts have led us and still are leading us. Each terminus
+proves provisional by leaving us unsatisfied. The truer idea is the
+one that pushes farther; so we are ever beckoned on by the ideal
+notion of an ultimate completely satisfactory terminus. I, for one,
+obey and accept that notion. I can conceive no other objective
+CONTENT to the notion of ideally perfect truth than that of
+penetration into such a terminus, nor can I conceive that the
+notion would ever have grown up, or that true ideas would ever have
+been sorted out from false or idle ones, save for the greater sum
+of satisfactions, intellectual or practical, which the truer ones
+brought with them. Can we imagine a man absolutely satisfied with an
+idea and with all its relations to his other ideas and to his
+sensible experiences, who should yet not take its content as a true
+account of reality? The matter of the true is thus
+absolutely identical with the matter of the satisfactory. You may
+put either word first in your ways of talking; but leave out that
+whole notion of SATISFACTORY WORKING or LEADING (which is the
+essence of my pragmatistic account) and call truth a static logical
+relation, independent even of POSSIBLE leadings or
+satisfactions, and it seems to me you cut all ground from under you.
+I fear that I am still very obscure. But I respectfully implore
+those who reject my doctrine because they can make nothing of
+my stumbling language, to tell us in their own name–und zwar very
+concretely and articulately!–just how the real, genuine and
+absolutely ’objective’ truth which they believe in so profoundly, is
+constituted and established. They mustn’t point to the ’reality’
+itself, for truth is only our subjective relation to realities. What
+is the nominal essence of this relation, its logical definition,
+whether or not it be ’objectively’ attainable by mortals?
+Whatever they may say it is, I have the firmest faith that my
+account will prove to have allowed for it and included it by
+anticipation, as one possible case in the total mixture of cases.
+There is, in short, no ROOM for any grade or sort of truth outside
+of the framework of the pragmatic system, outside of that jungle of
+empirical workings and leadings, and their nearer or ulterior
+terminations, of which I seem to have written so unskilfully.
+Continue...
+
+This e-book of The Meaning of Truth (a sequel to “Pragmatism”) by William James is in the public domain (via Project Gutenberg).
+This page has been created by Philipp Lenssen.
+Page last updated on January 2004.
+Complete book. Authorama - Classic Literature, free of copyright. About...
+William James : Writings 1902-1910 : The Varieties of Religious Experience / Pragmatism / A Pluralistic Universe / The Meaning of Truth / Some Problems of Philosophy / Essays (Library of America)By William JamesAt Amazon

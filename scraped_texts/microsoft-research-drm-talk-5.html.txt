@@ -1,0 +1,233 @@
+
+
+
+But what of the artist? The hardworking filmmaker, the
+ink-stained scribbler, the heroin-cured leathery rock-star? We
+poor slobs of the creative class are everyone’s favorite
+poster-children here: the RIAA and MPAA hold us up and say,
+“Won’t someone please think of the children?” File-sharers say,
+“Yeah, we’re thinking about the artists, but the labels are The
+Man, who cares what happens to you?”
+To understand what DRM does to artists, you need to understand
+how copyright and technology interact. Copyright is inherently
+technological, since the things it addresses – copying,
+transmitting, and so on – are inherently technological.
+The piano roll was the first system for cheaply copying music. It
+was invented at a time when the dominant form of entertainment in
+America was getting a talented pianist to come into your living
+room and pound out some tunes while you sang along. The music
+industry consisted mostly of sheet-music publishers.
+The player piano was a digital recording and playback system.
+Piano-roll companies bought sheet music and ripped the notes
+printed on it into 0s and 1s on a long roll of computer tape,
+which they sold by the thousands – the hundreds of thousands –
+the millions. They did this without a penny’s compensation to the
+publishers. They were digital music pirates. Arrrr!
+Predictably, the composers and music publishers went nutso. Sousa
+showed up in Congress to say that:
+	These talking machines are going to ruin the
+	artistic development of music in this
+	country. When I was a boy...in front of every
+	house in the summer evenings, you would find
+	young people together singing the songs of
+	the day or old songs. Today you hear these
+	infernal machines going night and day. We
+	will not have a vocal chord left. The vocal
+	chord will be eliminated by a process of
+	evolution, as was the tail of man when he
+	came from the ape.
+The publishers asked Congress to ban the piano roll and to create
+a law that said that any new system for reproducing music should
+be subject to a veto from their industry association. Lucky for
+us, Congress realized what side of their bread had butter on it
+and decided not to criminalize the dominant form of entertainment
+in America.
+But there was the problem of paying artists. The Constitution
+sets out the purpose of American copyright: to promote the useful
+arts and sciences. The composers had a credible story that they’d
+do less composing if they weren’t paid for it, so Congress needed
+a fix. Here’s what they came up with: anyone who paid a music
+publisher two cents would have the right to make one piano roll
+of any song that publisher published. The publisher couldn’t say
+no, and no one had to hire a lawyer at $200 an hour to argue
+about whether the payment should be two cents or a nickel.
+This compulsory license is still in place today: when Joe Cocker
+sings “With a Little Help from My Friends,” he pays a fixed fee
+to the Beatles’ publisher and away he goes – even if Ringo hates
+the idea. If you ever wondered how Sid Vicious talked Anka into
+letting him get a crack at “My Way,” well, now you know.
+That compulsory license created a world where a thousand times
+more money was made by a thousand times more creators who made a
+thousand times more music that reached a thousand times more
+people.
+This story repeats itself throughout the technological century,
+every ten or fifteen years. Radio was enabled by a voluntary
+blanket license – the music companies got together and asked for
+an antitrust exemption so that they could offer all their music
+for a flat fee. Cable TV took a compulsory: the only way cable
+operators could get their hands on broadcasts was to pirate them
+and shove them down the wire, and Congress saw fit to legalize
+this practice rather than screw around with their constituents’
+TVs.
+Sometimes, the courts and Congress decided to simply take away a
+copyright – that’s what happened with the VCR. When Sony brought
+out the VCR in 1976, the studios had already decided what the
+experience of watching a movie in your living room would look
+like: they’d licensed out their programming for use on a machine
+called a Discovision, which played big LP-sized discs that
+disintegrated after a few plays. Proto-DRM.
+The copyright scholars of the day didn’t give the VCR very good
+odds. Sony argued that their box allowed for a fair use, which is
+defined as a use that a court rules is a defense against
+infringement based on four factors: whether the use transforms
+the work into something new, like a collage; whether it uses all
+or some of the work; whether the work is artistic or mainly
+factual; and whether the use undercuts the creator’s
+business-model.
+The Betamax failed on all four fronts: when you time-shifted or
+duplicated a Hollywood movie off the air, you made a
+non-transformative use of 100 percent of a creative work in a way
+that directly undercut the Discovision licensing stream.
+Jack Valenti, the mouthpiece for the motion-picture industry,
+told Congress in 1982 that the VCR was to the American film
+industry “as the Boston Strangler is to a woman home alone.”
+But the Supreme Court ruled against Hollywood in 1984, when it
+determined that any device capable of a substantial
+non-infringing use was legal. In other words, “We don’t buy this
+Boston Strangler business: if your business model can’t survive
+the emergence of this general-purpose tool, it’s time to get
+another business-model or go broke.”
+Hollywood found another business model, as the broadcasters had,
+as the Vaudeville artists had, as the music publishers had, and
+they made more art that paid more artists and reached a wider
+audience.
+There’s one thing that every new art business-model had in
+common: it embraced the medium it lived in.
+This is the overweening characteristic of every single successful
+new medium: it is true to itself. The Luther Bible didn’t
+succeed on the axes that made a hand-copied monk Bible valuable:
+they were ugly, they weren’t in Church Latin, they weren’t read
+aloud by someone who could interpret it for his lay audience,
+they didn’t represent years of devoted-with-a-capital-D labor by
+someone who had given his life over to God. The thing that made
+the Luther Bible a success was its scalability: it was more
+popular because it was more proliferate: all success factors for
+a new medium pale beside its profligacy. The most successful
+organisms on earth are those that reproduce the most: bugs and
+bacteria, nematodes and virii. Reproduction is the best of all
+survival strategies.
+Piano rolls didn’t sound as good as the music of a skilled
+pianist: but they scaled better. Radio lacked the social
+elements of live performance, but more people could build a
+crystal set and get it aimed correctly than could pack into even
+the largest Vaudeville house. MP3s don’t come with liner notes,
+they aren’t sold to you by a hipper-than-thou record store clerk
+who can help you make your choice, bad rips and truncated files
+abound: I once downloaded a twelve-second copy of “Hey Jude” from
+the original Napster. Yet MP3 is outcompeting the CD. I don’t
+know what to do with CDs anymore: I get them, and they’re like
+the especially garment bag they give you at the fancy suit shop:
+it’s nice and you feel like a goof for throwing it out, but
+Christ, how many of these things can you usefully own? I can put
+ten thousand songs on my laptop, but a comparable pile of discs,
+with liner notes and so forth – that’s a liability: it’s a piece
+of my monthly storage-locker costs.
+Here are the two most important things to know about computers
+and the Internet:
+1. A computer is a machine for rearranging bits
+2. The Internet is a machine for moving bits from one place to
+another very cheaply and quickly
+Any new medium that takes hold on the Internet and with computers
+will embrace these two facts, not regret them. A newspaper press
+is a machine for spitting out cheap and smeary newsprint at
+speed: if you try to make it output fine art lithos, you’ll get
+junk. If you try to make it output newspapers, you’ll get the
+basis for a free society.
+And so it is with the Internet. At the heyday of Napster, record
+execs used to show up at conferences and tell everyone that
+Napster was doomed because no one wanted lossily compressed MP3s
+with no liner notes and truncated files and misspelled metadata.
+Today we hear ebook publishers tell each other and anyone who’ll
+listen that the barrier to ebooks is screen resolution. It’s
+bollocks, and so is the whole sermonette about how nice a book
+looks on your bookcase and how nice it smells and how easy it is
+to slip into the tub. These are obvious and untrue things, like
+the idea that radio will catch on once they figure out how to
+sell you hotdogs during the intermission, or that movies will
+really hit their stride when we can figure out how to bring the
+actors out for an encore when the film’s run out. Or that what
+the Protestant Reformation really needs is Luther Bibles with
+facsimile illumination in the margin and a rent-a-priest to read
+aloud from your personal Word of God.
+New media don’t succeed because they’re like the old media, only
+better: they succeed because they’re worse than the old media at
+the stuff the old media is good at, and better at the stuff the
+old media are bad at. Books are good at being paperwhite,
+high-resolution, low-infrastructure, cheap and disposable. Ebooks
+are good at being everywhere in the world at the same time for
+free in a form that is so malleable that you can just pastebomb
+it into your IM session or turn it into a page-a-day mailing
+list.
+The only really successful epublishing – I mean, hundreds of
+thousands, millions of copies distributed and read – is the
+bookwarez scene, where scanned-and-OCR’d books are distributed on
+the darknet. The only legit publishers with any success at
+epublishing are the ones whose books cross the Internet without
+technological fetter: publishers like Baen Books and my own, Tor,
+who are making some or all of their catalogs available in ASCII
+and HTML and PDF.
+The hardware-dependent ebooks, the DRM use-and-copy-restricted
+ebooks, they’re cratering. Sales measured in the tens, sometimes
+the hundreds. Science fiction is a niche business, but when
+you’re selling copies by the ten, that’s not even a business,
+it’s a hobby.
+Every one of you has been riding a curve where you read more and
+more words off of more and more screens every day through most of
+your professional careers. It’s zero-sum: you’ve also been
+reading fewer words off of fewer pages as time went by: the
+dinosauric executive who prints his email and dictates a reply to
+his secretary is info-roadkill.
+Today, at this very second, people read words off of screens for
+every hour that they can find. Your kids stare at their Game Boys
+until their eyes fall out. Euroteens ring doorbells with their
+hypertrophied, SMS-twitching thumbs instead of their index
+fingers.
+Paper books are the packaging that books come in. Cheap
+printer-binderies like the Internet Bookmobile that can produce a
+full bleed, four color, glossy cover, printed spine,
+perfect-bound book in ten minutes for a dollar are the future of
+paper books: when you need an instance of a paper book, you
+generate one, or part of one, and pitch it out when you’re done.
+I landed at SEA-TAC on Monday and burned a couple CDs from my
+music collection to listen to in the rental car. When I drop the
+car off, I’ll leave them behind. Who needs ’em?
+Whenever a new technology has disrupted copyright, we’ve changed
+copyright. Copyright isn’t an ethical proposition, it’s a
+utilitarian one. There’s nothing moral about paying a composer
+tuppence for the piano-roll rights, there’s nothing immoral
+about not paying Hollywood for the right to videotape a movie off
+your TV. They’re just the best way of balancing out so that
+people’s physical property rights in their VCRs and phonographs
+are respected and so that creators get enough of a dangling
+carrot to go on making shows and music and books and paintings.
+Technology that disrupts copyright does so because it simplifies
+and cheapens creation, reproduction and distribution. The
+existing copyright businesses exploit inefficiencies in the old
+production, reproduction and distribution system, and they’ll be
+weakened by the new technology. But new technology always gives
+us more art with a wider reach: that’s what tech is for.
+Tech gives us bigger pies that more artists can get a bite out
+of. That’s been tacitly acknowledged at every stage of the
+copyfight since the piano roll. When copyright and technology
+collide, it’s copyright that changes.
+Which means that today’s copyright – the thing that DRM
+nominally props up – didn’t come down off the mountain on two
+stone tablets. It was created in living memory to accommodate the
+technical reality created by the inventors of the previous
+generation. To abandon invention now robs tomorrow’s artists of
+the new businesses and new reach and new audiences that the
+Internet and the PC can give them.
+Continue...
+
+This eText by Cory Doctorow from June 17, 2004, belongs to the public domain.
+Complete book. Authorama - Classic Literature, free of copyright. About...

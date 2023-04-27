@@ -1,0 +1,73 @@
+The aim of this site is to bring the public domain books featured on sites like
+Project Gutenberg into easily readable HTML version.
+Project Gutenberg is the Internet's oldest producer of free electronic
+books/ eBooks/ eTexts, but most of the files provided there are in plain-text (ASCII)
+format. On this site, you will find the public domain books in XHTML.
+
+I do not select only specific authors and try to add many different books from a variety
+of genres and topics, both fiction and non-fiction -- as long as they are 
+completely free to use and public (mostly, this is true for older books, e.g. those books
+published before 1923, or those where the author is already dead for longer than 70 years).
+Some books I might have read, but not all, and I do
+not (by publishing them) in any way express my own views. Often, I find the title interesting, other
+times I read the book and liked it, or I might just know the author and trust this title should also
+be of interest. If you have any suggestions as to which books in specific you would like to see
+converted and featured on this site, give me feedback.
+To balance the subjectiveness of this selection process, I also try to add titles which I might
+not be interested in much myself but where I think their historical importance is justification
+in itself.
+
+The language of books is predominantly English, but not restricted to English. I will
+also add texts in German.
+The books found here are in XML format, XHTML1 Strict. Content and layout, as far as possible
+(with the exception of poems which need a fixed layout) are separated.
+This means for example that emphasis, if available, is formatted as "emphasis" as opposed to "italics",
+resulting in media independence (e.g., for text-to-speech, or braille output). Also, different media (like media
+screen vs print) get different CSS (Cascading Stylesheets).
+All these standards and specifics are recommended and
+maintained by the W3C (the World Wide Web Consortium), headed by Tim Berners-Lee, "the inventor of the
+World Wide Web" (while he didn't invent the concept of hypertext itself, he's
+certainly responsible for words such as HTTP, or WWW).
+
+From a developer's perspective; how is the content processed?
+I do this automatically using PHP, which reads the single source file. This source is (X)HTML and
+structured with headings (h1, h2, ...). Using that information, the generation of chapters,
+the table-of-contents, and all the other features (like side-by-side translation display), are
+automatized.
+Chapterization is the most important feature, as this would be a very mundane task to
+do manually. However the complete HTML file can still be accessed as it's ideal for printing
+the whole book in one session (if one decides one wants to).
+
+Since this site uses stylesheets for the layout, no presentational aspect is in fixed form,
+and most details you might want to change can be changed by setting different browser options.
+If you find the current form not readable, you can either create a so-called specific "user stylesheet"
+and override the settings suggested by me (which are rather simple -- black on white, sans-serif,
+no background imagery or other gimmicks that might hinder easy reading).
+
+On this web site, I do not intend to ever cover all of the public domain books available.
+(I have neither web space nor time to feature
+all conversions.) Some titles have been chosen for their small size, which should
+be additionally suited for online reading. Other because they were not available as HTML so far.
+Lately, I've also been choosing titles
+for their value to Web-windows like Google, by looking at which books get the most traffic from
+search engines.
+
+If you want to help out, just link to Authorama and tell others about it.
+
+
+Gustave Courbet:
+Portrait of Juliette Courbet as a Sleeping Child
+1841; Graphite on paper; Musee d'Orsay 
+
+
+My name is Philipp Lenssen and I'm from Germany. More from me at my blog.
+
+
+Verantwortlich für Inhalte dieser Webseite ist/ Responsible for contents of this site is: Philipp Lenssen, Rudolfstr. 8, 70190 Stuttgart
+
+
+
+The painting on this page by Gustave Courbet is in the public domain.
+This site, Authorama.com, has been created by Philipp Lenssen.
+
+

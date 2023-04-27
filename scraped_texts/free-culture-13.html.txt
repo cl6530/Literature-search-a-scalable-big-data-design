@@ -1,0 +1,209 @@
+
+
+
+
+
+In April 1996, millions of botscomputer codes designed to spider, or 
+automatically search the Internet and copy contentbegan running across the Net. 
+Page by page, these bots copied Internet-based information onto a small set of 
+computers located in a basement in San Francisco’s Presidio. Once the bots 
+finished the whole of the Internet, they started again. Over and over again, 
+once every two months, these bits of code took copies of the Internet and stored 
+them.
+By October 2001, the bots had collected more than five years of copies. And at a 
+small announcement in Berkeley, California, the archive that these copies 
+created, the Internet Archive, was opened to the world. Using a technology 
+called the Way Back Machine, you could enter a Web page, and see all of its 
+copies going back to 1996, as well as when those pages changed.
+This is the thing about the Internet that Orwell would have appreciated. In the 
+dystopia described in 1984, old newspapers were constantly updated to assure 
+that the current view of the world, approved of by the government, was not 
+contradicted by previous news reports. Thousands of workers constantly reedited 
+the past, meaning there was no way ever to know whether the story you were 
+reading today was the story that was printed on the date published on the paper.
+It’s the same with the Internet. If you go to a Web page today, there’s no way 
+for you to know whether the content you are reading is the same as the content 
+you read before. The page may seem the same, but the content could easily be 
+different. The Internet is Orwell’s libraryconstantly updated, without any 
+reliable memory.
+Until the Way Back Machine, at least. With the Way Back Machine, and the 
+Internet Archive underlying it, you can see what the Internet was. You have the 
+power to see what you remember. More importantly, perhaps, you also have the 
+power to find what you don’t 
+remember and what others might prefer you forget. [1]
+We take it for granted that we can go back to see what we remember reading. 
+Think about newspapers. If you wanted to study the reaction of your hometown 
+newspaper to the race riots in Watts in 1965, or to Bull Connor’s water cannon 
+in 1963, you could go to your public library and look at the newspapers. Those 
+papers probably exist on microfiche. If you’re lucky, they exist in paper, too. 
+Either way, you are free, using a library, to go back and remembernot just what 
+it is convenient to remember, but remember something close to the truth.
+It is said that those who fail to remember history are doomed to repeat 
+it.That’s not quite correct. We all forget history. The key is whether we have 
+a way to go back to rediscover what we forget. More directly, the key is whether 
+an objective past can keep us honest. Libraries help do that, by collecting 
+content and keeping it, for schoolchildren, for researchers, for grandma. A free 
+society presumes this knowledge.
+The Internet was an exception to this presumption. Until the Internet Archive, 
+there was no way to go back. The Internet was the quintessentially transitory 
+medium. And yet, as it becomes more important in forming and reforming society, 
+it becomes more and more important to maintain in some historical form. It’s 
+just bizarre to think that we have scads of archives of newspapers from tiny 
+towns around the world, yet there is but one copy of the Internetthe one kept 
+by the Internet Archive.
+Brewster Kahle is the founder of the Internet Archive. He was a very successful 
+Internet entrepreneur after he was a successful computer researcher. In the 
+1990s, Kahle decided he had had enough business success. It was time to become a 
+different kind of success. So he launched a series of projects designed to 
+archive human knowledge. The Internet Archive was just the first of the projects 
+of this Andrew Carnegie of the Internet. By December of 2002, the archive had 
+over 10 billion pages, and it was growing at about a billion pages a month.
+The Way Back Machine is the largest archive of human knowledge in human history. 
+At the end of 2002, it held two hundred and thirty terabytes of materialand 
+was ten times larger than the Library of Congress. And this was just the first 
+of the archives that Kahle set out to build. In addition to the Internet 
+Archive, Kahle has been constructing the Television Archive. Television, it 
+turns out, is even more ephemeral than the Internet. While much of twentieth-
+century culture was constructed through television, only a tiny proportion of 
+that culture is available for anyone to see today. Three hours of news are 
+recorded each evening by Vanderbilt Universitythanks to a specific exemption in 
+the copyright law.That content is indexed, and is available to scholars for a 
+very low fee. But other than that, [television] is almost unavailable, Kahle 
+told me. If you were Barbara Walters you could get access to [the archives], 
+but if you are just a graduate student? As Kahle put it,
+Do you remember when Dan Quayle was interacting with Murphy Brown? Remember 
+that back and forth surreal experience of a politician interacting with a 
+fictional television character? If you were a graduate student wanting to study 
+that, and you wanted to get those original back and forth exchanges between the 
+two, the 60 Minutes episode that came out after it ... it would be almost 
+impossible. ... Those materials are almost unfindable. ...
+Why is that? Why is it that the part of our culture that is recorded in 
+newspapers remains perpetually accessible, while the part that is recorded on 
+videotape is not? How is it that we’ve created a world where researchers trying 
+to understand the effect of media on nineteenth-century America will have an 
+easier time than researchers trying to understand the effect of media on 
+twentieth-century America?
+In part, this is because of the law. Early in American copyright law, copyright 
+owners were required to deposit copies of their work in libraries. These copies 
+were intended both to facilitate the spread of knowledge and to assure that a 
+copy of the work would be around once the copyright expired, so that others 
+might access and copy the work.
+These rules applied to film as well. But in 1915, the Library of Congress made 
+an exception for film. Film could be copyrighted so long as such deposits were 
+made. But the filmmaker was then allowed to borrow back the depositsfor an 
+unlimited time at no cost. In 1915 alone, there were more than 5,475 films 
+deposited and borrowed back. Thus, when the copyrights to films expire, there 
+is no copy held by any library. The copy existsif it exists at allin the 
+library archive of the film company. [2]
+The same is generally true about television. Television broadcasts were 
+originally not copyrightedthere was no way to capture the broadcasts, so there 
+was no fear of theft. But as technology enabled capturing, broadcasters relied 
+increasingly upon the law. The law required they make a copy of each broadcast 
+for the work to be copy-righted. But those copies were simply kept by the 
+broadcasters. No library had any right to them; the government didn’t demand 
+them. The content of this part of American culture is practically invisible to 
+anyone who would look.
+Kahle was eager to correct this. Before September 11, 2001, he and his allies 
+had started capturing television. They selected twenty stations from around the 
+world and hit the Record button. After September 11, Kahle, working with dozens 
+of others, selected twenty stations from around the world and, beginning October 
+11, 2001, made their coverage during the week of September 11 available free on-
+line. Anyone could see how news reports from around the world covered the events 
+of that day.
+Kahle had the same idea with film. Working with Rick Prelinger, whose archive of 
+film includes close to 45,000 ephemeral films (meaning films other than 
+Hollywood movies, films that were never copyrighted), Kahle established the 
+Movie Archive. Prelinger let Kahle digitize 1,300 films in this archive and post 
+those films on the Internet to be downloaded for free. Prelinger’s is a for-
+profit company. It sells copies of these films as stock footage. What he has 
+discovered is that after he made a significant chunk available for free, his 
+stock footage sales went up dramatically. People could easily find the material 
+they wanted to use. Some downloaded that material and made films on their own. 
+Others purchased copies to enable other films to be made. Either way, the 
+archive enabled access to this important part of our culture. Want to see a copy 
+of the Duck and Cover film that instructed children how to save themselves in 
+the middle of nuclear attack? Go to archive.org, and you can download the film 
+in a few minutesfor free.
+Here again, Kahle is providing access to a part of our culture that we otherwise 
+could not get easily, if at all. It is yet another part of what defines the 
+twentieth century that we have lost to history. The law doesn’t require these 
+copies to be kept by anyone, or to be deposited in an archive by anyone. 
+Therefore, there is no simple way to find them.
+The key here is access, not price. Kahle wants to enable free access to this 
+content, but he also wants to enable others to sell access to it. His aim is to 
+ensure competition in access to this important part of our culture. Not during 
+the commercial life of a bit of creative property, but during a second life that 
+all creative property hasa noncommercial life.
+For here is an idea that we should more clearly recognize. Every bit of creative 
+property goes through different lives. In its first life, if the creator is 
+lucky, the content is sold. In such cases the commercial market is successful 
+for the creator. The vast majority of creative property doesn’t enjoy such 
+success, but some clearly does. For that content, commercial life is extremely 
+important. Without this commercial market, there would be, many argue, much less 
+creativity.
+After the commercial life of creative property has ended, our tradition has 
+always supported a second life as well. A newspaper delivers the news every day 
+to the doorsteps of America. The very next day, it is used to wrap fish or to 
+fill boxes with fragile gifts or to build an archive of knowledge about our 
+history. In this second life, the content can continue to inform even if that 
+information is no longer sold.
+The same has always been true about books. A book goes out of print very quickly 
+(the average today is after about a year [3]). After it is out of print, it can 
+be sold in used book stores without the copyright owner getting anything and 
+stored in libraries, where many get to read the book, also for free. Used book 
+stores and libraries are thus the second life of a book. That second life is 
+extremely important to the spread and stability of culture.
+Yet increasingly, any assumption about a stable second life for creative 
+property does not hold true with the most important components of popular 
+culture in the twentieth and twenty-first centuries. For thesetelevision, 
+movies, music, radio, the Internetthere is no guarantee of a second life. For 
+these sorts of culture, it is as if we’ve replaced libraries with Barnes & Noble 
+superstores. With this culture, what’s accessible is nothing but what a certain 
+limited market demands. Beyond that, culture disappears.
+For most of the twentieth century, it was economics that made this so. It would 
+have been insanely expensive to collect and make accessible all television and 
+film and music: The cost of analog copies is extraordinarily high. So even 
+though the law in principle would have restricted the ability of a Brewster 
+Kahle to copy culture generally, the real restriction was economics. The market 
+made it impossibly difficult to do anything about this ephemeral culture; the 
+law had little practical effect.
+Perhaps the single most important feature of the digital revolution is that for 
+the first time since the Library of Alexandria, it is feasible to imagine 
+constructing archives that hold all culture produced or distributed publicly. 
+Technology makes it possible to imagine an archive of all books published, and 
+increasingly makes it possible to imagine an archive of all moving images and 
+sound.
+The scale of this potential archive is something we’ve never imagined before. 
+The Brewster Kahles of our history have dreamed about it; but we are for the 
+first time at a point where that dream is possible. As Kahle describes,
+It looks like there’s about two to three million recordings of music. Ever. 
+There are about a hundred thousand theatrical releases of movies, ... and about 
+one to two million movies [distributed] during the twentieth century. There are 
+about twenty-six million different titles of books. All of these would fit on 
+computers that would fit in this room and be able to be afforded by a small 
+company. So we’re at a turning point in our history. Universal access is the 
+goal. And the opportunity of leading a different life, based on this, is ... 
+thrilling. It could be one of the things humankind would be most proud of. Up 
+there with the Library of Alexandria, putting a man on the moon, and the 
+invention of the printing press.
+Kahle is not the only librarian. The Internet Archive is not the only archive. 
+But Kahle and the Internet Archive suggest what the future of libraries or 
+archives could be. When the commercial life of creative property ends, I don’t 
+know. But it does. And whenever it does, Kahle and his archive hint at a world 
+where this knowledge, and culture, remains perpetually available. Some will draw 
+upon it to understand it; some to criticize it. Some will use it, as Walt Disney 
+did, to re-create the past for the future. These technologies promise something 
+that had become unimaginable for much of our pasta future for our past. The 
+technology of digital arts could make the dream of the Library of Alexandria 
+real again.
+Technologists have thus removed the economic costs of building such an archive. 
+But lawyers’ costs remain. For as much as we might like to call these 
+archives, as warm as the idea of a library might seem, the content that is 
+collected in these digital spaces is also some-one’s property. And the law of 
+property restricts the freedoms that Kahle and others would exercise.
+Continue...
+
+“Free Culture” by Lawrence Lessig is available for free under a Creative Commons license.
+(You may redistribute, copy, or otherwise reuse/remix this book provided that you do so for non-commercial purposes and credit Professor Lessig.)
+Complete book. Authorama - Classic Literature, free of copyright. About...
+Free Culture: The Nature and Future of CreativityBy Lawrence LessigAt Amazon

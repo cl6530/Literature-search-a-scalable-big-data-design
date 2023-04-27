@@ -1,0 +1,300 @@
+
+
+
+
+
+Common sense is with the copyright warriors because the debate so far has been 
+framed at the extremesas a grand either/or: either property or anarchy, either 
+total control or artists won’t be paid. If that really is the choice, then the 
+warriors should win.
+The mistake here is the error of the excluded middle. There are extremes in this 
+debate, but the extremes are not all that there is. There are those who believe 
+in maximal copyrightAll Rights Reservedand those who reject copyrightNo 
+Rights Reserved. The All Rights Reserved sorts believe that you should ask 
+permission before you use a copyrighted work in any way. The No Rights 
+Reserved sorts believe you should be able to do with content as you wish, 
+regardless of whether you have permission or not.
+When the Internet was first born, its initial architecture effectively tilted in 
+the no rights reserved direction. Content could be copied perfectly and 
+cheaply; rights could not easily be controlled. Thus, regardless of anyone’s 
+desire, the effective regime of copyright under the original design of the 
+Internet was no rights reserved. Content was taken regardless of the rights. 
+Any rights were effectively unprotected.
+This initial character produced a reaction (opposite, but not quite equal) by 
+copyright owners. That reaction has been the topic of this book. Through 
+legislation, litigation, and changes to the network’s design, copyright holders 
+have been able to change the essential character of the environment of the 
+original Internet. If the original architecture made the effective default no 
+rights reserved, the future architecture will make the effective default all 
+rights reserved. The architecture and law that surround the Internet’s design 
+will increasingly produce an environment where all use of content requires 
+permission. The cut and paste world that defines the Internet today will 
+become a get permission to cut and paste world that is a creator’s nightmare.
+What’s needed is a way to say something in the middleneither all rights 
+reserved nor no rights reserved but some rights reservedand thus a way to 
+respect copyrights but enable creators to free content as they see fit. In other 
+words, we need a way to restore a set of freedoms that we could just take for 
+granted before.
+Rebuilding Freedoms Previously Presumed: Examples
+If you step back from the battle I’ve been describing here, you will recognize 
+this problem from other contexts. Think about privacy. Before the Internet, most 
+of us didn’t have to worry much about data about our lives that we broadcast to 
+the world. If you walked into a bookstore and browsed through some of the works 
+of Karl Marx, you didn’t need to worry about explaining your browsing habits to 
+your neighbors or boss. The privacy of your browsing habits was assured.
+What made it assured?
+Well, if we think in terms of the modalities I described in chapter 10, your 
+privacy was assured because of an inefficient architecture for gathering data 
+and hence a market constraint (cost) on anyone who wanted to gather that data. 
+If you were a suspected spy for North Korea, working for the CIA, no doubt your 
+privacy would not be assured. But that’s because the CIA would (we hope) find it 
+valuable enough to spend the thousands required to track you. But for most of us 
+(again, we can hope), spying doesn’t pay. The highly inefficient architecture of 
+real space means we all enjoy a fairly robust amount of privacy. That privacy is 
+guaranteed to us by friction. Not by law (there is no law protecting privacy 
+in public places), and in many places, not by norms (snooping and gossip are 
+just fun), but instead, by the costs that friction imposes on anyone who would 
+want to spy.
+Enter the Internet, where the cost of tracking browsing in particular has become 
+quite tiny. If you’re a customer at Amazon, then as you browse the pages, Amazon 
+collects the data about what you’ve looked at. You know this because at the side 
+of the page, there’s a list of recently viewed pages. Now, because of the 
+architecture of the Net and the function of cookies on the Net, it is easier to 
+collect the data than not. The friction has disappeared, and hence any privacy” 
+protected by the friction disappears, too.
+Amazon, of course, is not the problem. But we might begin to worry about 
+libraries. If you’re one of those crazy lefties who thinks that people should 
+have the right to browse in a library without the government knowing which 
+books you look at (I’m one of those lefties, too), then this change in the 
+technology of monitoring might concern you. If it becomes simple to gather and 
+sort who does what in electronic spaces, then the friction-induced privacy of 
+yesterday disappears.
+It is this reality that explains the push of many to define privacy” on the 
+Internet. It is the recognition that technology can remove what friction before 
+gave us that leads many to push for laws to do what friction did. [1] And 
+whether you’re in favor of those laws or not, it is the pattern that is 
+important here. We must take affirmative steps to secure a kind of freedom that 
+was passively provided before. A change in technology now forces those who 
+believe in privacy to affirmatively act where, before, privacy was given by 
+default.
+A similar story could be told about the birth of the free software movement. 
+When computers with software were first made available commercially, the 
+softwareboth the source code and the binarieswas free. You couldn’t run a 
+program written for a Data General machine on an IBM machine, so Data General 
+and IBM didn’t care much about controlling their software.
+That was the world Richard Stallman was born into, and while he was a researcher 
+at MIT, he grew to love the community that developed when one was free to 
+explore and tinker with the software that ran on machines. Being a smart sort 
+himself, and a talented programmer, Stallman grew to depend upon the freedom to 
+add to or modify other people’s work.
+In an academic setting, at least, that’s not a terribly radical idea. In a math 
+department, anyone would be free to tinker with a proof that someone offered. If 
+you thought you had a better way to prove a theorem, you could take what someone 
+else did and change it. In a classics department, if you believed a colleague’s 
+translation of a recently discovered text was flawed, you were free to improve 
+it. Thus, to Stallman, it seemed obvious that you should be free to tinker with 
+and improve the code that ran a machine. This, too, was knowledge. Why shouldn’t 
+it be open for criticism like anything else?
+No one answered that question. Instead, the architecture of revenue for 
+computing changed. As it became possible to import programs from one system to 
+another, it became economically attractive (at least in the view of some) to 
+hide the code of your program. So, too, as companies started selling peripherals 
+for mainframe systems. If I could just take your printer driver and copy it, 
+then that would make it easier for me to sell a printer to the market than it 
+was for you.
+Thus, the practice of proprietary code began to spread, and by the early 1980s, 
+Stallman found himself surrounded by proprietary code. The world of free 
+software had been erased by a change in the economics of computing. And as he 
+believed, if he did nothing about it, then the freedom to change and share 
+software would be fundamentally weakened.
+Therefore, in 1984, Stallman began a project to build a free operating system, 
+so that at least a strain of free software would survive. That was the birth of 
+the GNU project, into which Linus Torvalds’s Linux kernel was added to produce 
+the GNU/Linux operating system.
+Stallman’s technique was to use copyright law to build a world of software that 
+must be kept free. Software licensed under the Free Software Foundation’s GPL 
+cannot be modified and distributed unless the source code for that software is 
+made available as well. Thus, anyone building upon GPL’d software would have to 
+make their buildings free as well. This would assure, Stallman believed, that an 
+ecology of code would develop that remained free for others to build upon. His 
+fundamental goal was freedom; innovative creative code was a byproduct.
+Stallman was thus doing for software what privacy advocates now do for privacy. 
+He was seeking a way to rebuild a kind of freedom that was taken for granted 
+before. Through the affirmative use of licenses that bind copyrighted code, 
+Stallman was affirmatively reclaiming a space where free software would survive. 
+He was actively protecting what before had been passively guaranteed.
+Finally, consider a very recent example that more directly resonates with the 
+story of this book. This is the shift in the way academic and scientific 
+journals are produced.
+As digital technologies develop, it is becoming obvious to many that printing 
+thousands of copies of journals every month and sending them to libraries is 
+perhaps not the most efficient way to distribute knowledge. Instead, journals 
+are increasingly becoming electronic, and libraries and their users are given 
+access to these electronic journals through password-protected sites. Something 
+similar to this has been happening in law for almost thirty years: Lexis and 
+Westlaw have had electronic versions of case reports available to subscribers to 
+their service. Although a Supreme Court opinion is not copyrighted, and anyone 
+is free to go to a library and read it, Lexis and Westlaw are also free to 
+charge users for the privilege of gaining access to that Supreme Court opinion 
+through their respective services.
+There’s nothing wrong in general with this, and indeed, the ability to charge 
+for access to even public domain materials is a good incentive for people to 
+develop new and innovative ways to spread knowledge. The law has agreed, which 
+is why Lexis and Westlaw have been allowed to flourish. And if there’s nothing 
+wrong with selling the public domain, then there could be nothing wrong, in 
+principle, with selling access to material that is not in the public domain.
+But what if the only way to get access to social and scientific data was through 
+proprietary services? What if no one had the ability to browse this data except 
+by paying for a subscription?
+As many are beginning to notice, this is increasingly the reality with 
+scientific journals. When these journals were distributed in paper form, 
+libraries could make the journals available to anyone who had access to the 
+library. Thus, patients with cancer could become cancer experts because the 
+library gave them access. Or patients trying to understand the risks of a 
+certain treatment could research those risks by reading all available articles 
+about that treatment. This freedom was therefore a function of the institution 
+of libraries (norms) and the technology of paper journals (architecture)namely, 
+that it was very hard to control access to a paper journal.
+As journals become electronic, however, the publishers are demanding that 
+libraries not give the general public access to the journals. This means that 
+the freedoms provided by print journals in public libraries begin to disappear. 
+Thus, as with privacy and with software, a changing technology and market shrink 
+a freedom taken for granted before.
+This shrinking freedom has led many to take affirmative steps to restore the 
+freedom that has been lost. The Public Library of Science (PLoS), for example, 
+is a nonprofit corporation dedicated to making scientific research available to 
+anyone with a Web connection. Authors of scientific work submit that work to the 
+Public Library of Science. That work is then subject to peer review. If 
+accepted, the work is then deposited in a public, electronic archive and made 
+permanently available for free. PLoS also sells a print version of its work, but 
+the copyright for the print journal does not inhibit the right of anyone to 
+redistribute the work for free.
+This is one of many such efforts to restore a freedom taken for granted before, 
+but now threatened by changing technology and markets. There’s no doubt that 
+this alternative competes with the traditional publishers and their efforts to 
+make money from the exclusive distribution of content. But competition in our 
+tradition is presumptively a goodespecially when it helps spread knowledge and 
+science.
+The same strategy could be applied to culture, as a response to the increasing 
+control effected through law and technology.
+Enter the Creative Commons. The Creative Commons is a nonprofit corporation 
+established in Massachusetts, but with its home at Stanford University. Its aim 
+is to build a layer of reasonable copyright on top of the extremes that now 
+reign. It does this by making it easy for people to build upon other people’s 
+work, by making it simple for creators to express the freedom for others to take 
+and build upon their work. Simple tags, tied to human-readable descriptions, 
+tied to bullet-proof licenses, make this possible.
+Simplewhich means without a middleman, or without a lawyer. By developing a 
+free set of licenses that people can attach to their content, Creative Commons 
+aims to mark a range of content that can easily, and reliably, be built upon. 
+These tags are then linked to machine-readable versions of the license that 
+enable computers automatically to identify content that can easily be shared. 
+These three expressions togethera legal license, a human-readable description, 
+and machine-readable tagsconstitute a Creative Commons license. A Creative 
+Commons license constitutes a grant of freedom to anyone who accesses the 
+license, and more importantly, an expression of the ideal that the person 
+associated with the license believes in something different than the All or 
+No extremes. Content is marked with the CC mark, which does not mean that 
+copyright is waived, but that certain freedoms are given.
+These freedoms are beyond the freedoms promised by fair use. Their precise 
+contours depend upon the choices the creator makes. The creator can choose a 
+license that permits any use, so long as attribution is given. She can choose a 
+license that permits only noncommercial use. She can choose a license that 
+permits any use so long as the same freedoms are given to other uses (share and 
+share alike”). Or any use so long as no derivative use is made. Or any use at 
+all within developing nations. Or any sampling use, so long as full copies are 
+not made. Or lastly, any educational use.
+These choices thus establish a range of freedoms beyond the default of copyright 
+law. They also enable freedoms that go beyond traditional fair use. And most 
+importantly, they express these freedoms in a way that subsequent users can use 
+and rely upon without the need to hire a lawyer. Creative Commons thus aims to 
+build a layer of content, governed by a layer of reasonable copyright law, that 
+others can build upon. Voluntary choice of individuals and creators will make 
+this content available. And that content will in turn enable us to rebuild a 
+public domain.
+This is just one project among many within the Creative Commons. And of course, 
+Creative Commons is not the only organization pursuing such freedoms. But the 
+point that distinguishes the Creative Commons from many is that we are not 
+interested only in talking about a public domain or in getting legislators to 
+help build a public domain. Our aim is to build a movement of consumers and 
+producers of content (content conducers, as attorney Mia Garlick calls them) 
+who help build the public domain and, by their work, demonstrate the importance 
+of the public domain to other creativity.
+The aim is not to fight the All Rights Reserved sorts. The aim is to 
+complement them. The problems that the law creates for us as a culture are 
+produced by insane and unintended consequences of laws written centuries ago, 
+applied to a technology that only Jefferson could have imagined. The rules may 
+well have made sense against a background of technologies from centuries ago, 
+but they do not make sense against the background of digital technologies. New 
+ruleswith different freedoms, expressed in ways so that humans without lawyers 
+can use themare needed. Creative Commons gives people a way effectively to 
+begin to build those rules.
+Why would creators participate in giving up total control? Some participate to 
+better spread their content. Cory Doctorow, for example, is a science fiction 
+author. His first novel, Down and Out in the Magic Kingdom, was released on-
+line and for free, under a Creative Commons license, on the same day that it 
+went on sale in bookstores.
+Why would a publisher ever agree to this? I suspect his publisher reasoned like 
+this: There are two groups of people out there: (1) those who will buy Cory’s 
+book whether or not it’s on the Internet, and (2) those who may never hear of 
+Cory’s book, if it isn’t made available for free on the Internet. Some part of 
+(1) will download Cory’s book instead of buying it. Call them bad-(1)s. Some 
+part of (2) will download Cory’s book, like it, and then decide to buy it. Call 
+them (2)-goods. If there are more (2)-goods than bad-(1)s, the strategy of 
+releasing Cory’s book free on-line will probably increase sales of Cory’s 
+book.
+Indeed, the experience of his publisher clearly supports that conclusion. The 
+book’s first printing was exhausted months before the publisher had expected. 
+This first novel of a science fiction author was a total success.
+The idea that free content might increase the value of nonfree content was 
+confirmed by the experience of another author. Peter Wayner, who wrote a book 
+about the free software movement titled Free for All, made an electronic 
+version of his book free on-line under a Creative Commons license after the book 
+went out of print. He then monitored used book store prices for the book. As 
+predicted, as the number of downloads increased, the used book price for his 
+book increased, as well.
+These are examples of using the Commons to better spread proprietary content. I 
+believe that is a wonderful and common use of the Commons. There are others who 
+use Creative Commons licenses for other reasons. Many who use the sampling 
+license do so because anything else would be hypocritical. The sampling license 
+says that others are free, for commercial or noncommercial purposes, to sample 
+content from the licensed work; they are just not free to make full copies of 
+the licensed work available to others. This is consistent with their own art
+they, too, sample from others. Because the legal costs of sampling are so high 
+(Walter Leaphart, manager of the rap group Public Enemy, which was born sampling 
+the music of others, has stated that he does not allow Public Enemy to sample 
+anymore, because the legal costs are so high [2]), these artists release into 
+the creative environment content that others can build upon, so that their form 
+of creativity might grow.
+Finally, there are many who mark their content with a Creative Commons license 
+just because they want to express to others the importance of balance in this 
+debate. If you just go along with the system as it is, you are effectively 
+saying you believe in the All Rights Reserved model. Good for you, but many do 
+not. Many believe that however appropriate that rule is for Hollywood and 
+freaks, it is not an appropriate description of how most creators view the 
+rights associated with their content. The Creative Commons license expresses 
+this notion of Some Rights Reserved, and gives many the chance to say it to 
+others.
+In the first six months of the Creative Commons experiment, over 1 million 
+objects were licensed with these free-culture licenses. The next step is 
+partnerships with middleware content providers to help them build into their 
+technologies simple ways for users to mark their content with Creative Commons 
+freedoms. Then the next step is to watch and celebrate creators who build 
+content based upon content set free.
+These are first steps to rebuilding a public domain. They are not mere 
+arguments; they are action. Building a public domain is the first step to 
+showing people how important that domain is to creativity and innovation. 
+Creative Commons relies upon voluntary steps to achieve this rebuilding. They 
+will lead to a world in which more than voluntary steps are possible.
+Creative Commons is just one example of voluntary efforts by individuals and 
+creators to change the mix of rights that now govern the creative field. The 
+project does not compete with copyright; it complements it. Its aim is not to 
+defeat the rights of authors, but to make it easier for authors and creators to 
+exercise their rights more flexibly and cheaply. That difference, we believe, 
+will enable creativity to spread more easily.
+Continue...
+
+“Free Culture” by Lawrence Lessig is available for free under a Creative Commons license.
+(You may redistribute, copy, or otherwise reuse/remix this book provided that you do so for non-commercial purposes and credit Professor Lessig.)
+Complete book. Authorama - Classic Literature, free of copyright. About...
+Free Culture: The Nature and Future of CreativityBy Lawrence LessigAt Amazon

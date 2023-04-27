@@ -1,0 +1,149 @@
+
+
+
+When Sony brought out the VCR, it made a record player that could
+play Hollywood’s records, even if Hollywood didn’t like the idea.
+The industries that grew up on the back of the VCR – movie
+rentals, home taping, camcorders, even Bar Mitzvah videographers
+– made billions for Sony and its cohort.
+That was good business – even if Sony lost the Betamax-VHS
+format wars, the money on the world-with-VCRs table was enough to
+make up for it.
+But then Sony acquired a relatively tiny entertainment company
+and it started to massively screw up. When MP3 rolled around and
+Sony’s walkman customers were clamoring for a solid-state MP3
+player, Sony let its music business-unit run its show: instead of
+making a high-capacity MP3 walkman, Sony shipped its Music Clips,
+low-capacity devices that played brain-damaged DRM formats like
+Real and OpenMG. They spent good money engineering “features"
+into these devices that kept their customers from freely moving
+their music back and forth between their devices. Customers
+stayed away in droves.
+Today, Sony is dead in the water when it comes to walkmen. The
+market leaders are poky Singaporean outfits like Creative Labs –
+the kind of company that Sony used to crush like a bug, back
+before it got borged by its entertainment unit – and PC
+companies like Apple.
+That’s because Sony shipped a product that there was no market
+demand for. No Sony customer woke up one morning and said, “Damn,
+I wish Sony would devote some expensive engineering effort in
+order that I may do less with my music.” Presented with an
+alternative, Sony’s customers enthusiastically jumped ship.
+The same thing happened to a lot of people I know who used to rip
+their CDs to WMA. You guys sold them software that produced
+smaller, better-sounding rips that the MP3 rippers, but you also
+fixed it so that the songs you ripped were device-locked to their
+PCs. What that meant is that when they backed up their music to
+another hard-drive and reinstalled their OS (something that the
+spyware and malware wars has made more common than ever), they
+discovered that after they restored their music that they could
+no longer play it. The player saw the new OS as a different
+machine, and locked them out of their own music.
+There is no market demand for this “feature.” None of your
+customers want you to make expensive modifications to your
+products that make backing up and restoring even harder. And
+there is no moment when your customers will be less forgiving
+than the moment that they are recovering from catastrophic
+technology failures.
+I speak from experience. Because I buy a new Powerbook every ten
+months, and because I always order the new models the day they’re
+announced, I get a lot of lemons from Apple. That means that I
+hit Apple’s three-iTunes-authorized-computers limit pretty early
+on and found myself unable to play the hundreds of dollars’ worth
+of iTunes songs I’d bought because one of my authorized machines
+was a lemon that Apple had broken up for parts, one was in the
+shop getting fixed by Apple, and one was my mom’s computer, 3,000
+miles away in Toronto.
+If I had been a less good customer for Apple’s hardware, I would
+have been fine. If I had been a less enthusiastic evangelist for
+Apple’s products – if I hadn’t shown my mom how iTunes Music
+Store worked – I would have been fine. If I hadn’t bought so
+much iTunes music that burning it to CD and re-ripping it and
+re-keying all my metadata was too daunting a task to consider, I
+would have been fine.
+As it was Apple rewarded my trust, evangelism and out-of-control
+spending by treating me like a crook and locking me out of my own
+music, at a time when my Powerbook was in the shop – i.e., at a
+time when I was hardly disposed to feel charitable to Apple.
+I’m an edge case here, but I’m a leading edge case. If Apple
+succeeds in its business plans, it will only be a matter of time
+until even average customers have upgraded enough hardware and
+bought enough music to end up where I am.
+You know what I would totally buy? A record player that let me
+play everybody’s records. Right now, the closest I can come to
+that is an open source app called VLC, but it’s clunky and buggy
+and it didn’t come pre-installed on my computer.
+Sony didn’t make a Betamax that only played the movies that
+Hollywood was willing to permit – Hollywood asked them to do it,
+they proposed an early, analog broadcast flag that VCRs could
+hunt for and respond to by disabling recording. Sony ignored them
+and made the product they thought their customers wanted.
+I’m a Microsoft customer. Like millions of other Microsoft
+customers, I want a player that plays anything I throw at it, and
+I think that you are just the company to give it to me.
+Yes, this would violate copyright law as it stands, but Microsoft
+has been making tools of piracy that change copyright law for
+decades now. Outlook, Exchange and MSN are tools that abet
+widescale digital infringement.
+More significantly, IIS and your caching proxies all make and
+serve copies of documents without their authors’ consent,
+something that, if it is legal today, is only legal because
+companies like Microsoft went ahead and did it and dared
+lawmakers to prosecute.
+Microsoft stood up for its customers and for progress, and won so
+decisively that most people never even realized that there was a
+fight.
+Do it again! This is a company that looks the world’s roughest,
+toughest anti-trust regulators in the eye and laughs. Compared to
+anti-trust people, copyright lawmakers are pantywaists. You can
+take them with your arm behind your back.
+In Siva Vaidhyanathan’s book The Anarchist in the Library, he
+talks about why the studios are so blind to their customers’
+desires. It’s because people like you and me spent the 80s and
+the 90s telling them bad science fiction stories about impossible
+DRM technology that would let them charge a small sum of money
+every time someone looked at a movie – want to fast-forward?
+That feature costs another penny. Pausing is two cents an hour.
+The mute button will cost you a quarter.
+When Mako Analysis issued their report last month advising phone
+companies to stop supporting Symbian phones, they were just
+writing the latest installment in this story. Mako says that
+phones like my P900, which can play MP3s as ringtones, are bad
+for the cellphone economy, because it’ll put the extortionate
+ringtone sellers out of business. What Mako is saying is that
+just because you bought the CD doesn’t mean that you should
+expect to have the ability to listen to it on your MP3 player,
+and just because it plays on your MP3 player is no reason to
+expect it to run as a ringtone. I wonder how they feel about
+alarm clocks that will play a CD to wake you up in the morning?
+Is that strangling the nascent “alarm tone” market?
+The phone companies’ customers want Symbian phones and for now,
+at least, the phone companies understand that if they don’t sell
+them, someone else will.
+The market opportunity for a truly capable devices is enormous.
+There’s a company out there charging $30,000 for a $600 DVD
+jukebox – go and eat their lunch! Steve Jobs isn’t going to do
+it: he’s off at the D conference telling studio execs not to
+release hi-def movies until they’re sure no one will make a
+hi-def DVD burner that works with a PC.
+Maybe they won’t buy into his BS, but they’re also not much
+interested in what you have to sell. At the Broadcast Protection
+Discussion Group meetings where the Broadcast Flag was hammered
+out, the studios’ position was, “We’ll take anyone’s DRM except
+Microsoft’s and Philips’.” When I met with UK broadcast wonks
+about the European version of the Broadcast Flag underway at the
+Digital Video Broadcasters’ forum, they told me, “Well, it’s
+different in Europe: mostly they’re worried that some American
+company like Microsoft will get their claws into European
+television.”
+American film studios didn’t want the Japanese electronics
+companies to get a piece of the movie pie, so they fought the
+VCR. Today, everyone who makes movies agrees that they don’t want
+to let you guys get between them and their customers.
+Sony didn’t get permission. Neither should you. Go build the
+record player that can play everyone’s records.
+Because if you don’t do it, someone else will.
+Continue...
+
+This eText by Cory Doctorow from June 17, 2004, belongs to the public domain.
+Complete book. Authorama - Classic Literature, free of copyright. About...

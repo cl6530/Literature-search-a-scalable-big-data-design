@@ -1,0 +1,59 @@
+
+
+
+This is the worst of all the ideas embodied by DRM: that people
+who make record-players should be able to spec whose records you
+can listen to, and that people who make records should have a
+veto over the design of record-players.
+We’ve never had this principle: in fact, we’ve always had just
+the reverse. Think about all the things that can be plugged into
+a parallel or serial interface, which were never envisioned by
+their inventors. Our strong economy and rapid innovation are
+byproducts of the ability of anyone to make anything that plugs
+into anything else: from the Flo-bee electric razor that snaps
+onto the end of your vacuum-hose to the octopus spilling out of
+your car’s dashboard lighter socket, standard interfaces that
+anyone can build for are what makes billionaires out of nerds.
+The courts affirm this again and again. It used to be illegal to
+plug anything that didn’t come from AT&T into your phone-jack.
+They claimed that this was for the safety of the network, but
+really it was about propping up this little penny-ante racket
+that AT&T had in charging you a rental fee for your phone until
+you’d paid for it a thousand times over.
+When that ban was struck down, it created the market for
+third-party phone equipment, from talking novelty phones to
+answering machines to cordless handsets to headsets – billions
+of dollars of economic activity that had been supressed by the
+closed interface. Note that AT&T was one of the big beneficiaries
+of this: they also got into the business of making phone-kit.
+DRM is the software equivalent of these closed hardware
+interfaces. Robert Scoble is a Softie who has an excellent blog,
+where he wrote an essay about the best way to protect your
+investment in the digital music you buy. Should you buy Apple
+iTunes music, or Microsoft DRM music? Scoble argued that
+Microsoft’s music was a sounder investment, because Microsoft
+would have more downstream licensees for its proprietary format
+and therefore you’d have a richer ecosystem of devices to choose
+from when you were shopping for gizmos to play your virtual
+records on.
+What a weird idea: that we should evaluate our record-purchases
+on the basis of which recording company will allow the greatest
+diversity of record-players to play its discs! That’s like
+telling someone to buy the Betamax instead of the Edison
+Kinetoscope because Thomas Edison is a crank about licensing his
+patents; all the while ignoring the world’s relentless march to
+the more open VHS format.
+It’s a bad business. DVD is a format where the guy who makes the
+records gets to design the record players. Ask yourself: how much
+innovation has there been over the past decade of DVD players?
+They’ve gotten cheaper and smaller, but where are the weird and
+amazing new markets for DVD that were opened up by the VCR?
+There’s a company that’s manufacturing the world’s first
+HDD-based DVD jukebox, a thing that holds 30 movies, and they’re
+charging $30,000 for this thing. We’re talking about a $300
+hard drive and a $300 PC – all that other cost is the cost of
+anticompetition.
+Continue...
+
+This eText by Cory Doctorow from June 17, 2004, belongs to the public domain.
+Complete book. Authorama - Classic Literature, free of copyright. About...

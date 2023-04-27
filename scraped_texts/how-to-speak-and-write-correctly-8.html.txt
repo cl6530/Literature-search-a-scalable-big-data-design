@@ -1,0 +1,368 @@
+
+
+
+PITFALLS TO AVOID
+Common Stumbling Blocks–Peculiar Constructions–Misused Forms.
+ATTRACTION
+Very often the verb is separated from its real nominative or subject by
+several intervening words and in such cases one is liable to make the
+verb agree with the subject nearest to it. Here are a few examples
+showing that the leading writers now and then take a tumble into this
+pitfall:
+(1) “The partition which the two ministers made of the powers of
+government were singularly happy."–Macaulay.
+(Should be was to agree with its subject, partition.)
+(2) “One at least of the qualities which fit it for training ordinary men
+unfit it for training an extraordinary man."–Bagehot.
+(Should be unfits to agree with subject one.)
+(3) “The Tibetans have engaged to exclude from their country those
+dangerous influences whose appearance were the chief cause of our
+action."–The Times.
+(Should be was to agree with appearance.)
+(4) “An immense amount of confusion and indifference prevail in these
+days."–Telegraph.
+(Should be prevails to agree with amount.)
+Errors in ellipsis occur chiefly with prepositions.
+His objection and condoning of the boy’s course, seemed to say the least,
+paradoxical.
+(The preposition to should come after objection.)
+Many men of brilliant parts are crushed by force of circumstances and
+their genius forever lost to the world.
+(Some maintain that the missing verb after genius is are, but such
+is ungrammatical. In such cases the right verb should be always
+expressed: as–their genius is forever lost to the world.)
+Even the best speakers and writers are in the habit of placing a
+modifying word or words between the to and the remaining part of the
+infinitive. It is possible that such will come to be looked upon in time
+as the proper form but at present the splitting of the infinitive is
+decidedly wrong. “He was scarcely able to even talk” “She commenced
+to rapidly walk around the room.” ’To have really loved is better
+than not to have at all loved.” In these constructions it is much
+better not to split the infinitive. In every-day speech the best speakers
+sin against this observance.
+In New York City there is a certain magistrate, a member of “the 400,"
+who prides himself on his diction in language. He tells this story: A
+prisoner, a faded, battered specimen of mankind, on whose haggard face,
+deeply lined with the marks of dissipation, there still lingered faint
+reminders of better days long past, stood dejected before the judge.
+“Where are you from?” asked the magistrate. “From Boston,” answered the
+accused. “Indeed,” said the judge, “indeed, yours is a sad case, and yet
+you don’t seem to thoroughly realise how low you have sunk.” The man
+stared as if struck. “Your honor does me an injustice,” he said bitterly.
+“The disgrace of arrest for drunkenness, the mortification of being
+thrust into a noisome dungeon, the publicity and humiliation of trial in
+a crowded and dingy courtroom I can bear, but to be sentenced by a Police
+Magistrate who splits his infinitives–that is indeed the last blow.”
+The indefinite adjective pronoun one when put in place of a personal
+substantive is liable to raise confusion. When a sentence or expression
+is begun with the impersonal one the word must be used throughout in
+all references to the subject. Thus, “One must mind one’s own business if
+one wishes to succeed” may seem prolix and awkward, nevertheless it is
+the proper form. You must not say–"One must mind his business if he
+wishes to succeed,” for the subject is impersonal and therefore cannot
+exclusively take the masculine pronoun. With any one it is different.
+You may say–"If any one sins he should acknowledge it; let him not try
+to hide it by another sin.”
+This is a word that is a pitfall to the most of us whether learned or
+unlearned. Probably it is the most indiscriminately used word in the
+language. From the different positions it is made to occupy in a sentence
+it can relatively change the meaning. For instance in the sentence–"I
+only struck him that time,” the meaning to be inferred is, that the
+only thing I did to him was to strike him, not kick or otherwise abuse
+him. But if the only is shifted, so as to make the sentence read-"I
+struck him only that time” the meaning conveyed is, that only on that
+occasion and at no other time did I strike him. If another shift is made
+to-"I struck only him that time,” the meaning is again altered so that
+it signifies he was the only person I struck.
+In speaking we can by emphasis impress our meaning on our hearers, but in
+writing we have nothing to depend upon but the position of the word in
+the sentence. The best rule in regard to only is to place it
+immediately before the word or phrase it modifies or limits.
+is another word which creates ambiguity and alters meaning. If we
+substitute it for only in the preceding example the meaning of the
+sentence will depend upon the arrangement. Thus “I alone struck him at
+that time” signifies that I and no other struck him. When the sentence
+reads “I struck him alone at that time” it must be interpreted that he
+was the only person that received a blow. Again if it is made to read “I
+struck him at that time alone” the sense conveyed is that that was the
+only occasion on which I struck him. The rule which governs the correct
+use of only is also applicable to alone.
+These are words which often give to expressions a meaning far from that
+intended. Thus, “I have nothing to do with that other rascal across
+the street,” certainly means that I am a rascal myself. “I sent the
+despatch to my friend, but another villain intercepted it,” clearly
+signifies that my friend is a villain.
+A good plan is to omit these words when they can be readily done without,
+as in the above examples, but when it is necessary to use them make your
+meaning clear. You can do this by making each sentence or phrase in which
+they occur independent of contextual aid.
+Never use and with the relative in this manner: “That is the dog I
+meant and which I know is of pure breed.” This is an error quite
+common. The use of and is permissible when there is a parallel relative
+in the preceding sentence or clause. Thus: “There is the dog which I
+meant and which I know is of pure breed” is quite correct.
+A participle or participial phrase is naturally referred to the nearest
+nominative. If only one nominative is expressed it claims all the
+participles that are not by the construction of the sentence otherwise
+fixed. “John, working in the field all day and getting thirsty, drank
+from the running stream.” Here the participles working and gettingclearly refer to John. But in the sentence,–"Swept along by the mob I
+could not save him,” the participle as it were is lying around loose and
+may be taken to refer to either the person speaking or to the person
+spoken about. It may mean that I was swept along by the mob or the
+individual whom I tried to save was swept along.
+“Going into the store the roof fell” can be taken that it was the roof
+which was going into the store when it fell. Of course the meaning
+intended is that some person or persons were going into the store just as
+the roof fell.
+In all sentence construction with participles there should be such
+clearness as to preclude all possibility of ambiguity. The participle
+should be so placed that there can be no doubt as to the noun to which it
+refers. Often it is advisable to supply such words as will make the
+meaning obvious.
+Sometimes the beginning of a sentence presents quite a different
+grammatical construction from its end. This arises from the fact
+probably, that the beginning is lost sight of before the end is reached.
+This occurs frequently in long sentences. Thus: “Honesty, integrity and
+square-dealing will bring anybody much better through life than the
+absence of either.” Here the construction is broken at than. The use of
+either, only used in referring to one of two, shows that the fact is
+forgotten that three qualities and not two are under consideration. Any
+one of the three meanings might be intended in the sentence, viz.,
+absence of any one quality, absence of any two of the qualities or
+absence of the whole three qualities. Either denotes one or the other of
+two and should never be applied to any one of more than two. When we fall
+into the error of constructing such sentences as above, we should take
+them apart and reconstruct them in a different grammatical form.
+Thus,–"Honesty, integrity and square-dealing will bring a man much
+better through life than a lack of these qualities which are almost
+essential to success.”
+It must be remembered that two negatives in the English language destroy
+each other and are equivalent to an affirmative. Thus “I don’t know
+nothing about it” is intended to convey, that I am ignorant of the
+matter under consideration, but it defeats its own purpose, inasmuch as
+the use of nothing implies that I know something about it. The sentence
+should read–"I don’t know anything about it.”
+Often we hear such expressions as “He was not asked to give noopinion,” expressing the very opposite of what is intended. This sentence
+implies that he was asked to give his opinion. The double negative,
+therefore, should be carefully avoided, for it is insidious and is liable
+to slip in and the writer remain unconscious of its presence until the
+eye of the critic detects it.
+The use of the first personal pronoun should be avoided as much as
+possible in composition. Don’t introduce it by way of apology and never
+use such expressions as “In my opinion,” “As far as I can see,” “It
+appears to me,” “I believe,” etc. In what you write, the whole
+composition is expressive of your views, since you are the author,
+therefore, there is no necessity for you to accentuate or emphasize
+yourself at certain portions of it.
+Moreover, the big I’s savor of egotism! Steer clear of them as far as
+you can. The only place where the first person is permissible is in
+passages where you are stating a view that is not generally held and
+which is likely to meet with opposition.
+When two verbs depend on each other their tenses must have a definite
+relation to each other. “I shall have much pleasure in accepting your
+kind invitation” is wrong, unless you really mean that just now you
+decline though by-and-by you intend to accept; or unless you mean that
+you do accept now, though you have no pleasure in doing so, but look
+forward to be more pleased by-and-by. In fact the sequence of the
+compound tenses puzzle experienced writers. The best plan is to go back
+in thought to the time in question and use the tense you would thennaturally use. Now in the sentence “I should have liked to have gone to
+see the circus” the way to find out the proper sequence is to ask
+yourself the question–what is it I “should have liked” to do? and the
+plain answer is “to go to see the circus.” I cannot answer–"To have gone
+to see the circus” for that would imply that at a certain moment I would
+have liked to be in the position of having gone to the circus. But I do
+not mean this; I mean that at the moment at which I am speaking I wish I
+had gone to see the circus. The verbal phrase I should have likedcarries me back to the time when there was a chance of seeing the circus
+and once back at the time, the going to the circus is a thing of the
+present. This whole explanation resolves itself into the simple
+question,–what should I have liked at that time, and the answer is “to
+go to see the circus,” therefore this is the proper sequence, and the
+expression should be “I should have liked to go to see the circus.”
+If we wish to speak of something relating to a time prior to that
+indicated in the past tense we must use the perfect tense of the
+infinitive; as, “He appeared to have seen better days.” We should say “I
+expected to meet him,” not “I expected to have met him.” “We intended
+to visit you,” not ’to have visited you.” “I hoped they wouldarrive,” not “I hoped they would have arrived.” “I thought I should
+catch the bird,” not “I thought I should have caught the bird.” “I
+had intended to go to the meeting,” not “I had intended to have goneto the meeting.”
+These prepositions are often carelessly interchanged. Between has
+reference to two objects only, among to more than two. “The money was
+equally divided between them” is right when there are only two, but if
+there are more than two it should be “the money was equally divided among
+them.”
+Less refers is quantity, fewer to number. “No man has less virtues"
+should be “No man has fewer virtues.” “The farmer had some oats and a
+fewer quantity of wheat” should be “the farmer had some oats and a
+less quantity of wheat.”
+Further is commonly used to denote quantity, farther to denote
+distance. “I have walked farther than you,” “I need no furthersupply” are correct.
+Each other refers to two, one another to more than two. “Jones and
+Smith quarreled; they struck each other” is correct. “Jones, Smith and
+Brown quarreled; they struck one another” is also correct. Don’t say,
+“The two boys teach one another” nor “The three girls love each other.”
+These words are continually misapplied. Each can be applied to two
+or any higher number of objects to signify every one of the number
+independently. Every requires more than two to be spoken of and
+denotes all the persons or things taken separately. Eitherdenotes one or the other of two, and should not be used to include
+both. Neither is the negative of either, denoting not the other,
+and not the one, and relating to two persons or things considered
+separately.
+The following examples illustrate the correct usage of these words:
+Each man of the crew received a reward.
+Every man in the regiment displayed bravery.
+We can walk on either side of the street.
+Neither of the two is to blame.
+When two singular subjects are connected by neither, nor use a
+singular verb; as, ’Neither John nor James was there,” not werethere.
+Custom Has sanctioned the use of this word both with a singular and
+plural; as–"None is so blind as he who will not see” and “None areso blind as they who will not see.” However, as it is a contraction of
+no one it is better to use the singular verb.
+These verbs are very often confounded. Rise is to move or pass upward
+in any manner; as to “rise from bed;” to increase in value, to improve in
+position or rank, as “stocks rise;” “politicians rise;” “they have risen
+to honor.”
+Raise is to lift up, to exalt, to enhance, as “I raise the table;"
+“He raised his servant;” “The baker raised the price of bread.”
+The transitive verb lay, and lay, the past tense of the neuter verb
+lie, are often confounded, though quite different in meaning. The
+neuter verb to lie, meaning to lie down or rest, cannot take the
+objective after it except with a preposition. We can say “He lies on
+the ground,” but we cannot say “He lies the ground,” since the verb is
+neuter and intransitive and, as such, cannot have a direct object. With
+lay it is different. Lay is a transitive verb, therefore it takes a
+direct object after it; as “I lay a wager,” “I laid the carpet,” etc.
+Of a carpet or any inanimate subject we should say, “It lies on the
+floor,” “A knife lies on the table,” not lays. But of a person we
+say–"He lays the knife on the table,” not “He lies––.” Lay being
+the past tense of the neuter to lie (down) we should say, “He lay on
+the bed,” and lain being its past participle we must also say “He has
+lain on the bed.”
+We can say “I lay myself down.” “He laid himself down” and such
+expressions.
+It is imperative to remember in using these verbs that to lay means to
+do something, and to lie means to be in a state of rest.
+“Says I” is a vulgarism; don’t use it. “I said” is correct form.
+IN–INTO
+Be careful to distinguish the meaning of these two little prepositions
+and don’t interchange them. Don’t say “He went in the room” nor “My
+brother is into the navy.” In denotes the place where a person or
+thing, whether at rest or in motion, is present; and into denotes
+entrance. “He went into the room;” “My brother is in the navy” are
+correct.
+Don’t confound the two. Eat is present, ate is past. “I eat the
+bread” means that I am continuing the eating; “I ate the bread” means
+that the act of eating is past. Eaten is the perfect participle, but
+often eat is used instead, and as it has the same pronunciation (et) of
+ate, care should be taken to distinguish the past tense, I ate from
+the perfect I have eaten (eat).
+Remember that the first person takes precedence of the second and the
+second takes precedence of the third. When Cardinal Wolsey said Ego
+et Rex (I and the King), he showed he was a good grammarian, but a bad
+courtier.
+“I am come” points to my being here, while “I have come” intimates that
+I have just arrived. When the subject is not a person, the verb to beshould be used in preference to the verb to have; as, “The box is come"
+instead of “The box has come.”
+The interchange of these two parts of the irregular or so-called strongverbs is, perhaps, the breach oftenest committed by careless speakers and
+writers. To avoid mistakes it is requisite to know the principal parts of
+these verbs, and this knowledge is very easy of acquirement, as there are
+not more than a couple of hundred of such verbs, and of this number but a
+small part is in daily use. Here are some of the most common blunders: “I
+seen” for “I saw;” “I done it” for “I did it;” “I drunk” for “I drank;"
+“I begun” for “I began;” “I rung” for “I rang;” “I run” for “I ran;” “I
+sung” for “I sang;” “I have chose” for “I have chosen;” “I have drove"
+for “I have driven;” “I have wore” for “I have worn;” “I have trod” for
+“I have trodden;” “I have shook” for “I have shaken;” “I have fell” for
+“I have fallen;” “I have drank” for “I have drunk;” “I have began” for “I
+have begun;” “I have rang” for “I have rung;” “I have rose” for “I have
+risen;” “I have spoke” for “I have spoken;” “I have broke” for “I have
+broken.” “It has froze” for “It has frozen.” “It has blowed” for “It has
+blown.” “It has flowed” (of a bird) for “It has flown.”
+N. B.–The past tense and past participle of To Hang is hanged or
+hung. When you are talking about a man meeting death on the gallows,
+say “He was hanged"; when you are talking about the carcass of an animal
+say, “It was hung,” as “The beef was hung dry.” Also say your coat ’washung on a hook.”
+Don’t forget that prepositions always take the objective case. Don’t say
+“Between you and I“; say “Between you and me“
+Two prepositions should not govern one objective unless there is an
+immediate connection between them. “He was refused admission to and
+forcibly ejected from the school” should be “He was refused admission to
+the school and forcibly ejected from it.”
+Don’t say “I shall summons him,” but “I shall summon him.” Summon is a
+verb, summons, a noun.
+It is correct to say “I shall get a summons for him,” not a summon.
+“My brother has an undeniable character” is wrong if I wish to convey the
+idea that he has a good character. The expression should be in that case
+“My brother has an unexceptionable character.” An undeniable character
+is a character that cannot be denied, whether bad or good. An
+unexceptionable character is one to which no one can take exception.
+Very many mistakes occur in the use of the pronouns. “Let you and I go"
+should be “Let you and me go.” “Let them and we go” should be “Let them
+and us go.” The verb let is transitive and therefore takes the objective
+case.
+“Give me them flowers” should be “Give me those flowers"; “I mean
+them three” should be “I mean those three.” Them is the objective case
+of the personal pronoun and cannot be used adjectively like the
+demonstrative adjective pronoun. “I am as strong as him” should be “I
+am as strong as he“; “I am younger than her” should be “I am younger
+than she;” “He can write better than me” should be “He can write
+better than I,” for in these examples the objective cases him, herand me are used wrongfully for the nominatives. After each of the
+misapplied pronouns a verb is understood of which each pronoun is the
+subject. Thus, “I am as strong as he (is).” “I am younger than she (is)."
+“He can write better than I (can).”
+Don’t say ’It is me;” say ’It is I” The verb To Be of which is is a
+part takes the same case after it that it has before it. This holds good
+in all situations as well as with pronouns.
+The verb To Be also requires the pronouns joined to it to be in the
+same case as a pronoun asking a question; The nominative I requires the
+nominative who and the objectives me, him, her, its, you,
+them, require the objective whom.
+“Whom do you think I am?” should be ’Who do you think I am?” and
+“Who do they suppose me to be?” should be ’Whom do they suppose me to
+be?” The objective form of the Relative should be always used, in
+connection with a preposition. “Who do you take me for?” should be
+“Whom do, etc.” “Who did you give the apple to?” should be “Whom did
+you give the apple to,” but as pointed out elsewhere the preposition
+should never end a sentence, therefore, it is better to say, “To whom did
+you give the apple?”
+After transitive verbs always use the objective cases of the pronouns.
+For ’He and they we have seen,” say ’Him and them we have seen.”
+“The hurt it was that painful it made him cry,” say “so painful.”
+THESE–THOSE
+“Don’t say, These kind; those sort. Kind and sort are each singular
+and require the singular pronouns this and that. In connection with
+these demonstrative adjective pronouns remember that this and theserefer to what is near at hand, that and those to what is more
+distant; as, this book (near me), that book (over there), theseboys (near), those boys (at a distance).
+“This much is certain” should be ’Thus much or so much is certain.”
+FLEE–FLY
+These are two separate verbs and must not be interchanged. The principal
+parts of flee are flee, fled, fled; those of fly are fly,
+flew, flown. To flee is generally used in the meaning of getting
+out of danger. To fly means to soar as a bird. To say of a man “He has
+flown from the place” is wrong; it should be “He has fled from the
+place.” We can say with propriety that “A bird has flown from the
+place.”
+Don’t say “He is well known through the land,” but “He is well known
+throughout the land.”
+Don’t mistake these two words so nearly alike. Vocation is the employment,
+business or profession one follows for a living; avocation is some
+pursuit or occupation which diverts the person from such employment,
+business or profession. Thus
+“His vocation was the law, his avocation, farming.”
+In the subjunctive mood the plural form were should be used with a
+singular subject; as, “If I were,” not was. Remember the plural form
+of the personal pronoun you always takes were, though it may denote
+but one. Thus, ’You were,” never ’you was.” ’If I was him” is a
+very common expression. Note the two mistakes in it,–that of the verb
+implying a condition, and that of the objective case of the pronoun. It
+should read If I were he. This is another illustration of the rule
+regarding the verb To Be, taking the same case after it as before it;
+were is part of the verb To Be, therefore as the nominative (I) goes
+before it, the nominative (he) should come after it.
+A becomes an before a vowel or before h mute for the sake of euphony
+or agreeable sound to the ear. An apple, an orange, an heir, an
+honor, etc.
+Continue...
+
+This eBook of “How to Speak and Write Correctly” by Joseph Devlin belongs to the public domain.
+Complete book. Authorama - Classic Literature, free of copyright. About...
+The Elements of Style by William Strunk Jr. & How To Speak And Write Correctly by Joseph Devlin - Special EditionBy William Strunk Jr.At Amazon

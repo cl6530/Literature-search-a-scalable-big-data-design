@@ -1,0 +1,276 @@
+
+
+
+
+
+William Shakespeare wrote Romeo and Juliet in 1595. The play was first 
+published in 1597. It was the eleventh major play that Shakespeare had written. 
+He would continue to write plays through 1613, and the plays that he wrote have 
+continued to define Anglo-American culture ever since. So deeply have the works 
+of a sixteenth-century writer seeped into our culture that we often don’t even 
+recognize their source. I once overheard someone commenting on Kenneth Branagh’s 
+adaptation of Henry V: I liked it, but Shakespeare is so full of clichés.
+In 1774, almost 180 years after Romeo and Juliet was written, the copy-right 
+for the work was still thought by many to be the exclusive right of a single 
+London publisher, Jacob Tonson. [1] Tonson was the most prominent of a small 
+group of publishers called the Conger [2] who controlled bookselling in England 
+during the eighteenth century. The Conger claimed a perpetual right to control 
+the copy of books that they had acquired from authors. That perpetual right 
+meant that no one else could publish copies of a book to which they held the 
+copyright. Prices of the classics were thus kept high; competition to produce 
+better or cheaper editions was eliminated.
+Now, there’s something puzzling about the year 1774 to anyone who knows a little 
+about copyright law. The better-known year in the history of copyright is 1710, 
+the year that the British Parliament adopted the first copyright act. Known as 
+the Statute of Anne, the act stated that all published works would get a 
+copyright term of fourteen years, renewable once if the author was alive, and 
+that all works already published by 1710 would get a single term of twenty-one 
+additional years. [3] Under this law, Romeo and Juliet should have been free 
+in 1731. So why was there any issue about it still being under Tonson’s control 
+in 1774?
+The reason is that the English hadn’t yet agreed on what a copy-right was
+indeed, no one had. At the time the English passed the Statute of Anne, there 
+was no other legislation governing copyrights. The last law regulating 
+publishers, the Licensing Act of 1662, had expired in 1695. That law gave 
+publishers a monopoly over publishing, as a way to make it easier for the Crown 
+to control what was published. But after it expired, there was no positive law 
+that said that the publishers, or Stationers, had an exclusive right to print 
+books.
+There was no positive law, but that didn’t mean that there was no law. The 
+Anglo-American legal tradition looks to both the words of legislatures and the 
+words of judges to know the rules that are to govern how people are to behave. 
+We call the words from legislatures positive law. We call the words from 
+judges common law. The common law sets the background against which 
+legislatures legislate; the legislature, ordinarily, can trump that background 
+only if it passes a law to displace it. And so the real question after the 
+licensing statutes had expired was whether the common law protected a copyright, 
+independent of any positive law.
+This question was important to the publishers, or booksellers, as they were 
+called, because there was growing competition from foreign publishers. The 
+Scottish, in particular, were increasingly publishing and exporting books to 
+England. That competition reduced the profits of the Conger, which reacted by 
+demanding that Parliament pass a law to again give them exclusive control over 
+publishing. That demand ultimately resulted in the Statute of Anne.
+The Statute of Anne granted the author or proprietor of a book an exclusive 
+right to print that book. In an important limitation, however, and to the horror 
+of the booksellers, the law gave the bookseller that right for a limited term. 
+At the end of that term, the copyright expired, and the work would then be 
+free and could be published by anyone. Or so the legislature is thought to have 
+believed.
+Now, the thing to puzzle about for a moment is this: Why would Parliament limit 
+the exclusive right? Not why would they limit it to the particular limit they 
+set, but why would they limit the right at all?
+For the booksellers, and the authors whom they represented, had a very strong 
+claim. Take Romeo and Juliet as an example: That play was written by 
+Shakespeare. It was his genius that brought it into the world. He didn’t take 
+anybody’s property when he created this play (that’s a controversial claim, but 
+never mind), and by his creating this play, he didn’t make it any harder for 
+others to craft a play. So why is it that the law would ever allow someone else 
+to come along and take Shakespeare’s play without his, or his estate’s, 
+permission? What reason is there to allow someone else to steal Shakespeare’s 
+work?
+The answer comes in two parts. We first need to see something special about the 
+notion of copyright that existed at the time of the Statute of Anne. Second, 
+we have to see something important about booksellers.
+First, about copyright. In the last three hundred years, we have come to apply 
+the concept of copyright ever more broadly. But in 1710, it wasn’t so much a 
+concept as it was a very particular right. The copyright was born as a very 
+specific set of restrictions: It forbade others from reprinting a book. In 1710, 
+the copy-right was a right to use a particular machine to replicate a 
+particular work. It did not go beyond that very narrow right. It did not control 
+any more generally how a work could be used. Today the right includes a large 
+collection of restrictions on the freedom of others: It grants the author the 
+exclusive right to copy, the exclusive right to distribute, the exclusive right 
+to perform, and so on.
+So, for example, even if the copyright to Shakespeare’s works were perpetual, 
+all that would have meant under the original meaning of the term was that no one 
+could reprint Shakespeare’s work without the permission of the Shakespeare 
+estate. It would not have controlled anything, for example, about how the work 
+could be performed, whether the work could be translated, or whether Kenneth 
+Branagh would be allowed to make his films. The copy-right was only an 
+exclusive right to printno less, of course, but also no more.
+Even that limited right was viewed with skepticism by the British. They had had 
+a long and ugly experience with exclusive rights, especially exclusive 
+rights granted by the Crown. The English had fought a civil war in part about 
+the Crown’s practice of handing out monopoliesespecially monopolies for works 
+that already existed. King Henry VIII granted a patent to print the Bible and a 
+monopoly to Darcy to print playing cards. The English Parliament began to fight 
+back against this power of the Crown. In 1656, it passed the Statute of 
+Monopolies, limiting monopolies to patents for new inventions. And by 1710, 
+Parliament was eager to deal with the growing monopoly in publishing.
+Thus the copy-right, when viewed as a monopoly right, was naturally viewed as 
+a right that should be limited. (However convincing the claim that it’s my 
+property, and I should have it forever, try sounding convincing when uttering, 
+It’s my monopoly, and I should have it forever.) The state would protect the 
+exclusive right, but only so long as it benefited society. The British saw the 
+harms from special-interest favors; they passed a law to stop them.
+Second, about booksellers. It wasn’t just that the copyright was a monopoly. It 
+was also that it was a monopoly held by the booksellers. Booksellers sound 
+quaint and harmless to us. They were not viewed as harmless in seventeenth-
+century England. Members of the Conger were increasingly seen as monopolists of 
+the worst kindtools of the Crown’s repression, selling the liberty of England 
+to guarantee themselves a monopoly profit. The attacks against these monopolists 
+were harsh: Milton described them as old patentees and monopolizers in the 
+trade of book-selling; they were men who do not therefore labour in an honest 
+profession to which learning is indetted. [4]
+Many believed the power the booksellers exercised over the spread of knowledge 
+was harming that spread, just at the time the Enlightenment was teaching the 
+importance of education and knowledge spread generally. The idea that knowledge 
+should be free was a hallmark of the time, and these powerful commercial 
+interests were interfering with that idea.
+To balance this power, Parliament decided to increase competition among 
+booksellers, and the simplest way to do that was to spread the wealth of 
+valuable books. Parliament therefore limited the term of copyrights, and thereby 
+guaranteed that valuable books would become open to any publisher to publish 
+after a limited time. Thus the setting of the term for existing works to just 
+twenty-one years was a compromise to fight the power of the booksellers. The 
+limitation on terms was an indirect way to assure competition among publishers, 
+and thus the construction and spread of culture.
+When 1731 (1710 + 21) came along, however, the booksellers were getting anxious. 
+They saw the consequences of more competition, and like every competitor, they 
+didn’t like them. At first booksellers simply ignored the Statute of Anne, 
+continuing to insist on the perpetual right to control publication. But in 1735 
+and 1737, they tried to persuade Parliament to extend their terms. Twenty-one 
+years was not enough, they said; they needed more time.
+Parliament rejected their requests. As one pamphleteer put it, in words that 
+echo today,
+I see no Reason for granting a further Term now, which will not hold as well 
+for granting it again and again, as often as the Old ones Expire; so that should 
+this Bill pass, it will in Effect be establishing a perpetual Monopoly, a Thing 
+deservedly odious in the Eye of the Law; it will be a great Cramp to Trade, a 
+Discouragement to Learning, no Benefit to the Authors, but a general Tax on the 
+Publick; and all this only to increase the private Gain of the Booksellers. [5]
+Having failed in Parliament, the publishers turned to the courts in a series of 
+cases. Their argument was simple and direct: The Statute of Anne gave authors 
+certain protections through positive law, but those protections were not 
+intended as replacements for the common law. Instead, they were intended simply 
+to supplement the common law. Under common law, it was already wrong to take 
+another person’s creative property and use it without his permission. The 
+Statute of Anne, the booksellers argued, didn’t change that. Therefore, just 
+because the protections of the Statute of Anne expired, that didn’t mean the 
+protections of the common law expired: Under the common law they had the right 
+to ban the publication of a book, even if its Statute of Anne copyright had 
+expired. This, they argued, was the only way to protect authors.
+This was a clever argument, and one that had the support of some of the leading 
+jurists of the day. It also displayed extraordinary chutzpah. Until then, as law 
+professor Raymond Patterson has put it, The publishers ... had as much concern 
+for authors as a cattle rancher has for cattle. [6] The bookseller didn’t care 
+squat for the rights of the author. His concern was the monopoly profit that the 
+author’s work gave.
+The booksellers’ argument was not accepted without a fight. The hero of this 
+fight was a Scottish bookseller named Alexander Donaldson. [7]
+Donaldson was an outsider to the London Conger. He began his career in Edinburgh 
+in 1750. The focus of his business was inexpensive reprints of standard works 
+whose copyright term had expired, at least under the Statute of Anne. [8] 
+Donaldson’s publishing house prospered and became something of a center for 
+literary Scotsmen. [A]mong them, Professor Mark Rose writes, was the young 
+James Boswell who, together with his friend Andrew Erskine, published an 
+anthology of contemporary Scottish poems with Donaldson. [9]
+When the London booksellers tried to shut down Donaldson’s shop in Scotland, he 
+responded by moving his shop to London, where he sold inexpensive editions of 
+the most popular English books, in defiance of the supposed common law right of 
+Literary Property. [10] His books undercut the Conger prices by 30 to 50 
+percent, and he rested his right to compete upon the ground that, under the 
+Statute of Anne, the works he was selling had passed out of protection.
+The London booksellers quickly brought suit to block piracy like Donaldson’s. 
+A number of actions were successful against the pirates, the most important 
+early victory being Millar v. Taylor.
+Millar was a bookseller who in 1729 had purchased the rights to James Thomson’s 
+poem The Seasons. Millar complied with the requirements of the Statute of 
+Anne, and therefore received the full protection of the statute. After the term 
+of copyright ended, Robert Taylor began printing a competing volume. Millar 
+sued, claiming a perpetual common law right, the Statute of Anne 
+notwithstanding. [11]
+Astonishingly to modern lawyers, one of the greatest judges in English history, 
+Lord Mansfield, agreed with the booksellers. Whatever protection the Statute of 
+Anne gave booksellers, it did not, he held, extinguish any common law right. The 
+question was whether the common law would protect the author against subsequent 
+pirates. Mansfield’s answer was yes: The common law would bar Taylor from 
+reprinting Thomson’s poem without Millar’s permission. That common law rule thus 
+effectively gave the booksellers a perpetual right to control the publication of 
+any book assigned to them.
+Considered as a matter of abstract justicereasoning as if justice were just a 
+matter of logical deduction from first principlesMansfield’s conclusion might 
+make some sense. But what it ignored was the larger issue that Parliament had 
+struggled with in 1710: How best to limit the monopoly power of publishers? 
+Parliament’s strategy was to offer a term for existing works that was long 
+enough to buy peace in 1710, but short enough to assure that culture would pass 
+into competition within a reasonable period of time. Within twenty-one years, 
+Parliament believed, Britain would mature from the controlled culture that the 
+Crown coveted to the free culture that we inherited.
+The fight to defend the limits of the Statute of Anne was not to end there, 
+however, and it is here that Donaldson enters the mix.
+Millar died soon after his victory, so his case was not appealed. His estate 
+sold Thomson’s poems to a syndicate of printers that included Thomas Beckett. 
+[12] Donaldson then released an unauthorized edition of Thomson’s works. 
+Beckett, on the strength of the decision in Millar, got an injunction against 
+Donaldson. Donaldson appealed the case to the House of Lords, which functioned 
+much like our own Supreme Court. In February of 1774, that body had the chance 
+to interpret the meaning of Parliament’s limits from sixty years before.
+As few legal cases ever do, Donaldson v. Beckett drew an enormous amount of 
+attention throughout Britain. Donaldson’s lawyers argued that whatever rights 
+may have existed under the common law, the Statute of Anne terminated those 
+rights. After passage of the Statute of Anne, the only legal protection for an 
+exclusive right to control publication came from that statute. Thus, they 
+argued, after the term specified in the Statute of Anne expired, works that had 
+been protected by the statute were no longer protected.
+The House of Lords was an odd institution. Legal questions were presented to the 
+House and voted upon first by the law lords, members of special legal 
+distinction who functioned much like the Justices in our Supreme Court. Then, 
+after the law lords voted, the House of Lords generally voted.
+The reports about the law lords’ votes are mixed. On some counts, it looks as if 
+perpetual copyright prevailed. But there is no ambiguity about how the House of 
+Lords voted as whole. By a two-to-one majority (22 to 11) they voted to reject 
+the idea of perpetual copyrights. Whatever one’s understanding of the common 
+law, now a copyright was fixed for a limited time, after which the work 
+protected by copyright passed into the public domain.
+The public domain. Before the case of Donaldson v. Beckett, there was no 
+clear idea of a public domain in England. Before 1774, there was a strong 
+argument that common law copyrights were perpetual. After 1774, the public 
+domain was born. For the first time in Anglo- American history, the legal 
+control over creative works expired, and the greatest works in English history
+including those of Shakespeare, Bacon, Milton, Johnson, and Bunyanwere free of 
+legal restraint.
+It is hard for us to imagine, but this decision by the House of Lords fueled an 
+extraordinarily popular and political reaction. In Scotland, where most of the 
+pirate publishers did their work, people celebrated the decision in the 
+streets. As the Edinburgh Advertiser reported, No private cause has so much 
+engrossed the attention of the public, and none has been tried before the House 
+of Lords in the decision of which so many individuals were interested. Great 
+rejoicing in Edinburgh upon victory over literary property: bonfires and 
+illuminations. [13]
+In London, however, at least among publishers, the reaction was equally strong 
+in the opposite direction. The Morning Chronicle reported:
+By the above decision ... near 200,000 pounds worth of what was honestly 
+purchased at public sale, and which was yesterday thought property is now 
+reduced to nothing. The Booksellers of London and Westminster, many of whom sold 
+estates and houses to purchase Copy-right, are in a manner ruined, and those who 
+after many years industry thought they had acquired a competency to provide for 
+their families now find themselves without a shilling to devise to their 
+successors. [14]
+ 
+Ruined is a bit of an exaggeration. But it is not an exaggeration to say that 
+the change was profound. The decision of the House of Lords meant that the 
+booksellers could no longer control how culture in England would grow and 
+develop. Culture in England was thereafter free. Not in the sense that 
+copyrights would not be respected, for of course, for a limited time after a 
+work was published, the bookseller had an exclusive right to control the 
+publication of that book. And not in the sense that books could be stolen, for 
+even after a copyright expired, you still had to buy the book from someone. But 
+/free in the sense that the culture and its growth would no longer be 
+controlled by a small group of publishers. As every free market does, this free 
+market of free culture would grow as the consumers and producers chose. English 
+culture would develop as the many English readers chose to let it developchose 
+in the books they bought and wrote; chose in the memes they repeated and 
+endorsed. Chose in a competitive context, not a context in which the choices 
+about what culture is available to people and how they get access to it are made 
+by the few despite the wishes of the many.
+At least, this was the rule in a world where the Parliament is anti-monopoly, 
+resistant to the protectionist pleas of publishers. In a world where the 
+Parliament is more pliant, free culture would be less protected.
+Continue...
+
+“Free Culture” by Lawrence Lessig is available for free under a Creative Commons license.
+(You may redistribute, copy, or otherwise reuse/remix this book provided that you do so for non-commercial purposes and credit Professor Lessig.)
+Complete book. Authorama - Classic Literature, free of copyright. About...
+Free Culture: The Nature and Future of CreativityBy Lawrence LessigAt Amazon

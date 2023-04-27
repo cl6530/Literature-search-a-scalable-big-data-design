@@ -1,0 +1,485 @@
+
+
+
+
+
+Among the German epic poems of the Middle Ages the Nibelungenlied [4]
+enjoyed an exceptional popularity, as is evident from the large number of
+manuscripts–some thirty, either complete or fragmentary–that have been
+preserved from the centuries immediately following its appearance. Three
+are of prime importance as texts, namely, those preserved now in Munich,
+St. Gall, and Donaueschingen, and cited as A, B, and C respectively.
+Since the time when Lachmann, about a century ago, made the first
+scientific study of the poem, a whole flood of writings has been poured
+forth discussing the relative merits of these texts. Each in turn has had
+its claims advocated with warmth and even acrimony. None of these three
+principal manuscripts, however, offers the poem in its earliest form;
+they all point to a still earlier version. It is now generally admitted
+that the St. Gall manuscript (B), according to which the present
+translation has been made, contains the best and most nearly original
+text.
+[4] The closing strophe of MS. C calls the poem der Nibelunge liet, or
+    Nibelungenlied, i.e. the lay of the Nibelungen, and this is the title
+    by which it is commonly known. MSS. A and B have in the corresponding
+    strophe der Nibelunge not, i.e. the ’need’, ’distress’,
+    ’downfall’ of the Nibelungen. In the title of the poem ’Nibelungen’
+    is simply equivalent to ’Burgundians’: the poem relates the downfall
+    of the Burgundian kings and their people. Originally the Nibelungen
+    were, as their name, which is connected with nebel, ’mist’,
+    ’gloom’, signifies, the powers of darkness to whom the light-hero
+    Siegfried fell a prey. After Siegfried obtains possession of the
+    treasure the name Nibelungen is still applied to Alberich and the
+    dwarfs who guard it and who are now Siegfried’s vassals. Then after
+    Siegfried’s death the name is given to the Burgundians. It is a
+    mistake to suppose that the name was applied in each case to those
+    who became possessors of the hoard, for Siegfried himself is never so
+    designated.
+Hand in hand with the discussion of the relative authenticity of the
+manuscripts went the consideration of another more important literary
+question,–the evolution of the poem itself. Even if we knew nothing of
+the history of the Nibelungen saga as revealed in the Edda and through
+other literary and historic sources, a reading of the poem would give us
+unmistakable hints that it is not, in its present form, a perfect
+literary unit. We detect inconsistencies in matter and inequalities of
+style that prove it to be a remodelling of material already existing in
+some earlier form. What, then, has been the history of its evolution? How
+did this primeval Siegfried myth, this historical saga of the Burgundians
+and Attila, first come to be part of the poetic stock of the German
+people? What was its earliest poetic form, and what series of
+transformations did it pass through during seven centuries of growth?
+These and many kindred questions present themselves, and the search for
+answers to them takes us through many winding labyrinths of the nation’s
+contemporary history. Few products of German literature have so exercised
+and tantalized critics as the Nibelungenlied.
+In this connection we have to remind ourselves that comparatively little
+of what must have been the large body of native poetry in Germany
+previous to the eleventh century has come down to us. Barely enough has
+been preserved to show the path of the nation’s literary progress. Some
+of the important monuments have been saved by chance, while others of
+equal or perhaps greater value have been irrecoverably lost. The interest
+in the various incidents of the Nibelungen story was sufficient to keep
+it alive among the people and hand it down orally through many
+generations. If we could observe it as it passed from age to age we
+should doubtless see it undergoing continuous change according to the
+time and the class of the people that were the preservers of the native
+literature in its many ups and downs. Lachmann in the year 1816 was the
+first to bring scientific criticism to bear on the question of the
+Nibelungenlied and its origin. Applying to it the same methods as had
+recently been used by Wolf in his criticism of the Homeric poems, he
+thought he was able to discover as the basis of the complete epic a cycle
+of twenty separate lieder, ballads or shorter episodic poems, on the
+strength of which belief he went so far as to publish an edition of the
+poem in which he made the division into the twenty separate lays and
+eliminated those strophes (more than one third of the whole number) that
+he deemed not genuine. It is now generally admitted, however, that the
+pioneer of Nibelungen investigation fell here into over-positive
+refinements of literary criticism. Separate shorter poems there doubtless
+existed narrating separate episodes of the story, but these are no longer
+to be arrived at by a process of critical disintegration and pruning of
+the epic as we have it. An examination of the twenty lieder according
+to Lachmann’s division convinces us that they are not separate units in
+the sense he conceived them to be. Though these twenty lieder may be
+based upon a number of earlier episodic poems, yet the latter already
+constituted a connected series. They were already like so many scenes of
+a gradually developing drama. Events were foreshadowed in one that were
+only fulfilled in another, and the incidents of later ones are often only
+intelligible on the supposition of an acquaintance with motives that
+originated in preceding ones. It is in this sense only, not according to
+Lachmann’s overwrought theory, that we are justified in speaking of a
+liedercyclus, or cycle of separate episodic poems, as the stage of the
+epic antecedent to the complete form in which we now have it. But beyond
+this cycle we cannot trace it back. How the mythical saga of Siegfried
+and the Nibelungen, and the story of the Burgundians and Attila, were
+first sung in alliterative lays in the Migration Period, how as heathen
+song they were pushed aside or slowly influenced by the spirit of
+Christianity, how with changing time they changed also their outward
+poetical garb from alliteration to rhyme and altered verse-form, till at
+last in the twelfth century they have become the cycle of poems from
+which the great epic of the Nibelungenlied could be constructed–of all
+this we may form a faint picture from the development of the literature
+in general, but direct written record of it is almost completely wanting.
+The twelfth and thirteenth centuries witnessed far-reaching changes in
+the social and intellectual life of the German lands, the leading feature
+of which is the high development of all that is included under the name
+of chivalry. It is marked, too, by a revival of the native literature
+such as had not been known before, a revival which is due almost entirely
+to its cultivation by the nobility. From emperor down to the simple
+knight they were patrons of poetry and, what is most striking, nearly all
+the poets themselves belong to the knightly class. The drama has not yet
+begun, but in the field of epic and lyric there appear about the year
+1200 poets who are among the greatest that German literature even down to
+the present time has to show. The epic poetry of that period, though
+written almost entirely by the knights, is of two distinct kinds
+according to its subject: on the one hand what is called the Court Epic,
+on the other hand the National, or Popular, Epic. The Court Epic follows
+for the most part French models and deals chiefly with the life of
+chivalry, whose ideals were embodied in king Arthur and his circle of
+knights; the National Epic drew its subjects from the national German
+saga, its two great products being the Nibelungenlied and the poem of
+Gudrun. Court Epic and National Epic are further distinct in form, the
+Court Epic being written in the rhymed couplets popularized in modern
+times in English by Sir Walter Scott, while the National Epic is composed
+in four-lined strophes.
+Though we know the name and more or less of the life of the authors of
+the many court epics of the period, the name of the poet who gave the
+Nibelungenlied its final form has not been recorded. As we have seen, the
+poem is at bottom of a truly popular, national character, having its
+beginnings in mythology and early national history. For centuries the
+subject had been national property and connected with the name of no one
+individual. We have it now in the form in which it was remodelled to suit
+the taste of the court and the nobility, and like the court epic to be
+read aloud in castle hall. That it is written in four-lined strophes[5]
+and not in the usual rhymed couplets of the court epics is doubtless due
+to the fact that the former verse-form had already been used in the
+earlier ballads upon which it is based, and was simply taken over by the
+final moulder of the poem. This latter was probably a member of the
+nobility like the great majority of the epic poets of the time; he must
+at least have been well acquainted with the manners, tastes, sentiments,
+and general life of the nobility. Through him the poem was brought
+outwardly more into line with the literary ideals of the court circles.
+This shows itself chiefly in a negative way, namely, in the almost
+complete avoidance of the coarse language and farcical situations so
+common with the popular poet, the spielmann. Beyond this no violence is
+done to the simple form of the original. The style is still inornate and
+direct, facts still speak rather than words, and there is nothing
+approaching the refined psychological dissection of characters and
+motives such as we find in Wolfram von Eschenbach and the other court
+writers.
+[5] For description of the Nibelungen strophe see below, Chapter 7.
+When we look to the inner substance we see that the ground ideals are
+still those of the original Germanic heroic age. The chief characters are
+still those of the first stages of the story–Siegfried, Brunhild,
+Gunther, Kriemhild, Hagen. The fundamental theme is the ancient theme of
+triuwe, unswerving personal loyalty and devotion, which manifests
+itself above all in the characters of Kriemhild and Hagen. Kriemhild’s
+husband Siegfried is treacherously slain: her sorrow and revenge are the
+motives of the drama. Hagen’s mistress has, though with no evil intent on
+Siegfried’s part, received an insult to her honor: to avenge that insult
+is Hagen’s absorbing duty, which he fulfils with an utter disregard of
+consequences. Over this their fundamental character the various persons
+of the story have received a gloss of outward conduct in keeping with the
+close of the twelfth century. The poet is at pains to picture them as
+models of courtly bearing, excelling in hofscheit, zuht, tugent.
+Great attention is paid to dress, and the preparation of fitting apparel
+for court festivities is described and re-described with wearisome
+prolixity. A cardinal virtue is milte, liberality in the bestowal of
+gifts. Courtesy toward women is observed with the careful formality of
+the age of the minnesingers. It was above all Siegfried, the light-hero
+of the original myth, whose character lent itself to an idealization of
+knighthood. Ruediger holds a like place in the latter part of the poem.
+In the evident pleasure with which the minstrel-knight Volker of the
+sword-fiddlebow is depicted, as well doubtless as in occasional gleams of
+broader humor, the hand of the minstrels who wrought on the story in its
+earlier ballad stages may be seen. And the whole poem, in keeping with
+its form in an age strongly under church influence, has been tinged with
+the ideals of Christianity. Not only does the ordinary conversation of
+all the characters, including even the heathen Etzel, contain a great
+number of formal imprecations of God, but Christian institutions and
+Christian ethics come frequently into play. Mass is sung in the minster,
+baptism, marriage, burial are celebrated in Christian fashion, the devil
+is mentioned according to the Christian conception, we hear of priest,
+chaplain, and bishop, Christians are contrasted with heathen, and
+Kriemhild, in marrying Etzel, has a hope of turning him to Christianity.
+In Hagen’s attempt to drown the chaplain whom the Burgundians have with
+them as they set out for the land of the Huns we have perhaps an
+expression of the conflict between the heathen and the Christian
+elements, possibly also a reflection of the traditional animosity of the
+spielmann to his clerical rival.
+The Nibelungenlied and the Iliad of Homer have often been compared, but
+after all to no great purpose. The two epics are alike in having their
+roots deep in national origins, but beyond this we have contrasts rather
+than resemblances. The Iliad is a more varied and complete picture of the
+whole Greek world than the Nibelungenlied is of the German, its religious
+atmosphere has not been disturbed in the same way as that of the saga of
+early Germanic times projected several centuries into a later Christian
+age, and it possesses in every way a greater unity of sentiment. In the
+varied beauty of its language, its wealth of imagery, its depth of
+feeling and copiousness of incident the Iliad is superior to the
+Nibelungenlied with its language of simple directness, its few lyrical
+passages, its expression of feeling by deeds rather than by words. Homer,
+too, is in general buoyant, the Nibelungenlied is sombre and stern. And
+in one last respect the two epics differ most of all: the Iliad is
+essentially narrative and descriptive, a series of episodes; the
+Nibelungenlied is essentially dramatic, scene following scene of dramatic
+necessity and pointing steadily to a final and inevitable catastrophe.
+In the Northern Edda and in the German Nibelungenlied the Nibelungen saga
+found its fullest and most poetic expression. But these were not to be
+the only literary records of it. Both in Scandinavian lands and in
+Germany various other monuments, scattered over the intervening
+centuries, bear witness to the fact that it lived on in more or less
+divergent forms. The Danish historian Saxo Grammaticus of the latter part
+of the twelfth century has a reference to the story of Kriemhild’s
+treachery toward her brothers. About the year 1250 an extensive prose
+narrative, known as the Thidrekssaga, was written by a Norwegian from
+oral accounts given him by men from Bremen and Munster. This narrative is
+interesting as showing the form the saga had taken by that date on Low
+German territory, and holds an important place in the history of the
+development of the saga. It has much more to say of the early history of
+Siegfried than we find in the Nibelungenlied, and yet in the main
+outlines of the story of Kriemhild’s revenge it corresponds with the
+German epic and not with the Northern Edda. A chronicle of the island of
+Hven in the Sound, dating in its original form from the sixteenth
+century, as well as Danish ballads on the same island that have lived on
+into modern times, tell of Sivard (Siegfried), Brynhild, and also of
+Grimild’s (Kriemhild’s) revenge. In Norway and Sweden traces of the saga
+have recently been discovered; while songs that are sung on the Faroe
+Islands, as an accompaniment to the dance on festive occasions, have been
+recorded, containing over six hundred strophes in which is related in
+more or less distorted form the Nibelungen story.
+In Germany the two poems known as the Klage and Hurnen Seyfrid are
+the most noteworthy additional records of the Nibelungen saga, as
+offering in part at least independent material. The Klage is a poem of
+over four thousand lines in rhymed couplets, about half of it being an
+account of the mourning of Etzel, Dietrich, and Hildebrand as they seek
+out the slain and prepare them for burial, the other half telling of the
+bringing of the news to Bechlaren, Passau, and Worms. The poem was
+written evidently very soon after the Nibelungenlied, the substance of
+which was familiar to the author, though he also draws in part from other
+sources. Compared with the Nibelungenlied it possesses but little poetic
+merit and is written with distinctly Christian sentiment which is out of
+harmony with the ground-tone of the Germanic tragedy.
+The Hurnen Seyfrid is a poem of 179 four-lined strophes which is
+preserved only in a print of the sixteenth century, but at least a
+portion of whose substance reaches back in its original form to a period
+preceding the composition of the Nibelungenlied. It is evidently, as we
+have it, formed by the union of two earlier separate poems, which are
+indeed to a certain extent contradictory of each other. The first tells
+of the boyhood of Seyfrid (Siegfried) and his apprenticeship to the
+smith; how he slew many dragons, burned them, and smeared over his body
+with the resulting fluid horny substance (hence his name hurnen), which
+made him invulnerable; how he further found the hoard of the dwarf
+Nybling, and by service to King Gybich won the latter’s daughter for his
+wife. The second part tells how King Gybich reigned at Worms. He has
+three sons, Gunther, Hagen, Gyrnot, and one daughter, Kriemhild. The
+latter is borne off by a dragon, but finally rescued by Seyfrid, to whom
+she is given in marriage. The three brothers are jealous of the might and
+fame of Seyfrid, and after eight years Hagen slays him beside a cool
+spring in the Ottenwald.
+The poem Biterolf, written soon after the Nibelungenlied, and
+Rosengarten of perhaps a half-century later, represent Dietrich in
+conflict with Siegfried at Worms. The famous shoemaker-poet Hans Sachs of
+Nuremberg in 1557 constructed a tragedy, Der hornen Sewfriedt, on the
+story of Siegfried as he knew it from the Hurnen Seyfrid and the
+Rosengarten. A prose version of the Hurnen Seyfrid, with free
+additions and alterations, is preserved in the Volksbuch vom gehornten
+Sigfrid, the oldest print of which dates from the year 1726. Of the vast
+number of Fairy Tales, those most genuine creations of the poetic
+imagination of the people, in which live on, often to be sure in scarcely
+recognizable form, many of the myths and sagas of the nation’s infancy,
+there are several that may with justice be taken as relics of the
+Siegfried myth, for instance, The Two Brothers, The Young Giant, The
+Earth-Manikin, The King of the Golden Mount, The Raven, The Skilled
+Huntsman, and perhaps also the Golden Bird and The Water of Life;[6]
+though it would seem from recent investigations that Thorn-Rose or the
+Sleeping Beauty, is no longer to be looked upon as the counterpart of the
+sleeping Brynhild. Finally, it is probable that several names in Germany
+and in Northern countries preserve localized memories of the saga.
+[6] These will be found in Grimm’s Marchen as numbers 60, 90-93, 111, 57,
+    and 97.
+Fundamentally different from the foregoing natural outgrowths of the
+Nibelungen saga are the modern dramas and poems founded upon it since the
+time of the romanticists at the beginning of the nineteenth century.[7]
+Nearly all of these have already vanished as so much chaff from the
+winnowing-mill of time: only two, perhaps, are now considered seriously,
+namely, Hebbel’s Die Nibelungen and Richard Wagner’s Ring des
+Nibelungen. Hebbel in his grandly conceived drama in three parts follows
+closely the story as we have it in our epic poem the Nibelungenlied, and
+the skill with which he makes use of its tragic elements shows his
+dramatic genius at its best. But not even the genius of Hebbel could make
+these forms of myth and saga live again for us upon a modern stage, and
+the failure of this work with its wealth of poetic beauty and many scenes
+of highest dramatic effectiveness to maintain its place as an acting
+drama is sufficient evidence that the yawning gap that separates the
+sentiment of the modern world from that of the early centuries in which
+these sagas grew is not to be bridged over by the drama, however easy and
+indeed delightful it may be for us to allow ourselves to be transported
+thither to that romantic land upon the wings of epic story. Wagner in his
+music-drama in three parts and prelude has followed in the main the saga
+in its Northern form [8] up to the death of Siegfried and Brunhild, but
+to the entire exclusion of the latter part of the story in which Atli
+(Etzel) figures; his work has accordingly hardly any connection with the
+Nibelungenlied here offered in translation. Only the pious loyalty of
+national sentiment can assign a high place in dramatic literature to
+Wagner’s work with its intended imitation of the alliterative form of
+verse; while his philosophizing gods and goddesses are also but decadent
+modern representatives of their rugged heathen originals.
+[7] The curious will find a list of these in the introduction to Piper’s
+    edition, cited below, Chapter 7.
+[8] See above, Chapter 2.
+The language of the Nibelungenlied presents about the same difficulty to
+the German reader of to-day as that of our English Chaucer to us. Many
+translations into modern German have accordingly been made to render it
+accessible to the average reader without special study. In the year 1767
+Bodmer in Zurich published a translation into hexameters of a portion of
+it, and since the investigations of Lachmann raised it to the position of
+a national epic of first magnitude many more have appeared, both in prose
+and verse. The best in prose is that by Scherr, of the year 1860. Of the
+metrical translations that by Simrock, which in its later editions
+follows pretty closely the text of MS. C, is deservedly the most popular
+and has passed through a great number of editions. Bartsch has also made
+a translation based on his edition of MS. B. These modern versions by
+Simrock and Bartsch reproduce best the metrical quality of the original
+strophe. Easily obtainable recent translations are those by Junghans (in
+Reclam’s Universalbibliothek) of text C, and by Hahn (Collection Spemann)
+of text A.
+[9] For a complete list of these, also of magazine articles, etc.,
+    relating to the Nibelungenlied, see F. E. Sandbach, The
+    Nibelungenlied and Gudrun in England and America, London,
+    1903.
+Early in last century interest in the Nibelungenlied began to manifest
+itself in England. A synopsis of it, with metrical translation of several
+strophes, appeared in the year 1814 in Weber, Jamieson and Scott’s
+“Illustrations of Northern Antiquities” (London and Edinburgh), in which,
+according to Lockhart, Sir Walter Scott’s hand may perhaps be seen.
+Carlyle, laboring as a pioneer to spread a knowledge of German literature
+in England, contributed to the Westminster Review in 1831 his well-known
+essay on the Nibelungenlied which, though containing an additional mass
+of rather ill-arranged matter and now antiquated in many particulars, is
+still well worth reading for its enthusiastic account of the epic itself
+in the genuine style of the author. Carlyle here reproduces in metrical
+form a few strophes. He has said elsewhere that one of his ambitions was
+to make a complete English version of the poem. Since then an endless
+number of accounts of it, chiefly worthless, has appeared in magazines
+and elsewhere. The first attempt at a complete metrical translation was
+made in 1848 by Jonathan Birch, who however only reproduces Lachmann’s
+twenty lieder, with some fifty-one strophes added on his own account.
+His version of the first strophe runs thus:
+Legends of by-gone times reveal wonders and prodigies,
+  Of heroes worthy endless fame,–of matchless braveries,–
+  Of jubilees and festal sports,–of tears and sorrows great,–
+  And knights who daring combats fought:–the like I now relate.
+In 1850 appeared William Nansom Lettsom’s translation of the whole poem
+according to Braunfels’ edition, with the opening strophe turned as
+follows:
+In stories of our fathers high marvels we are told
+  Of champions well approved in perils manifold.
+  Of feasts and merry meetings, of weeping and of wail,
+  And deeds of gallant daring I’ll tell you in my tale.
+The next metrical rendering is that by A. G. Foster-Barham in the year
+1887. His first strophe reads:
+Many a wondrous story have the tales of old,
+  Of feats of knightly glory, and of the Heroes bold,
+  Of the delights of feasting, of weeping and of wail,
+  Of noble deeds of daring; you may list strange things in my tale.
+In the year 1898 follows still another, by Alice Horton (edited by E.
+Bell). This latest translation is based on Bartsch’s text of MS. B, and
+is prefaced by Carlyle’s essay. First strophe:
+To us, in olden legends, / is many a marvel told
+  Of praise-deserving heroes, / of labours manifold,
+  Of weeping and of wailing, / of joy and festival;
+  Of bold knights’ battling shall you / now hear a wondrous tale.
+Apart from the many faults of interpretation all of the metrical
+translations of the Nibelungenlied here enumerated are defective in one
+all-important respect: they do not reproduce the poem in its metrical
+form. Carlyle and other pioneers we may perhaps acquit of any intention
+of following the original closely in this regard. None of the translators
+of the complete poem, however, has retained in the English rendering what
+is after all the very essence of a poem,–its exact metrical quality.
+Birch has created an entirely different form of strophe in which all four
+lines are alike, each containing seven principal accents, with the
+caesura, following the fourth foot. Lettsom makes the first serious
+attempt to reproduce the original strophe. It is evident from the
+introduction to his translation (see p. xxvi) that he had made a careful
+study of its form, and he does in fact reproduce the first three lines
+exactly. Of the fourth line he says: “I have not thought it expedient to
+make a rule of thus lengthening the fourth lines of the stanzas, though I
+have lengthened them occasionally"(!). What moved him thus to deprive
+the stanza of its most striking feature–and one, moreover, that is
+easily preserved in English–he does not make clear. The versions of
+Foster-Barham and of Horton and Bell show the same disfigurement, the
+latter omitting the extra accent of the fourth line, as they say, “for
+the sake of euphony"(!). It is just this lengthened close of each strophe
+that gives the Nibelungenlied its peculiar metrical character and
+contributes not a little to the avoidance of monotony in a poem of over
+two thousand strophes. In theory the form of the fourth line as it stands
+in the original is no more foreign to the genius of the English language
+than to that of modern German, and few of the many Germans giving a
+modernized version of the epic have been bold enough to lay sacrilegious
+hands upon it to shorten it.
+A brief account of the Nibelungen strophe may not be out of place here,
+owing to the fact that its character has generally been misunderstood.
+The origin and evolution of the strophe have been the subject of much
+discussion, the results of which we need not pause to formulate here. As
+it appears in actual practice in our poem of about the year 1200, it was
+as follows: Each strophe consists of four long lines, the first line
+rhyming with the second, and the third with the fourth. The rhymes are
+masculine, that is, rhymes on the end syllable. Each line is divided by a
+clearly marked caesura into two halves; each half of the first three
+lines and the first half of the fourth line has three accented syllables,
+the second half of the fourth line has four accented syllables. The first
+half of each line ends in an unaccented syllabic–or, strictly speaking,
+in a syllable bearing a secondary accent; that is, each line has what is
+called a “ringing” caesura. The metrical character of the Nibelungen
+strophe is thus due to its fixed number of accented syllables. Of
+unaccented syllables the number may vary within certain limits.
+Ordinarily each accented syllable is preceded by an unaccented one; that
+is, the majority of feet are iambic. The unaccented syllable may,
+however, at times be wanting, or there may, on the other hand, be two or
+even three of them together. A characteristic of the second half of the
+last line is that there is very frequently no unaccented syllable between
+the second and the third accented ones. Among occasional variations of
+the normal strophe as here described may be mentioned the following: The
+end-rhyme is in a few instances feminine instead of masculine; while on
+the other hand the ending of the first half-lines is occasionally
+masculine instead of feminine, that is, the caesura is not “ringing.” In
+a few scattered instances we find strophes that rhyme throughout in the
+caesura as well as at the end of lines;[10] occasionally the first and
+second lines, or still less frequently the third and fourth, alone have
+caesural rhyme.[11] Rhyming of the caesura may be regarded as accidental
+in most cases, but it is reproduced as exactly as possible in this
+translation.
+[10] Strophes 1, 17, 102, and possibly 841.
+[11] Strophes 18, 69, 103, 115, 129, 148, 177, 190, 198, 222, 231,
+     239, 293, 325, 345, 363, 485, 584, 703, 712, 859, 864, 894, 937,
+     1022, 1032, 1114, 1225, 1432, 1436, 1460, 1530, 1555, 1597, 1855,
+     1909, 1944, 1956, 2133, 2200, 2206, 2338.
+In the original the opening strophe, which is altogether more regular
+than the average and is, moreover, one of the few that have also complete
+caesural rhyme, is as follows:
+Uns ist in alten maeren / wunders vil geseit
+  von heleden lobebaeren, / von grozer arebeit,
+  von frouden, hochgeziten, / von weinen und von klagen,
+  von kuener recken striten / muget ir nu wunder hoeren sagen.
+Here the only place where the unaccented syllable is lacking before the
+accented is before wunders at the beginning of the second half of the
+first line. A strophe showing more typical irregularities is, for
+instance, the twenty-second:
+In sinen besten ziten, / bi sinen jungen tagen,
+  man mohte michel wunder / von Sivride sagen,
+  waz eren an im wuchse / und wie scoene was sin lip.
+  sit heten in ze minne / diu vil waetlichen wip.
+Here the rhyme of the first and second lines is still masculine, tagen
+and sagen being pronounced tagn and sagn. The unaccented syllable
+is lacking, e.g., before the second accent of the second half of line
+two, also before the first and the third accent of the second half of
+line four. There are two unaccented syllables at the beginning
+(Auftakt) of the second half of line three. The absence of the
+unaccented syllable between the second and the third accent of the last
+half of the fourth line of a strophe, as here, is so frequent in the poem
+as to amount almost to a rule; it shows an utter misconception, or
+disregard, of its true character, nevertheless, to treat this last
+half-line as having only three accented syllables, as all translators
+hitherto have done.
+MS. A. (Hohenems-Munich).
+  Lachmann, Der Nibelunge Not und die Klage, 5th ed., Berlin, 1878.
+    Several reprints of the text alone later.
+MS. B. (St. Gall).
+  Bartsch, Das Nibelungenlied, 6th ed., Leipzig, 1886. (Vol. 3 of the
+    series Deutsche Classiker des Mittelalters.)
+  Piper, Die Nibelungen. (Vol. 6 of Kurschner’s Deutsche
+    National-Litteratur.)
+MS. C. (Donaueschingen).
+  Zarncke, Das Nibelungenlied, 6th ed., Leipzig, 1887.
+Continue...
+
+This full text of The Nibelungenlied by George Henry Needler, Translator
+is in the public domain.
+
+
+Also see: A Companion to the Nibelungenlied
+
+
+This page has been created by Philipp Lenssen.
+
+Page last updated on November 2003.
+Complete book. Authorama - Classic Literature, free of copyright. About...

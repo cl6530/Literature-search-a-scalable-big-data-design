@@ -1,0 +1,749 @@
+
+
+
+[33] The Divine Comedy of Dante Alighieri. Translated by Henry
+Wadsworth Longfellow. 3 vols. Boston: Ticknor & Fields, 1867.
+THE task of a translator is a thankless one at best. Be he never
+so skilful and accurate, be he never so amply endowed with the
+divine qualifications of the poet, it is still questionable if he
+can ever succeed in saying satisfactorily with new words that
+which has once been inimitably said—said for all time—with the
+old words. Psychologically, there is perhaps nothing more complex
+than an elaborate poem. The sources of its effect upon our minds
+may be likened to a system of forces which is in the highest
+degree unstable; and the slightest displacement of phrases, by
+disturbing the delicate rhythmical equilibrium of the whole, must
+inevitably awaken a jarring sensation.” Matthew Arnold has given
+us an excellent series of lectures upon translating Homer, in
+which he doubtless succeeds in showing that some methods of
+translation are preferable to others, but in which he proves
+nothing so forcibly as that the simplicity and grace, the
+rapidity, dignity, and fire, of Homer are quite incommunicable,
+save by the very words in which they first found expression. And
+what is thus said of Homer will apply to Dante with perhaps even
+greater force. With nearly all of Homer’s grandeur and rapidity,
+though not with nearly all his simplicity, the poem of Dante
+manifests a peculiar intensity of subjective feeling which was
+foreign to the age of Homer, as indeed to all pre-Christian
+antiquity. But concerning this we need not dilate, as it has
+often been duly remarked upon, and notably by Carlyle, in his
+“Lectures on Hero-Worship.” Who that has once heard the wail of
+unutterable despair sounding in the line
+can rest satisfied with the interpretation
+yet this rendering is literally exact.
+[34] As Dante himself observes, “E pero sappia ciascuno, che
+nulla cosa per legame musaico armonizzata si puo della sue
+loquela in altra trasmutare sanza rompere tutta sue dolcezza e
+armonia. E questa e la ragione per che Omero non si muto di greco
+in latino, come l’altre scritture che avemo da loro: e questa e
+la ragione per che i versi del Psaltero sono sanza dolcezza di
+musica e d’armonia; che essi furono trasmutati d’ ebreo in
+greco, e di greco in latino, e nella prima trasmutazione tutta
+quella dolcezza venne meno.” Convito, I. 7, Opere Minori, Tom.
+III. p. 80. The noble English version of the Psalms possesses a
+beauty which is all its own.
+A second obstacle, hardly less formidable, hardly less fatal to a
+satisfactory translation, is presented by the highly complicated
+system of triple rhyme upon which Dante’s poem is constructed.
+This, which must ever be a stumbling-block to the translator,
+seems rarely to interfere with the free and graceful movement of
+the original work. The mighty thought of the master felt no
+impediment from the elaborate artistic panoply which must needs
+obstruct and harass the interpretation of the disciple. Dante’s
+terza rima is a bow of Odysseus which weaker mortals cannot bend
+with any amount of tugging, and which Mr. Longfellow has
+judiciously refrained from trying to bend. Yet no one can fail to
+remark the prodigious loss entailed by this necessary sacrifice
+of one of the most striking characteristics of the original poem.
+Let any one who has duly reflected upon the strange and subtle
+effect produced on him by the peculiar rhyme of Tennyson’s “In
+Memoriam,” endeavour to realize the very different effect which
+would be produced if the verses were to be alternated or coupled
+in successive pairs, or if rhyme were to be abandoned for blank
+verse. The exquisite melody of the poem would be silenced. The
+rhyme-system of the “Divine Comedy” refuses equally to be
+tampered with or ignored. Its effect upon the ear and the mind is
+quite as remarkable as that of the rhyme-system of “In Memoriam";
+and the impossibility of reproducing it is one good reason why
+Dante must always suffer even more from translation than most
+poets.
+Something, too, must be said of the difficulties inevitably
+arising from the diverse structure and genius of the Italian and
+English languages. None will deny that many of them are
+insurmountable. Take the third line of the first canto,—
+which Mr. Longfellow translates
+Perhaps there is no better word than “lost” by which to translate
+smarrita in this place; yet the two words are far from equivalent
+in force. About the word smarrita there is thrown a wide penumbra
+of meaning which does not belong to the word lost.[35] By its
+diffuse connotations the word smarrita calls up in our minds an
+adequate picture of the bewilderment and perplexity of one who is
+lost in a trackless forest. The high-road with out, beaten hard
+by incessant overpassing of men and beasts and wheeled vehicles,
+gradually becomes metamorphosed into the shady lane, where grass
+sprouts up rankly between the ruts, where bushes encroach upon
+the roadside, where fallen trunks now and then intercept the
+traveller; and this in turn is lost in crooked by-ways, amid
+brambles and underbrush and tangled vines, growing fantastically
+athwart the path, shooting up on all sides of tile bewildered
+wanderer, and rendering advance and retreat alike hopeless. No
+one who in childhood has wandered alone in the woods can help
+feeling all this suggested by the word smarrita in this passage.
+How bald in comparison is the word lost, which might equally be
+applied to a pathway, a reputation, and a pocket-book![36] The
+English is no doubt the most copious and variously expressive of
+all living languages, yet I doubt if it can furnish any word
+capable by itself of calling up the complex images here suggested
+by smarrita.[37] And this is but one example, out of many that
+might be cited, in which the lack of exact parallelism between
+the two languages employed causes every translation to suffer.
+[35] See Diez, Romance Dictionary, s. v. “Marrir.”
+
+[36] On literally retranslating lost into Italian, we should get
+the quite different word perduta.
+
+[37] The more flexible method of Dr. Parsons leads to a more
+satisfactory but still inadequate result:—
+  “Half-way on our life’s Journey, in a wood,
+   From the right path I found myself astray.”
+All these, however, are difficulties which lie in the nature of
+things,—difficulties for which the translator is not
+responsible; of which he must try to make the best that can be
+made, but which he can never expect wholly to surmount. We have
+now to inquire whether there are not other difficulties,
+avoidable by one method of translation, though not by another;
+and in criticizing Mr. Longfellow, we have chiefly to ask whether
+he has chosen the best method of translation,—that which most
+surely and readily awakens in the reader’s mind the ideas and
+feelings awakened by the original.
+The translator of a poem may proceed upon either of two distinct
+principles. In the first case, he may render the text of his
+original into English, line for line and word for word,
+preserving as far as possible its exact verbal sequences, and
+translating each individual word into an English word as nearly
+as possible equivalent in its etymological force. In the second
+case, disregarding mere syntactic and etymologic equivalence, his
+aim will be to reproduce the inner meaning and power of the
+original, so far as the constitutional difference of the two
+languages will permit him.
+It is the first of these methods that Mr. Longfellow has followed
+in his translation of Dante. Fidelity to the text of the original
+has been his guiding principle; and every one must admit that, in
+carrying out that principle, he has achieved a degree of success
+alike delightful and surprising. The method of literal
+translation is not likely to receive any more splendid
+illustration. It is indeed put to the test in such a way that the
+shortcomings now to be noticed bear not upon Mr. Longfellow’s own
+style of work so much as upon the method itself with which they
+are necessarily implicated. These defects are, first, the too
+frequent use of syntactic inversion, and secondly, the too
+manifest preference extended to words of Romanic over words of
+Saxon origin.
+To illustrate the first point, let me give a few examples. In
+Canto I. we have:—
+which is thus rendered by Mr. Cary,—
+and by Dr. Parsons,—
+Inferno, I. 7-10.
+Again in Canto X. we find:—
+an inversion which is perhaps not more unidiomatic than Mr.
+Cary’s,—
+but which is advantageously avoided by Mr. Wright,—
+and is still better rendered by Dr. Parsons,—
+[39] “Suo cimitero da questa parte hanno
+   Con Epieuro tutti i suoi seguaci,
+   Che l’anima col corpo morta fanno."
+   Inferno, X. 13-15.
+And here my eyes, reverting to the end of Canto IX.,
+fall upon a similar contrast between Mr. Longfellow’s lines,—
+and those of Dr. Parsons,—
+[40] “Che tra gli avelli flamme erano sparte,
+   Per le quali eran si del tutto accesi,
+   Che ferro piu non chiede verun’ arte."
+   Inferno, IX. 118-120.
+Does it not seem that in all these cases Mr. Longfellow, and to a
+slightly less extent Mr. Cary, by their strict adherence to the
+letter, transgress the ordinary rules of English construction;
+and that Dr. Parsons, by his comparative freedom of movement,
+produces better poetry as well as better English? In the last
+example especially, Mr. Longfellow’s inversions are so violent
+that to a reader ignorant of the original Italian, his sentence
+might be hardly intelligible. In Italian such inversions are
+permissible; in English they are not; and Mr. Longfellow, by
+transplanting them into English, sacrifices the spirit to the
+letter, and creates an obscurity in the translation where all is
+lucidity in the original. Does not this show that the theory of
+absolute literality, in the case of two languages so widely
+different as English and Italian, is not the true one?
+Secondly, Mr. Longfellow’s theory of translation leads him in
+most cases to choose words of Romanic origin in preference to
+those of Saxon descent, and in many cases to choose an unfamiliar
+instead of a familiar Romanic word, because the former happens to
+be etymologically identical with the word in the original. Let me
+cite as an example the opening of Canto III.:—
+Here are three lines which, in their matchless simplicity and
+grandeur, might well excite despair in the breast of any
+translator. Let us contrast Mr. Longfellow’s version.—
+with that of Dr. Parsons,—,
+I do not think any one will deny that Dr. Parsons’s version,
+while far more remote than Mr. Longfellow’s from the diction of
+the original, is somewhat nearer its spirit. It remains to seek
+the explanation of this phenomenon. It remains to be seen why
+words the exact counterpart of Dante’s are unfit to call up in
+our minds the feelings which Dante’s own words call up in the
+mind of an Italian. And this inquiry leads to some general
+considerations respecting the relation of English to other
+European languages.
+Every one is aware that French poetry, as compared with German
+poetry, seems to the English reader very tame and insipid; but
+the cause of this fact is by no means so apparent as the fact
+itself. That the poetry of Germany is actually and intrinsically
+superior to that of France, may readily be admitted; but this is
+not enough to account for all the circumstances of the case. It
+does not explain why some of the very passages in Corneille and
+Racine, which to us appear dull and prosaic, are to the
+Frenchman’s apprehension instinct with poetic fervour. It does
+not explain the undoubted fact that we, who speak English, are
+prone to underrate French poetry, while we are equally disposed
+to render to German poetry even more than its due share of merit.
+The reason is to be sought in the verbal associations established
+in our minds by the peculiar composition of the English language.
+Our vocabulary is chiefly made up on the one hand of indigenous
+Saxon words, and on the other hand of words derived from Latin or
+French. It is mostly words of the first class that we learn in
+childhood, and that are associated with our homeliest and deepest
+emotions; while words of the second class—usually acquired
+somewhat later in life and employed in sedate abstract
+discourse—have an intellectual rather than an emotional function
+to fulfil. Their original significations, the physical metaphors
+involved in them, which are perhaps still somewhat apparent to
+the Frenchman, are to us wholly non-existent. Nothing but the
+derivative or metaphysical signification remains. No physical
+image of a man stepping over a boundary is presented to our minds
+by the word transgress, nor in using the word comprehension do we
+picture to ourselves any manual act of grasping. It is to this
+double structure of the English language that it owes its
+superiority over every other tongue, ancient or modern, for
+philosophical and scientific purposes. Albeit there are numerous
+exceptions, it may still be safely said, in a general way, that
+we possess and habitually use two kinds of language,—one that is
+physical, for our ordinary purposes, and one that is
+metaphysical, for purposes of abstract reasoning and discussion.
+We do not say like the Germans, that we “begripe” (begreifen) an
+idea, but we say that we “conceive” it. We use a word which once
+had the very same material meaning as begreifen, but which has in
+our language utterly lost it. We are accordingly able to carry on
+philosophical inquiries by means of words which are nearly or
+quite free from those shadows of original concrete meaning which,
+in German, too often obscure the acquired abstract signification.
+Whoever has dealt in English and German metaphysics will not fail
+to recognize the prodigious superiority of English in force and
+perspicuity, arising mainly from the causes here stated. But
+while this homogeneity of structure in German injures it for
+philosophical purposes, it is the very thing which makes it so
+excellent as an organ for poetical expression, in the opinion of
+those who speak English. German being nearly allied to
+Anglo-Saxon, not only do its simple words strike us with all the
+force of our own homely Saxon terms, but its compounds also,
+preserving their physical significations almost unimpaired, call
+up in our minds concrete images of the greatest definiteness and
+liveliness. It is thus that German seems to us pre-eminently a
+poetical language, and it is thus that we are naturally inclined
+to overrate rather than to depreciate the poetry that is written
+in it.
+With regard to French, the case is just the reverse. The
+Frenchman has no Saxon words, but he has, on the other hand, an
+indigenous stock of Latin words, which he learns in early
+childhood, which give outlet to his most intimate feelings, and
+which retain to some extent their primitive concrete
+picturesqueness. They are to him just as good as our Saxon words
+are to us. Though cold and merely intellectual to us, they are to
+him warm with emotion; and this is one reason why we cannot do
+justice to his poetry, or appreciate it as he appreciates it. To
+make this perfectly clear, let us take two or three lines from
+Shakespeare:—
+which I have somewhere seen thus rendered into French:
+Why are we inclined to laugh as we read this? Because it excites
+in us an undercurrent of consciousness which, if put into words,
+might run something like this:—
+No such effect would be produced upon a Frenchman. The
+translation would strike him as excellent, which it really is.
+The last line in particular would seem poetical to us, did we not
+happen to have in our language words closely akin to dent and
+penetrante, and familiarly employed in senses that are not
+poetical.
+Applying these considerations to Mr. Longfellow’s choice of words
+in his translation of Dante, we see at once the unsoundness of
+the principle that Italian words should be rendered by their
+Romanic equivalents in English. Words that are etymologically
+identical with those in the original are often, for that very
+reason, the worst words that could be used. They are harsh and
+foreign to the English ear, however homelike and musical they may
+be to the ear of an Italian. Their connotations are unlike in the
+two languages; and the translation which is made literally exact
+by using them is at the same time made actually inaccurate, or at
+least inadequate. Dole and dolent are doubtless the exact
+counterparts of dolore and dolente, so far as mere etymology can
+go. But when we consider the effect that is to be produced upon
+the mind of the reader, wretchedness and despairing are fat
+better equivalents. The former may compel our intellectual
+assent, but the latter awaken our emotional sympathy.
+Doubtless by long familiarity with the Romanic languages, the
+scholar becomes to a great degree emancipated from the conditions
+imposed upon him by the peculiar composition of his native
+English. The concrete significance of the Romanic words becomes
+apparent to him, and they acquire energy and vitality. The
+expression dolent may thus satisfy the student familiar with
+Italian, because it calls up in his mind, through the medium of
+its equivalent dolente, the same associations which the latter
+calls up in the mind of the Italian himself.[41] But this power
+of appreciating thoroughly the beauties of a foreign tongue is in
+the last degree an acquired taste,—as much so as the taste for
+olives and kirschenwasser to the carnal palate. It is only by
+long and profound study that we can thus temporarily vest
+ourselves, so to speak, with a French or Italian consciousness in
+exchange for our English one. The literary epicure may keenly
+relish such epithets as dolent; but the common English reader,
+who loves plain fare, can hardly fail to be startled by it. To
+him it savours of the grotesque; and if there is any one thing
+especially to be avoided in the interpretation of Dante, it is
+grotesqueness.
+[41] A consummate Italian scholar, the delicacy of whose taste is
+questioned by no one, and whose knowledge of Dante’s diction is
+probably not inferior to Mr. Longfellow’s, has told me that he
+regards the expression as a noble and effective one, full of
+dignity and solemnity.
+Those who have read over Dante without reading into him, and
+those who have derived their impressions of his poem from M.
+Dore’s memorable illustrations, will here probably demur. What!
+Dante not grotesque! That tunnel-shaped structure of the infernal
+pit; Minos passing sentence on the damned by coiling his tail;
+Charon beating the lagging shades with his oar; Antaios picking
+up the poets with his fingers and lowering them in the hollow of
+his hand into the Ninth Circle; Satan crunching in his monstrous
+jaws the arch-traitors, Judas, Brutus and Cassius; Ugolino
+appeasing his famine upon the tough nape of Ruggieri; Bertrand de
+Born looking (if I may be allowed the expression) at his own
+dissevered head; the robbers exchanging form with serpents; the
+whole demoniac troop of Malebolge,—are not all these things
+grotesque beyond everything else in poetry? To us, nurtured in
+this scientific nineteenth century, they doubtless seem so; and
+by Leigh Hunt, who had the eighteenth-century way of appreciating
+other ages than his own, they were uniformly treated as such. To
+us they are at first sight grotesque, because they are no longer
+real to us. We have ceased to believe in such things, and they no
+longer awaken any feeling akin to terror. But in the thirteenth
+century, in the minds of Dante and his readers, they were living,
+terrible realities. That Dante believed literally in all this
+unearthly world, and described it with such wonderful minuteness
+because he believed in it, admits of little doubt. As he walked
+the streets of Verona the people whispered, “See, there is the
+man who has been in hell!” Truly, he had been in hell, and
+described it as he had seen it, with the keen eyes of imagination
+and faith. With all its weird unearthliness, there is hardly
+another book in the whole range of human literature which is
+marked with such unswerving veracity as the “Divine Comedy."
+Nothing is there set down arbitrarily, out of wanton caprice or
+for the sake of poetic effect, but because to Dante’s imagination
+it had so imposingly shown itself that he could not but describe
+it as he saw it. In reading his cantos we forget the poet, and
+have before us only the veracious traveller in strange realms,
+from whom the shrewdest cross-examination can elicit but one
+consistent account. To his mind, and to the mediaeval mind
+generally, this outer kingdom, with its wards of Despair,
+Expiation, and Beatitude, was as real as the Holy Roman Empire
+itself. Its extraordinary phenomena were not to be looked on with
+critical eyes and called grotesque, but were to be seen with eyes
+of faith, and to be worshipped, loved, or shuddered at. Rightly
+viewed, therefore, the poem of Dante is not grotesque, but
+unspeakably awful and solemn; and the statement is justified that
+all grotesqueness and bizarrerie in its interpretation is to be
+sedulously avoided.
+Therefore, while acknowledging the accuracy with which Mr.
+Longfellow has kept pace with his original through line after
+line, following the “footing of its feet,” according to the motto
+quoted on his title-page, I cannot but think that his accuracy
+would have been of a somewhat higher kind if he had now and then
+allowed himself a little more liberty of choice between English
+and Romanic words and idioms.
+A few examples will perhaps serve to strengthen as well as to
+elucidate still further this position.
+“Inferno,” Canto III., line 22, according to Longfellow:—
+According to Cary:—
+According to Parsons:—
+[42] “Quivi sospiri, pianti ed alti guai
+   Risonavan per l’ ner senza stelle,
+   Perch’ io al cominciar ne lagrimai.”
+Canto V., line 84:—
+LONGFELLOW.—"Fly through the air by their volition borne."
+CARY.—"Cleave the air, wafted by their will along."
+PARSONS.—"Sped ever onward by their wish alone."[43]
+[43] “Volan per l’ aer dal voler portate.”
+Canto XVII., line 42:—
+[44] “Che ne conceda i suoi omeri forti.”
+Canto XVII., line 25:—
+[45] “Nel vano tutta sue coda guizzava,
+ Torcendo in su la venenosa forca,
+ Che, a guisa di scorpion, la punta armava.”
+Canto V., line 51:—
+[46] “Genti che l’ aura nera si gastiga.”
+Line 136:—
+[47] “La bocca mi bacio tutto tremante.”
+“Purgatorio,” Canto XV., line 139:—
+[48] “Noi andavam per lo vespero attenti
+ Oltre, quanto potean gli occhi allungarsi,
+ Contra i raggi serotini e lucenti.”
+Mr. Cary’s “bright vespertine ray” is only a trifle better; but
+Mr. Wright’s “splendour of the evening ray” is, in its
+simplicity, far preferable.
+Canto XXXI., line 131:—
+Here Mr. Longfellow has apparently followed the authority of the
+Crusca, reading
+and translating carribo by saraband, a kind of Moorish dance. The
+best manuscripts, however, sanction M. Witte’s reading:—
+If this be correct, carribo cannot signify “a dance,” but rather
+“the song which accompanies the dance"; and the true sense of the
+passage will have been best rendered by Mr. Cary.[49]
+[49] See Blanc, Vocabolario Dantesco, s. v. “caribo.”
+Whenever Mr. Longfellow’s translation is kept free from oddities
+of diction and construction, it is very animated and vigorous.
+Nothing can be finer than his rendering of “Purgatorio,” Canto
+VI., lines 97-117:—
+[50] “O Alberto Tedesco, che abbandoni
+   Costei ch’ e fatta indomita e selvaggia,
+   E dovresti inforcar li suoi arcioni,
+
+ Giusto gindizio dalle stelle caggia
+   Sopra il tuo sangue, e sia nuovo ed aperto,
+   Tal che il tuo successor temenza n’ aggia:
+ Cheavete tu e il tuo padre sofferto,
+   Per cupidigia di costa distretti,
+   Che il giardin dell’ imperio sia diserto.
+
+ Vieni a veder Montecchi e Cappelletti,
+   Monaldi e Filippeschi, uom senza cura:
+   Color gia tristi, e questi con sospetti.
+ Vien, crudel, vieni, e vedi la pressura
+   De’ tuoi gentili, e cure lor magagne,
+   E vedrai Santafior com’ e oscura [secura?].
+ Vieni a veder la tua Roma che piagne,
+   Vedova e sola, e di e notte chiama:
+   Cesare mio, perche non m’ accompagne?
+ Vieni a veder la gente quanto s’ ama;
+   E se nulla di noi pieta ti move,
+   A vergognar ti vien della tua fama.”
+ Vieni a veder Montecchi e Cappelletti,
+   Monaldi e Filippeschi, uom senza cura:
+   Color gia tristi, e questi con sospetti.
+ Vien, crudel, vieni, e vedi la pressura
+   De’ tuoi gentili, e cure lor magagne,
+   E vedrai Santafior com’ e oscura [secura?].
+ Vieni a veder la tua Roma che piagne,
+   Vedova e sola, e di e notte chiama:
+   Cesare mio, perche non m’ accompagne?
+ Vieni a veder la gente quanto s’ ama;
+   E se nulla di noi pieta ti move,
+   A vergognar ti vien della tua fama.”
+So, too, Canto III., lines 79-84:—
+[51] “Come le pecorelle escon del chiuso
+   Ad una, a due, a tre, e l’ altre stanno
+   Timidette atterrando l’ occhio e il muso;
+
+ E cio che fa la prima, e l’ altre sanno,
+   Addossandosi a lei s’ ella s’ arresta,
+   Semplici e quete, e lo ’mperche non sanno.”
+Francesca’s exclamation to Dante is thus rendered by Mr.
+Longfellow:—
+[52] “Ed ella a me: Nessun maggior dolore
+ Che ricordarsi del tempo felice Nella miseria."
+Inferno, V. 121-123.
+This is admirable,—full of the true poetic glow, which would
+have been utterly quenched if some Romanic equivalent of dolore
+had been used instead of our good Saxon sorrow.[53] So, too, the
+“Paradiso,” Canto I., line 100:—
+[53] Yet admirable as it is, I am not quite sure that Dr.
+Parsons, by taking further liberty with the original, has not
+surpassed it:—
+  “And she to me: The mightiest of all woes
+   Is in the midst of misery to be cursed
+   With bliss remembered.”
+
+[54] “Ond’ ella, appresso d’un pio sospiro
+, Gli occhi drizzo ver me con quel sembiante,
+ Che madre fa sopra figlinol deliro.”
+And, finally, the beginning of the eighth canto of the
+“Purgatorio”:—
+[55] “Era gia l’ ora che volge il disio
+   Ai naviganti, e intenerisce il core
+   Lo di ch’ hen detto ai dolci amici addio;
+ E che lo nuovo peregrin d’ amore
+   Punge, se ode squilla di lontano,
+   Che paia il giorno pianger che si more.”
+This passage affords an excellent example of what the method of
+literal translation can do at its best. Except in the second
+line, where “those who sail the sea” is wisely preferred to any
+Romanic equivalent of naviganti the version is utterly literal;
+as literal as the one the school-boy makes, when he opens his
+Virgil at the Fourth Eclogue, and lumberingly reads, “Sicilian
+Muses, let us sing things a little greater.” But there is nothing
+clumsy, nothing which smacks of the recitation-room, in these
+lines of Mr. Longfellow. For easy grace and exquisite beauty it
+would be difficult to surpass them. They may well bear comparison
+with the beautiful lines into which Lord Byron has rendered the
+same thought:—
+[56] Don Juan, III. 108.
+Setting aside the concluding sentimental generalization,—which
+is much more Byronic than Dantesque,—one hardly knows which
+version to call more truly poetical; but for a faithful rendering
+of the original conception one can hardly hesitate to give the
+palm to Mr. Longfellow.
+Thus we see what may be achieved by the most highly gifted of
+translators who contents himself with passively reproducing the
+diction of his original, who constitutes himself, as it were, a
+conduit through which the meaning of the original may flow. Where
+the differences inherent in the languages employed do not
+intervene to alloy the result, the stream of the original may, as
+in the verses just cited, come out pure and unweakened. Too
+often, however, such is the subtle chemistry of thought, it will
+come out diminished in its integrity, or will appear, bereft of
+its primitive properties as a mere element in some new
+combination. Our channel is a trifle too alkaline perhaps; and
+that the transferred material may preserve its pleasant
+sharpness, we may need to throw in a little extra acid. Too often
+the mere differences between English and Italian prevent Dante’s
+expressions from coming out in Mr. Longfellow’s version so pure
+and unimpaired as in the instance just cited. But these
+differences cannot be ignored. They lie deep in the very
+structure of human speech, and are narrowly implicated with
+equally profound nuances in the composition of human thought. The
+causes which make dolente a solemn word to the Italian ear, and
+dolent a queer word to the English ear, are causes which have
+been slowly operating ever since the Italican and the Teuton
+parted company on their way from Central Asia. They have brought
+about a state of things which no cunning of the translator can
+essentially alter, but to the emergencies of which he must
+graciously conform his proceedings. Here, then, is the sole point
+on which we disagree with Mr. Longfellow, the sole reason we have
+for thinking that he has not attained the fullest possible
+measure of success. Not that he has made a “realistic"
+translation,—so far we conceive him to be entirely right; but
+that, by dint of pushing sheer literalism beyond its proper
+limits, he has too often failed to be truly realistic. Let us
+here explain what is meant by realistic translation.
+Every thoroughly conceived and adequately executed translation of
+an ancient author must be founded upon some conscious theory or
+some unconscious instinct of literary criticism. As is the
+critical spirit of an age, so among other things will be its
+translations. Now the critical spirit of every age previous to
+our own has been characterized by its inability to appreciate
+sympathetically the spirit of past and bygone times. In the
+seventeenth century criticism made idols of its ancient models;
+it acknowledged no serious imperfections in them; it set them up
+as exemplars for the present and all future times to copy. Let
+the genial Epicurean henceforth write like Horace, let the epic
+narrator imitate the supreme elegance of Virgil,—that was the
+conspicuous idea, the conspicuous error, of seventeenth-century
+criticism. It overlooked the differences between one age and
+another. Conversely, when it brought Roman patricians and Greek
+oligarchs on to the stage, it made them behave like French
+courtiers or Castilian grandees or English peers. When it had to
+deal with ancient heroes, it clothed them in the garb and imputed
+to them the sentiments of knights-errant. Then came the
+revolutionary criticism of the eighteenth century, which assumed
+that everything old was wrong, while everything new was right. It
+recognized crudely the differences between one age and another,
+but it had a way of looking down upon all ages except the
+present. This intolerance shown toward the past was indeed a
+measure of the crudeness with which it was comprehended. Because
+Mohammed, if he had done what he did, in France and in the
+eighteenth century, would have been called an impostor, Voltaire,
+the great mouthpiece and representative of this style of
+criticism, portrays him as an impostor. Recognition of the fact
+that different ages are different, together with inability to
+perceive that they ought to be different, that their differences
+lie in the nature of progress,—this was the prominent
+characteristic of eighteenth-century criticism. Of all the great
+men of that century, Lessing was perhaps the only one who outgrew
+this narrow critical habit.
+Now nineteenth-century criticism not only knows that in no
+preceding age have men thought and behaved as they now think and
+behave, but it also understands that old-fashioned thinking and
+behaviour was in its way just as natural and sensible as that
+which is now new-fashioned. It does not flippantly sneer at an
+ancient custom because we no longer cherish it; but with an
+enlightened regard for everything human, it inquires into its
+origin, traces its effects, and endeavours to explain its decay.
+It is slow to characterize Mohammed as an impostor, because it
+has come to feel that Arabia in the seventh century is one thing
+and Europe in the nineteenth another. It is scrupulous about
+branding Caesar as an usurper, because it has discovered that
+what Mr. Mill calls republican liberty and what Cicero called
+republican liberty are widely different notions. It does not tell
+us to bow down before Lucretius and Virgil as unapproachable
+models, while lamenting our own hopeless inferiority; nor does it
+tell us to set them down as half-skilled apprentices, while
+congratulating ourselves on our own comfortable superiority; but
+it tells us to study them as the exponents of an age forever
+gone, from which we have still many lessons to learn, though we
+no longer think as it thought or feel as it felt. The eighteenth
+century, as represented by the characteristic passage from
+Voltaire, cited by Mr. Longfellow, failed utterly to understand
+Dante. To the minds of Voltaire and his contemporaries the great
+mediaeval poet was little else than a Titanic monstrosity,—a
+maniac, whose ravings found rhythmical expression; his poem a
+grotesque medley, wherein a few beautiful verses were buried
+under the weight of whole cantos of nonsensical scholastic
+quibbling. This view, somewhat softened, we find also in Leigh
+Hunt, whose whole account of Dante is an excellent specimen of
+this sort of criticism. Mr. Hunt’s fine moral nature was shocked
+and horrified by the terrible punishments described in the
+“Inferno.” He did not duly consider that in Dante’s time these
+fearful things were an indispensable part of every man’s theory
+of the world; and, blinded by his kindly prejudices, he does not
+seem to have perceived that Dante, in accepting eternal torments
+as part and parcel of the system of nature, was nevertheless, in
+describing them, inspired with that ineffable tenderness of pity
+which, in the episodes of Francesca and of Brunetto Latini, has
+melted the hearts of men in past times, and will continue to do
+so in times to come. “Infinite pity, yet infinite rigour of law!
+It is so Nature is made: it is so Dante discerned that she was
+made."[57] This remark of the great seer of our time is what the
+eighteenth century could in no wise comprehend. The men of that
+day failed to appreciate Dante, just as they were oppressed or
+disgusted at the sight of Gothic architecture; just as they
+pronounced the scholastic philosophy an unmeaning jargon; just as
+they considered mediaeval Christianity a gigantic system of
+charlatanry, and were wont unreservedly to characterize the
+Papacy as a blighting despotism. In our time cultivated men think
+differently. We have learned that the interminable hair-splitting
+of Aquinas and Abelard has added precision to modern
+thinking.[58] We do not curse Gregory VII. and Innocent III. as
+enemies of the human race, but revere them as benefactors. We can
+spare a morsel of hearty admiration for Becket, however strongly
+we may sympathize with the stalwart king who did penance for his
+foul murder; and we can appreciate Dante’s poor opinion of Philip
+the Fair no less than his denunciation of Boniface VIII. The
+contemplation of Gothic architecture, as we stand entranced in
+the sublime cathedrals of York or Rouen, awakens in our breasts a
+genuine response to the mighty aspirations which thus became
+incarnate in enduring stone. And the poem of Dante—which has
+been well likened to a great cathedral—we reverently accept,
+with all its quaint carvings and hieroglyphic symbols, as the
+authentic utterance of feelings which still exist, though they no
+longer choose the same form of expression.
+[57] Carlyle, Heroes and Hero-Worship, p. 84.
+
+[58] See my Outlines of Cosmic Philosophy, Vol. I. p. 123.
+A century ago, therefore, a translation of Dante such as Mr.
+Longfellow’s would have been impossible. The criticism of that
+time was in no mood for realistic reproductions of the antique.
+It either superciliously neglected the antique, or else dressed
+it up to suit its own notions of propriety. It was not like a
+seven-league boot which could fit everybody, but it was like a
+Procrustes-bed which everybody must be made to fit. Its great
+exponent was not a Sainte-Beuve, but a Boileau. Its typical
+sample of a reproduction of the antique was Pope’s translation of
+the Iliad. That book, we presume, everybody has read; and many of
+those who have read it know that, though an excellent and
+spirited poem, it is no more Homer than the age of Queen Anne was
+the age of Peisistratos. Of the translations of Dante made during
+this period, the chief was unquestionably Mr. Cary’s.[59] For a
+man born and brought up in the most unpoetical of centuries, Mr.
+Cary certainly made a very good poem, though not so good as
+Pope’s. But it fell far short of being a reproduction of Dante.
+The eighteenth-century note rings out loudly on every page of it.
+Like much other poetry of the time, it is laboured and
+artificial. Its sentences are often involved and occasionally
+obscure. Take, for instance, Canto IV. 25-36 of the “Paradiso”:
+[59] This work comes at the end of the eighteenth-century period,
+as Pope’s translation of Homer comes at the beginning.
+Here Mr. Cary not only fails to catch Dante’s grand style; he
+does not even write a style at all. It is too constrained and
+awkward to be dignified, and dignity is an indispensable element
+of style. Without dignity we may write clearly, or nervously, or
+racily, but we have not attained to a style. This is the second
+shortcoming of Mr. Cary’s translation. Like Pope’s, it fails to
+catch the grand style of its original. Unlike Pope’s, it
+frequently fails to exhibit any style.
+It is hardly necessary to spend much time in proving that Mr.
+Longfellow’s version is far superior to Mr. Cary’s. It is usually
+easy and flowing, and save in the occasional use of violent
+inversions, always dignified. Sometimes, as in the episode of
+Ugolino, it even rises to something like the grandeur of the
+original:
+[60] “Quand’ ebbe detto cio, eon gli occhi torti
+ Riprese il teschio misero coi denti,
+ Che furo all’ osso, come d’un can, forti."
+  Inferno, XXXIII. 76.
+That is in the grand style, and so is the following, which
+describes those sinners locked in the frozen lake below
+Malebolge:—
+[61] “Lo pianto stesso li pianger non lascia,
+ E il duol, che trova in sugli occhi rintoppo,
+ Si volve in entro a far crescer l’ ambascia."
+ Inferno, XXXIII. 94.
+And the exclamation of one of these poor “wretches of the frozen
+crust” is an exclamation that Shakespeare might have written:—
+[62] “Levatemi dal viso i duri veli,
+ Si ch’ io sfoghi il dolor che il cor m’ impregna."
+        Ib. 112.
+There is nothing in Mr. Cary’s translation which can stand a
+comparison with that. The eighteenth century could not translate
+like that. For here at last we have a real reproduction of the
+antique. In the Shakespearian ring of these lines we recognize
+the authentic rendering of the tones of the only man since the
+Christian era who could speak like Shakespeare.
+In this way Mr. Longfellow’s translation is, to an eminent
+degree, realistic. It is a work conceived and executed in entire
+accordance with the spirit of our time. Mr. Longfellow has set
+about making a reconstructive translation, and he has succeeded
+in the attempt. In view of what he has done, no one can ever wish
+to see the old methods of Pope and Cary again resorted to. It is
+only where he fails to be truly realistic that he comes short of
+success. And, as already hinted, it is oftenest through sheer
+excess of LITERALISM that he ceases to be realistic, and departs
+from the spirit of his author instead of coming nearer to it. In
+the “Paradiso,” Canto X. 1-6, his method leads him into
+awkwardness:—
+This seems clumsy and halting, yet it is an extremely literal
+paraphrase of a graceful and flowing original:—
+Now to turn a graceful and flowing sentence into one that is
+clumsy and halting is certainly not to reproduce it, no matter
+how exactly the separate words are rendered, or how closely the
+syntactic constructions match each other. And this consideration
+seems conclusive as against the adequacy of the literalist
+method. That method is inadequate, not because it is too
+REALISTIC, but because it runs continual risk of being too
+VERBALISTIC. It has recently been applied to the translation of
+Dante by Mr. Rossetti, and it has sometimes led him to write
+curious verses. For instance, he makes Francesca say to Dante,—
+for
+Mr. Longfellow’s good taste has prevented his doing anything like
+this, yet Mr. Rossetti’s extravagance is due to an unswerving
+adherence to the very rules by which Mr. Longfellow has been
+guided.
+Good taste and poetic genius are, however, better than the best
+of rules, and so, after all said and done, we can only conclude
+that Mr. Longfellow has given us a great and noble work not
+likely soon to be equalled. Leopardi somewhere, in speaking of
+the early Italian translators of the classics and their
+well-earned popularity, says, who knows but Caro will live in
+men’s remembrance as long as Virgil? “La belie destinee,” adds
+Sainte-Beuve, “de ne pouvoir plus mourir, sinon avec un
+immortel!” Apart from Mr. Longfellow’s other titles to undying
+fame, such a destiny is surely marked out for him, and throughout
+the English portions of the world his name will always be
+associated with that of the great Florentine.
+  June, 1867.
+Continue...
+
+This complete text of The Unseen World and Other Essays by John Fiske is in the public domain.
+
+
+This title at Amazon.com.
+
+
+This page has been created by Philipp Lenssen.
+
+Page last updated on April 2003.
+Complete book. Authorama - Classic Literature, free of copyright. About...
+The unseen world, and other essays, by John Fiske.By Michigan Historical Reprint SeriesAt Amazon

@@ -1,0 +1,247 @@
+
+
+
+
+
+The day Eldred was decided, fate would have it that I was to travel to 
+Washington, D.C. (The day the rehearing petition in Eldred was deniedmeaning 
+the case was really finally overfate would have it that I was giving a speech 
+to technologists at Disney World.) This was a particularly long flight to my 
+least favorite city. The drive into the city from Dulles was delayed because of 
+traffic, so I opened up my computer and wrote an op-ed piece.
+It was an act of contrition. During the whole of the flight from San Francisco 
+to Washington, I had heard over and over again in my head the same advice from 
+Don Ayer: You need to make them see why it is important. And alternating with 
+that command was the question of Justice Kennedy: For all these years the act 
+has impeded progress in science and the useful arts. I just don’t see any 
+empirical evidence for that. And so, having failed in the argument of 
+constitutional principle, finally, I turned to an argument of politics.
+The New York Times published the piece. In it, I proposed a simple fix: Fifty 
+years after a work has been published, the copyright owner would be required to 
+register the work and pay a small fee. If he paid the fee, he got the benefit of 
+the full term of copyright. If he did not, the work passed into the public 
+domain.
+We called this the Eldred Act, but that was just to give it a name. Eric Eldred 
+was kind enough to let his name be used once again, but as he said early on, it 
+won’t get passed unless it has another name.
+Or another two names. For depending upon your perspective, this is either the 
+Public Domain Enhancement Act or the Copyright Term Deregulation Act. Either 
+way, the essence of the idea is clear and obvious: Remove copyright where it is 
+doing nothing except blocking access and the spread of knowledge. Leave it for 
+as long as Congress allows for those works where its worth is at least $1. But 
+for everything else, let the content go.
+The reaction to this idea was amazingly strong. Steve Forbes endorsed it in an 
+editorial. I received an avalanche of e-mail and letters expressing support. 
+When you focus the issue on lost creativity, people can see the copyright system 
+makes no sense. As a good Republican might say, here government regulation is 
+simply getting in the way of innovation and creativity. And as a good Democrat 
+might say, here the government is blocking access and the spread of knowledge 
+for no good reason. Indeed, there is no real difference between Democrats and 
+Republicans on this issue. Anyone can recognize the stupid harm of the present 
+system.
+Indeed, many recognized the obvious benefit of the registration requirement. For 
+one of the hardest things about the current system for people who want to 
+license content is that there is no obvious place to look for the current 
+copyright owners. Since registration is not required, since marking content is 
+not required, since no formality at all is required, it is often impossibly hard 
+to locate copyright owners to ask permission to use or license their work. This 
+system would lower these costs, by establishing at least one registry where 
+copyright owners could be identified.
+As I described in chapter 10, formalities in copyright law were removed in 1976, 
+when Congress followed the Europeans by abandoning any formal requirement before 
+a copyright is granted. [1] The Europeans are said to view copyright as a 
+natural right. Natural rights don’t need forms to exist. Traditions, like the 
+Anglo-American tradition that required copyright owners to follow form if their 
+rights were to be protected, did not, the Europeans thought, properly respect 
+the dignity of the author. My right as a creator turns on my creativity, not 
+upon the special favor of the government.
+That’s great rhetoric. It sounds wonderfully romantic. But it is absurd 
+copyright policy. It is absurd especially for authors, because a world without 
+formalities harms the creator. The ability to spread Walt Disney creativity is 
+destroyed when there is no simple way to know what’s protected and what’s not.
+The fight against formalities achieved its first real victory in Berlin in 1908. 
+International copyright lawyers amended the Berne Convention in 1908, to require 
+copyright terms of life plus fifty years, as well as the abolition of copyright 
+formalities. The formalities were hated because the stories of inadvertent loss 
+were increasingly common. It was as if a Charles Dickens character ran all 
+copyright offices, and the failure to dot an i or cross a t resulted in the 
+loss of widows’ only income.
+These complaints were real and sensible. And the strictness of the formalities, 
+especially in the United States, was absurd. The law should always have ways of 
+forgiving innocent mistakes. There is no reason copyright law couldn’t, as well. 
+Rather than abandoning formalities totally, the response in Berlin should have 
+been to embrace a more equitable system of registration.
+Even that would have been resisted, however, because registration in the 
+nineteenth and twentieth centuries was still expensive. It was also a hassle. 
+The abolishment of formalities promised not only to save the starving widows, 
+but also to lighten an unnecessary regulatory burden imposed upon creators.
+In addition to the practical complaint of authors in 1908, there was a moral 
+claim as well. There was no reason that creative property should be a second-
+class form of property. If a carpenter builds a table, his rights over the table 
+don’t depend upon filing a form with the government. He has a property right 
+over the table naturally, and he can assert that right against anyone who 
+would steal the table, whether or not he has informed the government of his 
+ownership of the table.
+This argument is correct, but its implications are misleading. For the argument 
+in favor of formalities does not depend upon creative property being second-
+class property. The argument in favor of formalities turns upon the special 
+problems that creative property presents. The law of formalities responds to the 
+special physics of creative property, to assure that it can be efficiently and 
+fairly spread.
+No one thinks, for example, that land is second-class property just because you 
+have to register a deed with a court if your sale of land is to be effective. 
+And few would think a car is second-class property just because you must 
+register the car with the state and tag it with a license. In both of those 
+cases, everyone sees that there is an important reason to secure registration
+both because it makes the markets more efficient and because it better secures 
+the rights of the owner. Without a registration system for land, landowners 
+would perpetually have to guard their property. With registration, they can 
+simply point the police to a deed. Without a registration system for cars, auto 
+theft would be much easier. With a registration system, the thief has a high 
+burden to sell a stolen car. A slight burden is placed on the property owner, 
+but those burdens produce a much better system of protection for property 
+generally.
+It is similarly special physics that makes formalities important in copyright 
+law. Unlike a carpenter’s table, there’s nothing in nature that makes it 
+relatively obvious who might own a particular bit of creative property. A 
+recording of Lyle Lovett’s latest album can exist in a billion places without 
+anything necessarily linking it back to a particular owner. And like a car, 
+there’s no way to buy and sell creative property with confidence unless there is 
+some simple way to authenticate who is the author and what rights he has. Simple 
+transactions are destroyed in a world without formalities. Complex, expensive, 
+/lawyer transactions take their place.
+This was the understanding of the problem with the Sonny Bono Act that we tried 
+to demonstrate to the Court. This was the part it didn’t get. Because we live 
+in a system without formalities, there is no way easily to build upon or use 
+culture from our past. If copyright terms were, as Justice Story said they would 
+be, short, then this wouldn’t matter much. For fourteen years, under the 
+framers’ system, a work would be presumptively controlled. After fourteen years, 
+it would be presumptively uncontrolled.
+But now that copyrights can be just about a century long, the inability to know 
+what is protected and what is not protected becomes a huge and obvious burden on 
+the creative process. If the only way a library can offer an Internet exhibit 
+about the New Deal is to hire a lawyer to clear the rights to every image and 
+sound, then the copyright system is burdening creativity in a way that has never 
+been seen before because there are no formalities.
+The Eldred Act was designed to respond to exactly this problem. If it is worth 
+$1 to you, then register your work and you can get the longer term. Others will 
+know how to contact you and, therefore, how to get your permission if they want 
+to use your work. And you will get the benefit of an extended copyright term.
+If it isn’t worth it to you to register to get the benefit of an extended term, 
+then it shouldn’t be worth it for the government to defend your monopoly over 
+that work either. The work should pass into the public domain where anyone can 
+copy it, or build archives with it, or create a movie based on it. It should 
+become free if it is not worth $1 to you.
+Some worry about the burden on authors. Won’t the burden of registering the work 
+mean that the $1 is really misleading? Isn’t the hassle worth more than $1? 
+Isn’t that the real problem with registration?
+It is. The hassle is terrible. The system that exists now is awful. I completely 
+agree that the Copyright Office has done a terrible job (no doubt because they 
+are terribly funded) in enabling simple and cheap registrations. Any real 
+solution to the problem of formalities must address the real problem of 
+/governments standing at the core of any system of formalities. In this book, I 
+offer such a solution. That solution essentially remakes the Copyright Office. 
+For now, assume it was Amazon that ran the registration system. Assume it was 
+one-click registration. The Eldred Act would propose a simple, one-click 
+registration fifty years after a work was published. Based upon historical data, 
+that system would move up to 98 percent of commercial work, commercial work that 
+no longer had a commercial life, into the public domain within fifty years. What 
+do you think?
+When Steve Forbes endorsed the idea, some in Washington began to pay attention. 
+Many people contacted me pointing to representatives who might be willing to 
+introduce the Eldred Act. And I had a few who directly suggested that they might 
+be willing to take the first step.
+One representative, Zoe Lofgren of California, went so far as to get the bill 
+drafted. The draft solved any problem with international law. It imposed the 
+simplest requirement upon copyright owners possible. In May 2003, it looked as 
+if the bill would be introduced. On May 16, I posted on the Eldred Act blog, we 
+are close. There was a general reaction in the blog community that something 
+good might happen here.
+But at this stage, the lobbyists began to intervene. Jack Valenti and the MPAA 
+general counsel came to the congresswoman’s office to give the view of the MPAA. 
+Aided by his lawyer, as Valenti told me, Valenti informed the congresswoman that 
+the MPAA would oppose the Eldred Act. The reasons are embarrassingly thin. More 
+importantly, their thinness shows something clear about what this debate is 
+really about.
+The MPAA argued first that Congress had firmly rejected the central concept in 
+the proposed billthat copyrights be renewed. That was true, but irrelevant, as 
+Congress’s firm rejection had occurred long before the Internet made 
+subsequent uses much more likely. Second, they argued that the proposal would 
+harm poor copyright ownersapparently those who could not afford the $1 fee. 
+Third, they argued that Congress had determined that extending a copyright term 
+would encourage restoration work. Maybe in the case of the small percentage of 
+work covered by copyright law that is still commercially valuable, but again 
+this was irrelevant, as the proposal would not cut off the extended term unless 
+the $1 fee was not paid. Fourth, the MPAA argued that the bill would impose 
+enormous costs, since a registration system is not free. True enough, but 
+those costs are certainly less than the costs of clearing the rights for a 
+copyright whose owner is not known. Fifth, they worried about the risks if the 
+copyright to a story underlying a film were to pass into the public domain. But 
+what risk is that? If it is in the public domain, then the film is a valid 
+derivative use.
+Finally, the MPAA argued that existing law enabled copyright owners to do this 
+if they wanted. But the whole point is that there are thousands of copyright 
+owners who don’t even know they have a copyright to give. Whether they are free 
+to give away their copyright or nota controversial claim in any caseunless 
+they know about a copyright, they’re not likely to.
+At the beginning of this book, I told two stories about the law reacting to 
+changes in technology. In the one, common sense prevailed. In the other, common 
+sense was delayed. The difference between the two stories was the power of the 
+oppositionthe power of the side that fought to defend the status quo. In both 
+cases, a new technology threatened old interests. But in only one case did those 
+interest’s have the power to protect themselves against this new competitive 
+threat.
+I used these two cases as a way to frame the war that this book has been about. 
+For here, too, a new technology is forcing the law to react. And here, too, we 
+should ask, is the law following or resisting common sense? If common sense 
+supports the law, what explains this common sense?
+When the issue is piracy, it is right for the law to back the copyright owners. 
+The commercial piracy that I described is wrong and harmful, and the law should 
+work to eliminate it. When the issue is p2p sharing, it is easy to understand 
+why the law backs the owners still: Much of this sharing is wrong, even if much 
+is harmless. When the issue is copyright terms for the Mickey Mouses of the 
+world, it is possible still to understand why the law favors Hollywood: Most 
+people don’t recognize the reasons for limiting copyright terms; it is thus 
+still possible to see good faith within the resistance.
+But when the copyright owners oppose a proposal such as the Eldred Act, then, 
+finally, there is an example that lays bare the naked self-interest driving this 
+war. This act would free an extraordinary range of content that is otherwise 
+unused. It wouldn’t interfere with any copyright owner’s desire to exercise 
+continued control over his content. It would simply liberate what Kevin Kelly 
+calls the Dark Content that fills archives around the world. So when the 
+warriors oppose a change like this, we should ask one simple question:
+What does this industry really want?
+With very little effort, the warriors could protect their content. So the effort 
+to block something like the Eldred Act is not really about protecting their 
+content. The effort to block the Eldred Act is an effort to assure that nothing 
+more passes into the public domain. It is another step to assure that the public 
+domain will never compete, that there will be no use of content that is not 
+commercially controlled, and that there will be no commercial use of content 
+that doesn’t require their permission first.
+The opposition to the Eldred Act reveals how extreme the other side is. The most 
+powerful and sexy and well loved of lobbies really has as its aim not the 
+protection of property but the rejection of a tradition. Their aim is not 
+simply to protect what is theirs. Their aim is to assure that all there is is 
+what is theirs.
+It is not hard to understand why the warriors take this view. It is not hard to 
+see why it would benefit them if the competition of the public domain tied to 
+the Internet could somehow be quashed. Just as RCA feared the competition of FM, 
+they fear the competition of a public domain connected to a public that now has 
+the means to create with it and to share its own creation.
+What is hard to understand is why the public takes this view. It is as if the 
+law made airplanes trespassers. The MPAA stands with the Causbys and demands 
+that their remote and useless property rights be respected, so that these remote 
+and forgotten copyright holders might block the progress of others.
+All this seems to follow easily from this untroubled acceptance of the 
+property in intellectual property. Common sense supports it, and so long as it 
+does, the assaults will rain down upon the technologies of the Internet. The 
+consequence will be an increasing permission society. The past can be 
+cultivated only if you can identify the owner and gain permission to build upon 
+his work. The future will be controlled by this dead (and often unfindable) hand 
+of the past.
+Continue...
+
+“Free Culture” by Lawrence Lessig is available for free under a Creative Commons license.
+(You may redistribute, copy, or otherwise reuse/remix this book provided that you do so for non-commercial purposes and credit Professor Lessig.)
+Complete book. Authorama - Classic Literature, free of copyright. About...
+Free Culture: The Nature and Future of CreativityBy Lawrence LessigAt Amazon

@@ -1,0 +1,680 @@
+
+
+
+RHYTHM AND METRE
+  “Rhythm is the recurrence of stress at intervals; metre is the
+  regular, or measured, recurrence of stress."
+    M. H. SHACKFORD, A First Book of Poetics
+  “Metres being manifestly sections of rhythm."
+    ARISTOTLE, Poetics, 4. (Butcher’s translation)
+  “Thoughts that voluntary move
+  Harmonious numbers."
+    MILTON
+1. The Nature of Rhythm
+And why must the words begin to dance? The answer is to be perceived in
+the very nature of Rhythm, that old name for the ceaseless pulsing or
+“flowing” of all living things. So deep indeed lies the instinct for
+rhythm in our consciousness that we impute it even to inanimate objects.
+We hear the ticking of the clock as tíck-tock, tíck-tock, or else
+tick-tóck, tick-tóck, although psychologists assure us that the clock’s
+wheels are moving with indifferent, mechanical precision, and that it is
+simply our own focusing of attention upon alternate beats which creates
+the impression of rhythm. We hear a rhythm in the wheels of the train, and
+in the purring of the motor-engine, knowing all the while that it
+is we who impose or make-up the rhythm, in our human instinct for
+organizing the units of attention. We cannot help it, as long as our own
+pulses beat. No two persons catch quite the same rhythm in the sounds of
+the animate and inanimate world, because no two persons have absolutely
+identical pulse-beats, identical powers of attention, an identical
+psycho-physical organism. We all perceive that there is a rhythm in a
+racing crew, in a perfectly timed stroke of golf, in a fisherman’s fly-
+casting, in a violinist’s bow, in a close-hauled sailboat fighting with
+the wind. But we appropriate and organize these objective impressions in
+subtly different ways.
+When, for instance, we listen to poetry read aloud, or when we read it
+aloud ourselves, some of us are instinctive “timers,"
+[Footnote: See W. M. Patterson, The Rhythm of Prose. Columbia University
+Press, 1916.]
+paying primary attention to the spaced or measured intervals of time,
+although in so doing we are not wholly regardless of those points of
+“stress” which help to make the time-intervals plainer. Others of us are
+natural “stressers,” in that we pay primary attention to the “weight” of
+words,–the relative loudness or pitch, by which their meaning or
+importance is indicated,–and it is only secondarily that we think of
+these weighted or “stressed” words as separated from one another by
+approximately equal intervals of time. Standing on the rocks at Gloucester
+after an easterly storm, a typical “timer” might be chiefly conscious of
+the steady sequence of the waves, the measured intervals between
+their summits; while the typical stresser, although subconsciously aware
+of the steady iteration of the giant rollers, might watch primarily their
+foaming crests, and listen chiefly to their crashing thunder. The point to
+be remembered is this: that neither the “timing” instinct nor the
+“stressing” instinct excludes the other, although in most individuals one
+or the other predominates. Musicians, for instance, are apt to be
+noticeable “timers,” while many scholars who deal habitually with words in
+their varied shifts of meaning, are professionally inclined to be
+“stressers.”
+2. The Measurement of Rhythm
+Let us apply these facts to some of the more simple of the vexed questions
+of prosody, No one disputes the universality of the rhythmizing impulse;
+the quarrel begins as soon as any prosodist attempts to dogmatize about
+the nature and measurement of those flowing time-intervals whose
+arrangement we call rhythm. No one disputes, again, that the only arbiter
+in matters of prosody is the trained ear, and not the eye. Infinitely
+deceptive is the printed page of verse when regarded by the eye. Verse may
+be made to look like prose and prose to look like verse. Capital letters,
+lines, rhymes, phrases and paragraphs may be so cunningly or
+conventionally arranged by the printer as to disguise the real nature of
+the rhythmical and metrical pattern. When in doubt, close your eyes!
+We agree, then, that in all spoken language–and this is as true of prose
+as it is of verse–there are time-intervals more or less clearly marked,
+and that the ear is the final judge as to the nature of these intervals.
+But can the ear really measure the intervals with any approximation to
+certainty, so that prosodists, for instance, can agree that a given poem
+is written in a definite metre? In one sense “yes.” No one doubts that the
+Odyssey is written in “dactylic hexameters,” i.e., in lines made up of
+six “feet,” each one of which is normally composed of a long syllable plus
+two short syllables, or of an acceptable equivalent for that particular
+combination. But when we are taught in school that Longfellow’s
+Evangeline is also written in “dactylic hexameters,” trouble begins for
+the few inquisitive, since it is certain that if you close your eyes and
+listen carefully to a dozen lines of Homer’s Greek, and then to a
+dozen lines of Longfellow’s English, each written in so-called
+“hexameters,” you are listening to two very different arrangements of
+time-intervals, so different, in fact, that the two poems are really not
+in the same “measure” or “metre” at all. For the Greek poet was, as a
+metrist, thinking primarily of quantity, of the relative “timing” of his
+syllables, and the American of the relative “stress” of his syllables.
+[Footnote: “Musically speaking–because the musical terms are exact and
+not ambiguous–true dactyls are in 2-4 time and the verse of Evangelineis in 3-8 time.” T. D. Goodell, Nation, October 12, 1911.]
+That illustration is drearily hackneyed, no doubt, but it has a double
+value. It is perfectly clear; and furthermore, it serves to remind us of
+the instinctive differences between different persons and different races
+as regards the ways of arranging time-intervals so as to create the
+rhythms of verse. The individual’s standard of measurement–his poetic
+foot-rule, so to speak–is very elastic,–"made of rubber” indeed, as the
+experiments of many psychological laboratories have demonstrated beyond a
+question. Furthermore, the composers of poetry build it out of very
+elastic units. They are simply putting syllables of words together into a
+rhythmical design, and these “airy syllables,” in themselves mere symbols
+of ideas and feelings, cannot be weighed by any absolutely correct
+sound-scales. They cannot be measured in time by any absolutely accurate
+watch-dial, or exactly estimated in their meaning, whether that be literal
+or figurative, by any dictionary of words and phrases. But this is only
+saying that the syllables which make up the units of verse, whether the
+units be called “foot” or “line” or “phrase,” are not dead, mechanical
+things, but live things, moving rhythmically, entering thereby into the
+pulsing, chiming life of the real world, and taking on more fullness of
+life and beauty in elastic movement, in ordered but infinitely flexible
+design, than they ever could possess as independent particles.
+3. Conflict and Compromise
+And everywhere in the arrangement of syllables into the patterns of rhythm
+and metre we find conflict and compromise, the surrender of some values of
+sound or sense for the sake of a greater unity. To revert to
+considerations dealt with in an earlier chapter, we touch here upon the
+old antinomy–or it may be, harmony–between “form” and “significance,"
+between the “outside” and the “inside” of the work of art. For words,
+surely, have one kind of value as pure sound, as “cadences” made up of
+stresses, slides, pauses, and even of silences when the expected syllable
+is artfully withheld. It is this sound-value, for instance, which you
+perceive as you listen to a beautifully recited poem in Russian, a
+language of which you know not a single word; and you may experience a
+modification of the same pleasure in closing your mind wholly to the
+“sense” of a richly musical passage in Swinburne, and delighting your ear
+by its mere beauty of tone. But words have also that other value as
+meaning, and we are aware how these meaning values shift with the stress
+and turns of thought, so that a given word has a greater or less weight in
+different sentences or even in different clauses of the same sentence.
+“Meaning" values, like sound values, are never precisely fixed in a
+mechanical and universally agreed-upon scale, they are relative, not
+absolute. Sometimes meaning and sound conflict with one another, and one
+must be sacrificed in part, as when the normal accent of a word
+refuses to coincide with the verse-accent demanded by a certain measure,
+so that we “wrench” the accent a trifle, or make it “hover” over two
+syllables without really alighting upon either. And it is significant that
+lovers of poetry have always found pleasure in such compromises.
+[Footnote: Compare the passage about Chopin’s piano-playing, quoted from
+Alden in the Notes and Illustrations for this chapter.]
+They enjoy minor departures from and returns to the normal, the expected
+measure of both sound and sense, just as a man likes to sail a boat as
+closely into the wind as he conveniently can, making his actual course a
+compromise between the line as laid by the compass, and the actual facts
+of wind and tide and the behavior of his particular boat. It is thus that
+the sailor “makes it,” triumphantly! And the poet “makes it” likewise, out
+of deep, strong-running tides of rhythmic impulse, out of arbitrary words
+and rebellious moods, out of
+  “Thoughts hardly to be packed
+  Into a narrow act,
+  Fancies that broke through language and escaped,”
+until he compels rhythm and syllables to move concordantly, and blend into
+that larger living whole–the dancing, singing crowd of sounds and
+meanings which make up a poem.
+4. The Rhythms of Prose
+Just here it may be of help to us to turn away for a moment from verse
+rhythm, and to consider what Dryden called “the other harmony” of prose.
+For no one doubts that prose has rhythm, as well as verse. Vast and
+learned treatises have been written on the prose rhythms of the Greeks and
+Romans, and Saintsbury’s History of English Prose Rhythm is a monumental
+collection of wonderful prose passages in English, with the scansion of
+“long” and “short” syllables and of “feet” marked after a fashion that
+seems to please no one but the author. But in truth the task of inventing
+an adequate system for notating the rhythm of prose, and securing a
+working agreement among prosodists as to a proper terminology, is almost
+insuperable. Those of us who sat in our youth at the feet of German
+masters were taught that the distinction between verse and prose was
+simple: verse was, as the Greeks had called it, “bound speech” and prose
+was “loosened speech.” But a large proportion of the poetry published in
+the last ten years is “free verse,” which is assuredly of a “loosened"
+rather than a “bound” pattern.
+Apparently the old fence between prose and verse has been broken down. Or,
+if one conceives of indubitable prose and indubitable verse as forming two
+intersecting circles, there is a neutral zone,
+[Illustration:   Prose  /  Neutral Zone  /  Verse]
+which some would call “prose poetry” and some “free verse,” and which,
+according to the experiments of Dr. Patterson
+[Footnote: The Rhythm of Prose, already cited.]
+may be appropriated as “prose experience” or “verse experience” according
+to the rhythmic instinct of each individual. Indeed Mr. T. S. Omond has
+admitted that “the very same words, with the very same natural stresses,
+may be prose or verse according as we treat them. The difference is in
+ourselves, in the mental rhythm to which we unconsciously adjust the
+words."
+[Footnote: Quoted in B. M. Alden, “The Mental Side of Metrical Form,"
+Modern Language Review, July, 1914.]
+Many familiar sentences from the English Bible or Prayer-Book, such as the
+words from the Te Deum, “We, therefore, pray thee, help thy servants,
+whom thou hast redeemed with thy precious blood,” have a rhythm which may
+be felt as prose or verse, according to the mental habit or mood or
+rhythmizing impulse of the hearer.
+Nevertheless it remains true in general that the rhythms of prose are more
+constantly varied, broken and intricate than the rhythms of verse. They
+are characterized, according to the interesting experiments of Dr.
+Patterson, by syncopated time,
+[Footnote: “For a ’timer’ the definition of prose as distinguished from
+verse experience depends upon a predominance of syncopation over
+coincidence in the coordination of the accented syllables of the text with
+the measuring pulses.” Rhythm of Prose, p. 22.]
+whereas in normal verse there is a fairly clean-cut coincidence between
+the pulses of the hearer and the strokes of the rhythm. Every one seems to
+agree that there is a certain danger in mixing these infinitely subtle and
+“syncopated” tunes of prose with the easily recognized tunes of verse.
+There is, unquestionably, a natural “iambic” roll in English prose, due to
+the predominant alternation of stressed and unstressed syllables in our
+native tongue, but when Dickens–to cite what John Wesley would call “an
+eminent sinner” in this respect–inserts in his emotional prose line after
+line of five-stress “iambic” verse, we feel instinctively that the
+presence of the blank verse impairs the true harmony of the prose.
+[Footnote:  Observe, in the “Notes and Illustrations” for this chapter,
+the frequency of the blank-verse lines in Robert G. Ingersoll’s “Address
+over a Little Boy’s Grave."]
+Delicate writers of English prose usually avoid this coincidence of
+pattern with the more familiar patterns of verse, but it is impossible to
+avoid it wholly, and some of the most beautiful cadences of English prose
+might, if detached from their context, be scanned for a few syllables as
+perfect verse. The free verse of Whitman, Henley and Matthew Arnold is
+full of these embedded fragments of recognized “tunes of verse,” mingled
+with the unidentifiable tunes of prose. There has seldom been a more
+curious example of accidental coincidence than in this sentence from a
+prosaic textbook on “The Parallelogram of Forces”: “And hence no force,
+however great, can draw a cord, however fine, into a horizontal line which
+shall be absolutely straight.” This is precisely the “four-stressed
+iambic” metre of In Memoriam, and it even preserves the peculiar rhyme
+order of the In Memoriam stanza:
+  “And hence no force, however great,
+    Can draw a cord, however fine,
+    Into a horizontal line
+  Which shall be absolutely straight.”
+We shall consider more closely, in the section on Free Verse in the
+following chapter, this question of the coincidence and variation of
+pattern as certain types of loosened verse pass in and out of the zone
+which is commonly recognized as pure prose. But it is highly important
+here to remember another fact, which professional psychologists in their
+laboratory experiments with the notation of verse and prose have
+frequently forgotten, namely, the existence of a type of ornamented prose,
+which has had a marked historical influence upon the development of
+English style. This ornamented prose, elaborated by Greek and Roman
+rhetoricians, and constantly apparent in the pages of Cicero, heightened
+its rhythm by various devices of alliteration, assonance, tone-color,
+cadence, phrase and period. Greek oratory even employed rhyme in highly
+colored passages, precisely as Miss Amy Lowell uses rhyme in her
+polyphonic or “many-voiced” prose. Medieval Latin took over all of these
+devices from Classical Latin, and in its varied oratorical, liturgical and
+epistolary forms it strove to imitate the various modes of cursus("running”) and clausula ("cadence”) which had characterized the rhythms
+of Isocrates and Cicero.
+[Footnote: A. C. Clark, Prose Rhythm in English. Oxford, 1913.
+Morris W. Croll, “The Cadence of English Oratorical Prose,” Studies in
+Philology. January, 1919.
+Oliver W. Elton, “English Prose Numbers,” in Essays and Studies by
+members of the English Association, 4th Series. Oxford, 1913.]
+From the Medieval Latin Missal and Breviary these devices of prose rhythm,
+particularly those affecting the end of sentences, were taken over into
+the Collects and other parts of the liturgy of the English Prayer-Book.
+They had a constant influence upon the rhythms employed by the translators
+of the English Bible, and through the Bible the cadences of this ancient
+ornamented prose have passed over into the familiar but intricate
+harmonies of our “heightened” modern prose.
+While this whole matter is too technical to be dealt with adequately here,
+it may serve at least to remind the reader that an appreciation of English
+prose rhythms, as they have been actually employed for many centuries,
+requires a sensitiveness to the rhetorical position of phrases and
+clauses, and to “the use of sonorous words in the places of rhetorical
+emphasis, which cannot be indicated by the bare symbols of prosody."
+[Footnote: New York Nation, February 27, 1913.]
+For that sonority and cadence and balance which constitute a harmonious
+prose sentence cannot be adequately felt by a possibly illiterate
+scientist in his laboratory for acoustics; the “literary" value of words,
+in all strongly emotional prose, is inextricably mingled with the bare
+sound values: it is thought-units that must be delicately “balanced” as
+well as stresses and slides and final clauses; it is the elevation of
+ideas, the nobility and beauty of feeling, as discerned by the trained
+literary sense, which makes the final difference between enduring prose
+harmonies and the mere tinkling of the “musical glasses."
+[Footnote: This point is suggestively discussed by C. E. Andrews,
+The Writing and Reading of Verse, chap. 5. New York, 1918.]
+The student of verse may very profitably continue to exercise himself with
+the rhythms of prose. He should learn to share the unwearied enthusiasm of
+Professor Saintsbury for the splendid cadences of our sixteenth-century
+English, for the florid decorative period of Thomas Browne and Jeremy
+Taylor, for the eloquent “prose poetry” of De Quincey and Ruskin and
+Charles Kingsley, and for the strangely subtle effects wrought by Pater
+and Stevenson. But he must not imagine that any laboratory system of
+tapping syncopated time, or any painstaking marking of macrons (-) breves
+(u) and caesuras (||) will give him full initiation into the mysteries of
+prose cadences which have been built, not merely out of stressed and
+unstressed syllables, but out of the passionate intellectual life of many
+generations of men. He may learn to feel that life as it pulsates in
+words, but no one has thus far devised an adequate scheme for its
+notation.
+5. Quantity, Stress and Syllable
+The notation of verse, however, while certainly not a wholly simple
+matter, is far easier. It is practicable to indicate by conventional
+printer’s devices the general rhythmical and metrical scheme of a poem,
+and to indicate the more obvious, at least, of its incidental variations
+from the expected pattern. It remains as true of verse as it is of prose
+that the “literary" values of words–their connotations or emotional
+overtones–are too subtle to be indicated by any marks invented by a
+printer; but the alternation or succession of long or short syllables, of
+stressed or unstressed syllables, the nature of particular feet
+and lines and stanzas, the order and interlacing of rhymes, and even the
+devices of tone-color, are sufficiently external elements of verse to
+allow easy methods of indication.
+When you and I first began to study Virgil and Horace, for instance, we
+were taught that the Roman poets, imitating the Greeks, built heir verses
+upon the principle of Quantity. The metrical unit was the foot, made up
+of long and short syllables in various combinations, two short syllables
+being equivalent to one long one. The feet most commonly used were the
+Iambus [short-long], the Anapest [short-short-long], the Trochee
+[long-short], the Dactyl [long-short-short], and the Spondee [long-long].
+Then we were instructed that a “verse” or line consisting of one foot was
+called a monometer, of two feet, a dimeter, of three, a trimeter, of four,
+a tetrameter, of five, a pentameter, of six, a hexameter. This looked like
+a fairly easy game, and before long we were marking the quantities in the
+first line of the Aeneid, as other school-children had done ever since the
+time of St. Augustine:
+ Arma vi¦rumque ca¦no  Tro¦jae qui ¦ primus ab¦oris.
+Or perhaps it was Horace’s
+ Maece¦nas, atavis ¦¦ edite reg¦ibus.
+We were told, of course, that it was not all quite as simple as this: that
+there were frequent metrical variations, such as trochees changing places
+with dactyls, and anapests with iambi; that feet could be inverted, so
+that a trochaic line might begin with an iambus, an anapestic line with a
+dactyl, or vice versa; that syllables might be omitted at the beginning
+or the end or even in the middle of a line, and that this “cutting-off"
+was called catalexis; that syllables might even be added at the
+beginning or end of certain lines and that these syllables were called
+hypermetric; and that we must be very watchful about pauses,
+particularly about a somewhat mysterious chief pause, liable to occur
+about the middle of a line, called a caesura. But the magic password to
+admit us to this unknown world of Greek and Roman prosody was after all
+the word Quantity.
+If a few of us were bold enough to ask the main difference between this
+Roman system of versification and the system which governed modern English
+poetry–even such rude playground verse as
+  “Eeny, meeny, miny, mo,
+  Catch a nigger by the toe"–
+we were promptly told by the teacher that the difference was a very plain
+one, namely, that English, like all the Germanic languages, obeyed in its
+verse the principles of Stress. Instead of looking for “long” and
+“short” syllables, we had merely to look for “stressed” and “unstressed"
+syllables. It was a matter, not of quantity, but of accent; and if we
+remembered this fact, there was no harm but rather a great convenience, in
+retaining the technical names of classical versification. Only we must be
+careful that by “iambus,” in English poetry, we meant an unstressed
+syllable, rather than a short syllable followed by a long one. And so with
+“trochee,” “dactyl,” “anapest” and the rest; if we knew that accent and
+not quantity was what we really had in mind, it was proper enough to speak
+of Paradise Lost as written in “iambic pentameter,” and Evangeline in
+“dactylic hexameter,” etc. The trick was to count stresses and not
+syllables, for was not Coleridge’s Christabel written in a metre which
+varied its syllables anywhere from four to twelve for the line, yet
+maintained its music by regularity of stress?
+Nothing could be plainer than all this. Yet some of us discovered when we
+went to college and listened to instructors who grew strangely excited
+over prosody, that it was not all as easy as this distinction between
+Quantity and Stress would seem to indicate. For we were now told that
+the Greek and Roman habits of daily speech in prose had something to do
+with their instinctive choice of verse-rhythms: that at the very time when
+the Greek heroic hexameters were being composed, there was a natural
+dactylic roll in spoken prose; that Roman daily speech had a stronger
+stress than Greek, so that Horace, in imitating Greek lyric measures, had
+stubborn natural word-accents to reconcile with his quantitative measures;
+that the Roman poets, who had originally allowed normal word-accent and
+verse-pulse to coincide for the most part, came gradually to enjoy a
+certain clash between them, keeping all the while the quantitative
+principle dominant; so that when Virgil and Horace read their verses
+aloud, and word-accent and verse-pulse fell upon different syllables, the
+verse-pulse yielded slightly to the word-accent, thus adding something of
+the charm of conversational prose to the normal time-values of the rhythm.
+In a word, we were now taught–if I may quote from a personal letter of a
+distinguished American Latinist–that “the almost universal belief that
+Latin verse is a matter of quantity only is a mistake. Word-accent was not
+lost in Latin verse.”
+And then, as if this undermining of our schoolboy faith in pure Quantity
+were not enough, came the surprising information that the Romans had kept,
+perhaps from the beginning of their poetizing, a popular type of accented
+verse, as seen in the rude chant of the Roman legionaries,
+ Mílle Fráncos mílle sémel Sármatás occídimús.
+[Footnote: See C. M. Lewis, Foreign Sources of Modern English
+Versification. Halle, 1898.]
+Certainly those sun-burnt “doughboys” were not bothering themselves
+about trochees and iambi and such toys of cultivated “literary” persons;
+they were amusing themselves on the march by inventing words to fit the
+“goose-step.” Their
+ Unus homo mille mille mille decollavimus
+which Professor Courthope scans as trochaic verse,
+[Footnote: History of English Poetry, vol. 1, p. 73.]
+seems to me nothing but “stress” verse, like
+ “Hay-foot, straw-foot, belly full of bean-soup–Hep–Hep!”
+Popular accentual verse persisted, then, while the more cultivated Roman
+public acquired and then gradually lost, in the course of centuries, its
+ear for the quantitative rhythms which originally had been copied from the
+Greeks.
+Furthermore, according to our ingenious college teachers, there was still
+a third principle of versification to be reckoned with, not depending on
+Quantity or Stress, but merely Syllabic, or syllable-counting. This was
+immemorially old, it seemed, and it had reappeared mysteriously in Europe
+in the Dark Ages.
+Dr. Lewis cites from a Latin manuscript poem of the ninth century:
+[Footnote: Foreign Sources, etc., p. 3.]
+  “Beatissimus namque Dionysius ¦ Athenis quondam episcopus,
+  Quem Sanctus Clemens direxit in Galliam ¦ propter praedicandi
+    gratiam,” etc.
+“Each verse contains 21 syllables, with a caesura after the 12th. No
+further regularity, either metrical or rhythmical, can be perceived.
+Such a verse could probably not have been written except for music."
+Church-music, apparently, was also a factor in the development of
+versification,–particularly that “Gregorian" style which demanded neither
+quantitative nor accentual rhythm, but simply a fair count of syllables in
+the libretto, note matching syllable exactly. But when the great medieval
+Latin hymns, like Dies ire, were written, the Syllabic principle of
+versification, like the Quantitative principle, dropped out of sight,
+and we witness once more the emergence of the Stress or accentual system,
+heavily ornamented with rhymes.
+[Footnote: See the quotation from Taylor’s Classical Heritage of the
+Middle Ages printed in the “Notes and Illustrations” for this chapter.]
+Yet the Syllabic method reappears once more, we were told, in French
+prosody, and thus affects the verse of Chaucer and of subsequent English
+poetry, and it still may be studied, isolated as far as may be from
+considerations of quantity and stress, in certain English songs written
+for music, where syllable carefully matches note. The “long metre"
+(8 syllables), “short metre” (6 syllables) and “common metre"
+(7 syllables, 6 syllables) of the hymn books is a convenient
+illustration of thinking of metre in terms of syllables alone.
+6. The Appeal to the Ear
+At this point, perhaps, having set forth the three theories of Quantity,
+Stress and Syllable, our instructors were sensible enough to make an
+appeal to the ear. Reminding us that stress was the controlling principle
+in Germanic poetry,–although not denying that considerations of quantity
+and number of syllables might have something to do with the effect,–they
+read aloud to us some Old English verse. Perhaps it was that Song of the
+Battle of Brunanburh which Tennyson has so skilfully rendered into modern
+English words while preserving the Old English metre. And here, though the
+Anglo-Saxon words were certainly uncouth, we caught the chief stresses
+without difficulty, usually four beats to the line. If the instructor,
+while these rude strokes of rhythm were still pounding in our ears,
+followed the Old English with a dozen lines of Chaucer, we could all
+perceive the presence of a newer, smoother, more highly elaborated
+verse-music, where the number of syllables had been cunningly
+reckoned, and the verse-accent seemed always to fall upon a syllable long
+and strong enough to bear the weight easily, and the rhymes rippled like a
+brook. Whether we called the metre of the Prologue rhymed couplets of
+iambic pentameter, or rhymed couplets of ten-syllabled, five-stressed
+verse, the music, at least, was clear enough. And so was the music of the
+“blank” or unrhymed five-stress lines of Marlowe and Shakspere and Milton,
+and as we listened it was easy to believe that “stress” and “quantity” and
+“syllable,” all playing together like a chime of bells, are concordant and
+not quarrelsome elements in the harmony of modern English verse. Only, to
+be richly concordant, each must be prepared to yield a little if need be,
+to the other!
+I have taken too many pages, perhaps, in thus sketching the rudimentary
+education of a college student in the elements of rhythm and metre, and in
+showing how the theoretical difficulties of the subject–which are
+admittedly great–often disappear as soon as one resolves to let the ear
+decide. A satisfied ear may soothe a dissatisfied mind. I have quoted from
+a letter of an American scholar about quantity being the “controlling"
+element of cultivated Roman verse, and I now quote from a personal letter
+of an American poet, emphasizing the necessity of “reading poetry as it
+was meant to be read”: “My point is not that English verse has no
+quantity, but that the controlling element is not quantity but accent. The
+lack of fixed syllabic quantity is just what I emphasize. This lack
+makes definite beat impossible: or at least it makes it absurd to
+attempt to scan English verse by feet. The proportion of ’irregularities’
+and ’exceptions’ becomes painful to the student and embarrassing to the
+professor. He is put to fearful straits to explain his prosody and make it
+fit the verse. And when he has done all this, the student, if he has a
+good ear, forthwith forgets it all, and reads the verse as it was meant to
+be read, as a succession of musical bars (without pitch, of course), in
+which the accent marks the rhythm, and pauses and rests often take the
+place of missing syllables. To this ingenuous student I hold out my hand
+and cast in my lot with him. He is the man for whom English poetry is
+written.”
+It may be objected, of course, that the phrase “reading poetry as it was
+meant to be read” really begs the question. For English poets have often
+amused themselves by composing purely quantitative verse, which they wish
+us to read as quantitative. The result may be as artificial as the
+painfully composed Latin quantitative verse of English schoolboys, but the
+thing can be done. Tennyson’s experiments in quantity are well known, and
+should be carefully studied. He was proud of his hexameter:
+  “High winds roaring above me, dark leaves falling about me,”
+and of his pentameter:
+  “All men alike hate slops, particularly gruel.”
+Here the English long and short syllables–as far as “long” and “short"
+can be definitely distinguished in English–correspond precisely to the
+rules of Roman prosody. The present Laureate, Robert Bridges, whose
+investigations in English and Roman prosody have been incessant, has
+recently published a book of experiments in writing English quantitative
+hexameters.
+[Footnote: Ibant Obscuri. New York, Oxford University Press, 1917.]
+Here are half a dozen lines:
+  “Midway of all this tract, with secular arms an immense elm
+  Reareth a crowd of branches, aneath whose lofty protection
+  Vain dreams thickly nestle, clinging unto the foliage on high:
+  And many strange creatures of monstrous form and features
+  Stable about th’ entrance, Centaur and Scylla’s abortion,
+  And hundred-handed Briareus, and Lerna’s wild beast....”
+These are lines interesting to the scholar, but they are somehow
+“non-English” in their rhythm–not in accordance with “the genius of the
+language,” as we vaguely but very sensibly say. Neither did the stressed
+“dactylic” hexameters of Longfellow, written though they were by a skilful
+versifier, quite conform to “the nature of the language.”
+7. The Analogy with Music
+One other attempt to explain the difficulties of English rhythm and metre
+must at least be mentioned here, namely the “musical” theory of the
+American poet and musician, Sidney Lanier. In his Science of English
+Verse, an acute and very suggestive book, he threw over the whole theory
+of stress–or at least, retained it as a mere element of assistance, as in
+music, to the marking of time, maintaining that the only necessary element
+in rhythm is equal time-intervals, corresponding to bars of music.
+According to Lanier, the structure of English blank verse, for instance,
+is not an alternation of unstressed with stressed syllables, but a series
+of bars of 3/8 time, thus:
+[Illustration: Five bars of 3/8 time, each with a short and a long note.]
+Thomson, Dabney and other prosodists have followed Lanier’s general
+theory, without always agreeing with him as to whether blank verse is
+written in 3/8 or 2/4 time. Alden, in a competent summary of these various
+musical theories as to the basis of English verse,
+[Footnote: Introduction to Poetry, pp. 190-93. See also Alden’s English
+Verse, Part 3. “The Time-Element in English Verse."]
+quotes with approval Mr. T. S. Omond’s words: “Musical notes are almost
+pure symbols. In theory at least, and no doubt substantially in practice,
+they can be divided with mathematical accuracy–into fractions of 1/2,
+1/4, 1/8, 1/16, etc.–and the ideal of music is absolute accordance with
+time. Verse has other methods and another ideal. Its words are concrete
+things, not readily carved to such exact pattern.... The perfection of
+music lies in absolute accordance with time, that of verse is continual
+slight departures from time. This is why no musical representations of
+verse ever seem satisfactory. They assume regularity where none exists.”
+8. Prosody and Enjoyment
+It must be expected then, that there will be different preferences in
+choosing a nomenclature for modern English metres, based upon the
+differences in the individual physical organism of various metrists, and
+upon the strictness of their adherence to the significance of stress,
+quantity and number of syllables in the actual forms of verse. Adherents
+of musical theories in the interpretation of verse may prefer to speak of
+“duple time” instead of iambic-trochaic metres, and of “triple” time for
+anapests and dactyls. Natural “stressers” may prefer to call iambic and
+anapestic units “rising” feet, to indicate the ascent of stress as one
+passes from the weaker to the stronger syllables; and similarly, to call
+trochaic and dactylic units “falling” feet, to indicate the descent or
+decline of stress as the weaker syllable or syllables succeed the
+stronger. Or, combining these two modes of nomenclature, one may
+legitimately speak of iambic feet as “duple rising,”
+  “And never lifted up a single stone";
+trochaic as “duple falling,”
+  “Here they are, my fifty perfect poems";
+anapestic as “triple rising,”
+  “But he lived with a lot of wild mates, and they never would let him be
+good";
+and dactylic as “triple falling";
+  “Cannon to right of them, cannon to left of them.”
+If a line is felt as “metrical,” i.e. divided into approximately equal
+time-intervals, the particular label employed to indicate the nature of
+the metre is unimportant. It may be left to the choice of each student of
+metre, provided he uses his terms consistently. The use of the traditional
+terminology “iambic,” “trochaic,” etc., is convenient, and is open to no
+objection if one is careful to make clear the sense in which he employs
+such ambiguous terms.
+It should also be added, as a means of reconciling the apparently warring
+claims of stress and quantity in English poetry, that recent
+investigations in recording through delicate instruments the actual
+time-intervals used by different persons in reading aloud the same lines
+of poetry, prove what has long been suspected, namely, the close
+affiliation of quantity with stress.
+[Footnote: “Syllabic Quantity in English Verse,” by Ada F. Snell, Pub. Of
+Mod, Lang. Ass., September, 1918.]
+Miss Snell’s experiments show that the foot in English verse is made up of
+syllables 90 per cent of which are, in the stressed position, longer than
+those in the unstressed. The average relation of short to long syllables,
+is, in spite of a good deal of variation among the individual readers,
+almost precisely as 2 to 4–which has always been the accepted ratio for
+the relation of short to long syllables in Greek and Roman verse. If one
+examines English words in a dictionary, the quantities of the syllables
+are certainly not “fixed” as they are in Greek and Latin, but the moment
+one begins to read a passage of English poetry aloud, and becomes
+conscious of its underlying type of rhythm, he fits elastic units of
+“feet” into the steadily flowing or pulsing intervals of time.
+The “foot” becomes, as it were, a rubber link in a moving bicycle chain.
+The revolutions of the chain mark the rhythm; and the stressed or
+unstressed or lightly stressed syllables in each “link” or foot,
+accommodate themselves, by almost unperceived expansion and contraction,
+to the rhythmic beat of the passage as a whole.
+Nor should it be forgotten that the “sense” of words, their
+meaning-weight, their rhetorical value in certain phrases, constantly
+affects the theoretical number of stresses belonging to a given line. In
+blank verse, for instance, the theoretical five chief stresses are often
+but three or four in actual practice, lighter stresses taking their place
+in order to avoid a pounding monotony, and conversely, as in Milton’s
+famous line,
+  “Rocks, caves, lakes, dens, bogs, fens, and shades of death,”
+the rhetorical significance of the monosyllables compels an overloading of
+stresses which heightens the desired poetic effect. Corson’s Primer of
+English Verse and Mayor’s English Metres give numerous examples from
+the blank verse of Milton and Tennyson to illustrate the constant
+substitution and shifting of stresses in order to secure variety of music
+and suggestive adaptations of sound to sense. It is well known that
+Shakspere’s blank verse, as he developed in command of his artistic
+resources, shows fewer “end-stopped” lines and more “run-on” lines, with
+an increasing proportion of light and weak endings. But the same principle
+applies to every type of English rhythm. As soon as the dominant
+beat–which is commonly, but not always, apparent in the opening measures
+of the poem–once asserts itself, the poet’s mastery of technique is
+revealed through his skill in satisfying the ear with a verbal music which
+is never absolutely identical in its time-intervals, its stresses or its
+pitch, with the fixed, wooden pattern of the rhythm he is using.
+For the human voice utters syllables which vary their duration, stress and
+pitch with each reader. Photographs of voice-waves, as printed by Verrier,
+Scripture, and many other laboratory workers, show how great is the
+difference between individuals in the intervals covered by the upward and
+downward slides or “inflections” which indicate doubt or affirmation. And
+these “rising” and “falling” and “circumflex” and “suspended” inflections,
+which make up what is called “pitch-accent,” are constantly varied, like
+the duration and stress of syllables, by the emotions evoked in reading.
+Words, phrases, lines and stanzas become colored with emotional overtones
+due to the feeling of the instant. Poetry read aloud as something sensuous
+and passionate cannot possibly conform exactly to a set mechanical pattern
+of rhythm and metre. Yet the hand-woven Oriental rug, though lacking the
+geometrical accuracy of a rug made by machinery, reveals a more vital and
+intimate beauty of design and execution. Many well-known poets–Tennyson
+being perhaps the most familiar example–have read aloud their own verses
+with a peculiar chanting sing-song which seemed to over-emphasize the
+fundamental rhythm. But who shall correct them? And who is entitled to say
+that a line like Swinburne’s
+  “Full-sailed, wide-winged, poised softly forever asway”
+is irregular according to the foot-rule of traditional prosody, when it is
+probable, as Mr. C. E. Russell maintains, that Swinburne was here
+composing in purely musical and not prosodical rhythm?
+[Footnote: “Swinburne and Music,” by Charles E. Russell, North American
+Review, November, 1907. See the quotation in the “Notes and
+Illustrations” for this chapter.]
+Is it not true, furthermore, as some metrical sceptics like to remind us,
+that if we once admit the principle of substitution and equivalence, of
+hypermetrical and truncated syllables, of pauses taking the place of
+syllables, we can very often make one metre seem very much like another?
+The question of calling a given group of lines “iambic” or “trochaic,” for
+instance, can be made quite arbitrary, depending upon where you begin to
+count syllables. “Iambic” with initial truncation or “trochaic” with final
+truncation? Tweedle-dum or tweedle-dee? Do you count waves from crest to
+crest or from hollow to hollow? When you count the links in a bicycle
+chain, do you begin with the slender middle of each link or with one of
+the swelling ends? So is it with this “iambic” and “trochaic” matter.
+Professor Alden, in a suggestive pamphlet,
+[Footnote: “The Mental Side of Metrical Form,” already cited.]
+confesses that these contrasting concepts of rising and falling metre are
+nothing more than concepts, alterable at will.
+But while the experts in prosody continue to differ and to dogmatize, the
+lover of poetry should remember that versification is far older than the
+science of prosody, and that the enjoyment of verse is, for millions of
+human beings, as unaffected by theories of metrics as the stars are
+unaffected by the theories of astronomers. It is a satisfaction to the
+mind to know that the stars in their courses are amenable to law, even
+though one be so poor a mathematician as to be incapable of grasping and
+stating the law. The mathematics of music and of poetry, while heightening
+the intellectual pleasure of those capable of comprehending it, is
+admittedly too difficult for the mass of men. But no lover of poetry
+should refuse to go as far in theorizing as his ear will carry him. He
+will find that his susceptibility to the pulsations of various types of
+rhythm, and his delight in the intricacies of metrical device, will be
+heightened by the mental effort of attention and analysis. The danger is
+that the lover of poetry, wearied by the quarrels of prosodists, and
+forgetting the necessity of patience, compromise and freedom from
+dogmatism, will lose his curiosity about the infinite variety of metrical
+effects. But it is this very curiosity which makes his ear finer, even if
+his theories may be wrong. Hundreds of metricists admire and envy
+Professor Saintsbury’s ear for prose and verse rhythms while
+disagreeing wholly with his dogmatic theories of the “foot,” and his
+system of notation. There are sure to be some days and hours when the
+reader of poetry will find himself bored and tired with the effort of
+attention to the technique of verse. Then he can stop analysing, close his
+eyes, and drift out to sea upon the uncomprehended music.
+  “The stars of midnight shall be dear
+   To her; and she shall lean her ear
+   In many a secret place
+   Where rivulets dance their wayward round,
+   And beauty born of murmuring sound
+   Shall pass into her face.”
+Continue...
+
+This eBook of “A Study of Poetry” by Bliss Perry (Professor of English Literature in Harvard University
+Author of “A Study of Prose Fiction,” “Walt Whitman,” “The American Mind,” etc.) belongs to the public domain.
+Complete book. Authorama - Classic Literature, free of copyright. About...
+A Study Of PoetryBy Bliss PerryAt Amazon

@@ -1,0 +1,575 @@
+
+
+
+I add here some suggestions to teachers who may wish to use this book in
+the classroom. In connection with each chapter I have indicated the more
+important discussions of the special topic. There is also some additional
+illustrative material, and I have indicated a few hints for classroom
+exercises, following methods which have proved helpful in my own
+experience as a teacher.
+I have tried to keep in mind the needs of two kinds of college courses in
+poetry. One of them is the general introductory course, which usually
+begins with the lyric rather than with the epic or the drama, and which
+utilizes some such collection as the Golden Treasury or the Oxford Book
+of English Verse. Any such collection of standard verse, or any of the
+anthologies of recent poetry, like those selected by Miss Jessie B.
+Rittenhouse or Mr. W. S. Braithwaite, should be constantly in use in the
+classroom as furnishing concrete illustration of the principles discussed
+in books like mine.
+The other kind of course which I have had in mind is the one dealing with
+the works of a single poet. Spenser, Milton, Wordsworth, Tennyson,
+Browning, are among the poets most frequently chosen for this sort of
+study. I have found it an advantage to carry on the discussion of the
+general principles of poetic imagination and expression in connection with
+the close textual study of the complete work of any one poet. It is hoped
+that this book may prove helpful for such a purpose.
+This chapter aims to present, in as simple a form as possible, some of the
+fundamental questions in aesthetic theory as far as they bear upon the
+study of poetry. James Sully’s article on “Aesthetics” in the
+Encyclopaedia Britannica, and Sidney Colvin’s article on “The Fine
+Arts,” afford a good preliminary survey of the field. K. Gordon’s
+Aesthetics, E. D. Puffer’s Psychology of Beauty, Santayana’s Sense of
+Beauty, Raymond’s Genesis of Art Form, and Arthur Symons’s Seven
+Arts, are stimulating books. Bosanquet’s Three Lectures on Aesthetic is
+commended to those advanced students who have not time to read his
+voluminous History of Aesthetic, just as Lane Cooper’s translation of
+Aristotle on the Art of Poetry may be read profitably before taking up
+the more elaborate discussions in Butcher’s Aristotle’s Theory of Poetry
+and Fine Art. In the same way, Spingarn’s Creative Criticism is a good
+preparation for Croce’s monumental Aesthetics. The student should
+certainly make some acquaintance with Lessing’s Laokoon, and he will
+find Babbitt’s New Laokoon a brilliant and trenchant survey of the old
+questions.
+It may be, however, that the teacher will prefer to pass rapidly over the
+ground covered in this chapter, rather than to run the risk of confusing
+his students with problems admittedly difficult. In that case the
+classroom discussions may begin with chapter II. I have found, however,
+that the new horizons which are opened to many students in connection with
+the topics touched upon in chapter I more than make up for some temporary
+bewilderment.
+The need here is to look at an old subject with fresh eyes. Teachers who
+are fond of music or painting or sculpture can invent many illustrations
+following the hint given in the Orpheus and Eurydice passage in the text.
+Among recent books, Fairchild’s Making of Poetry and Max Eastman’s
+Enjoyment of Poetry are particularly to be commended for their
+unconventional point of view. See also Fairchild’s pamphlet on Teaching
+of Poetry in the High School, and John Erskine’s paper on “The Teaching
+of Poetry” (Columbia University Quarterly, December, 1915). Alfred
+Hayes’s “Relation of Music to Poetry” (Atlantic, January, 1914) is
+pertinent to this chapter. But the student should certainly familiarize
+himself with Theodore Watts-Dunton’s famous article on “Poetry” in
+the Encyclopaedia Britannica, now reprinted with additions in his
+Renascence of Wonder. He should also read A. C. Bradley’s chapter on
+“Poetry for its Own Sake” in the Oxford Lectures on Poetry, Neilson’s
+Essentials of Poetry, Stedman’s Nature and Elements of Poetry, as well
+as the classic “Defences” of Poetry by Philip Sidney, Shelley, Leigh Hunt
+and George E. Woodberry. For advanced students, R. P. Cowl’s Theory of
+Poetry in England is a useful summary of critical opinions covering
+almost every aspect of the art of poetry, as it has been understood by
+successive generations of Englishmen.
+This chapter, like the first, will be difficult for some students. They
+may profitably read, in connection with it, Professor Winchester’s chapter
+on “Imagination” in his Literary Criticism, Neilson’s discussion of
+“Imagination” in his Essentials of Poetry, the first four chapters of
+Fairchild, chapters 4, 13, 14, and 15 of Coleridge’s Biographia
+Literaria, and Wordsworth’s Preface to his volume of Poems of 1815. See
+also Stedman’s chapter on “Imagination” in his Nature and Elements of
+Poetry.
+Under section 2, some readers may be interested in Sir William Rowan
+Hamilton’s account of his famous discovery of the quaternion analysis, one
+of the greatest of all discoveries in pure mathematics:
+  “Quaternions started into life, or light, full grown,
+  on Monday, the 16th of October, 1843, as I was walking
+  with Lady Hamilton to Dublin, and came up to
+  Brougham Bridge, which my boys have since called the
+  Quaternion Bridge. That is to say, I then and there
+  felt the galvanic circuit of thought close, and the sparks
+  which fell from it were the fundamental equations between
+  i, j, k; exactly such as I have used them ever since.
+  I pulled out on the spot a pocket-book, which still exists,
+  and made an entry on which, at the very moment, I felt
+  that it might be worth my while to expend the labor of
+  at least ten (or it might be fifteen) years to come. But
+  then it is fair to say that this was because I felt a problem  to have been at that moment solved–an intellectual
+  want relieved–which had haunted me for at least
+  ifteen years before. Less than an hour elapsed before I
+  had asked and obtained leave of the Council of the
+  Royal Irish Academy, of which Society I was, at that
+  time, the President–to read at the next General Meeting  a Paper on Quaternions; which I accordingly did, on
+  November 13, 1843.”
+The following quotation from Lascelles-Abercrombie’s study of Thomas Hardy
+presents in brief compass the essential problem dealt with in this
+chapter. It is closely written, and should be read more than once.
+  “Man’s intercourse with the world is necessarily formative. His
+  experience of things outside his consciousness is in the manner of a
+  chemistry, wherein some energy of his nature is mated with the energy
+  brought in on his nerves from externals, the two combining into
+  something which exists only in, or perhaps we should say closely around,
+  man’s consciousness. Thus what man knows of the world is what has been
+  formed by the mixture of his own nature with the streaming in of the
+  external world. This formative energy of his, reducing the in-coming
+  world into some constant manner of appearance which may be appreciable
+  by consciousness, is most conveniently to be described, it seems, as an
+  unaltering imaginative desire: desire which accepts as its material, and
+  fashions itself forth upon, the many random powers sent by the world to
+  invade man’s mind. That there is this formative energy in man may easily
+  be seen by thinking of certain dreams; those dreams, namely, in which
+  some disturbance outside the sleeping brain (such as a sound of knocking
+  or a bodily discomfort) is completely formed into vivid trains of
+  imagery, and in that form only is presented to the dreamer’s
+  consciousness. This, however, merely shows the presence of the active
+  desire to shape sensation into what consciousness can accept; the dream
+  is like an experiment done in the isolation of a laboratory; there are
+  so many conflicting factors when we are awake that the events of sleep
+  must only serve as a symbol or diagram of the intercourse of mind with
+  that which is not mind–intercourse which only takes place in a region
+  where the outward radiations of man’s nature combine with the
+  irradiations of the world. Perception itself is a formative act; and all
+  the construction of sensation into some orderly, coherent idea of the
+  world is a further activity of the central imaginative desire. Art is
+  created, and art is enjoyed, because in it man may himself completely
+  express and exercise those inmost desires which in ordinary experience
+  are by no means to be completely expressed. Life has at last been
+  perfectly formed and measured to man’s requirements; and in art man
+  knows himself truly the master of his existence. It is this sense of
+  mastery which gives man that raised and delighted consciousness of self
+  which art provokes.”
+I regret that Professor Lowes’s brilliant discussion of “Poetic Diction"
+in his Convention and Revolt did not appear until after this chapter was
+written. There are stimulating remarks on Diction in Fairchild and
+Eastman, in Raleigh’s Wordsworth, in L. A. Sherman’s Analytics of
+Literature, chapter 6, in Raymond’s Poetry as a Representative Art, and
+in Hudson Maxim’s Science of Poetry. Coleridge’s description of
+Wordsworth’s theory of poetic diction in the Biographia Literaria is
+famous. Walt Whitman’s An American Primer, first published in the
+Atlantic for April, 1904, is a highly interesting contribution to the
+subject.
+No theoretical discussion, however, can supply the place of a close study,
+word by word, of poems in the classroom. It is advisable, I think, to
+follow such analyses of the diction of Milton, Keats and Tennyson by a
+scrutiny of the diction employed by contemporary poets like Edgar Lee
+Masters and Carl Sandburg.
+The following passages in prose and verse, printed without the authors’
+names, are suggested as an exercise in the study of diction:
+1. “The falls were in plain view about a mile off, but very distinct,
+   and no roar–hardly a murmur. The river tumbling green and white, far
+   below me; the dark, high banks, the plentiful umbrage, many bronze
+   cedars, in shadow; and tempering and arching all the immense
+   materiality, a clear sky overhead, with a few white clouds, limpid,
+   spiritual, silent. Brief, and as quiet as brief, that picture–a
+   remembrance always afterward.”
+2. “If there be fluids, as we know there are, which, conscious of a
+   coming wind, or rain, or frost, will shrink and strive to hide
+   themselves in their glass arteries; may not that subtle liquor of the
+   blood perceive, by properties within itself, that hands are raised to
+   waste and spill it; and in the veins of men run cold and dull as his
+   did, in that hour!”
+3. “On a flat road runs the well-train’d runner,
+   He is lean and sinewy with muscular legs,
+   He is thinly clothed, he leans forward as he runs,
+   With lightly closed fists and arms partially rais’d.”
+4. “The feverish heaven with a stitch in the side,
+          Of lightning.”
+5. “Out of blue into black is the scheme of the skies, and their dews are
+   the wine of the bloodshed of things.”
+6. “Dry clash’d his harness in the icy caves
+   And barren chasms, and all to left and right
+   The bare black cliff clang’d round him, as he based
+   His feet on juts of slippery crag that rang
+   Sharp-smitten with the dint of armed heels.”
+7. “As for the grass, it grew as scant as hair
+    In leprosy; their dry blades pricked the mud
+    Which underneath looked kneaded up with blood.
+  One stiff blind horse, his every bone a-stare,
+  Stood stupefied, however he came there:
+    Thrust out past service from the devil’s stud.”
+8. “For the main criminal I have no hope
+   Except in such a suddenness of fate.
+   I stood at Naples once, a night so dark
+   I could have scarce conjectured there was earth
+   Anywhere, sky or sea or world at all:
+   But the night’s black was burst through by a
+     blaze–
+   Thunder struck blow on blow, earth groaned and
+     bore,
+   Through her whole length of mountain visible:
+   There lay the city thick and plain with spires,
+   And, like a ghost disshrouded, white the sea.
+   So may the truth be flashed out by one blow,
+   And Guido see, one instant, and be saved.”
+A fresh and clear discussion of the principles governing Rhythm and
+Metre may be found in C. E. Andrews’s Writing and Reading of Verse.
+The well-known books by Alden, Corson, Gummere, Lewis, Mayor, Omond,
+Raymond and Saintsbury are indicated in the Bibliography. Note also
+the bibliographies given by Alden and Patterson.
+I have emphasized in this chapter the desirability of compromise in some
+hotly contested disputes over terminology and methods of metrical
+notation. Perhaps I have gone farther in this direction than some teachers
+will wish to go. But all classroom discussion should be accompanied by
+oral reading of verse, by the teacher and if possible by pupils, and the
+moment oral interpretations begin, it will be evident that “a satisfied
+ear” is more important than an exact agreement upon methods of notation.
+I venture to add here, for their suggestiveness, a few passages about
+Rhythm and Metre, and finally, as an exercise in the study of the
+prevalence of the “iambic roll” in sentimental oratory, an address by
+Robert G. Ingersoll.
+1. “Suppose that we figure the nervous current which corresponds to
+consciousness as proceeding, like so many other currents of nature, in
+waves–then we do receive a new apprehension, if not an explanation, of
+the strange power over us of successive strokes.... Whatever things occupy
+our attention–events, objects, tones, combinations of tones, emotions,
+pictures, images, ideas–our consciousness of them will be heightened by
+the rhythm as though it consisted of waves.”
+    EASTMAN, The Enjoyment of Poetry, p. 93.
+2. “Rhythm of pulse is the regular alternation of units made up of beat
+and pause; rhythm in verse is a measured or standardized arrangement of
+sound relations. The difference between rhythm of pulse and rhythm in
+verse is that the one is known through touch, the other through hearing;
+as rhythm, they are essentially the same kind of thing. Viewed generally
+and externally, then, verse is language that is beaten into measured
+rhythm, or that has some type of uniform or standard rhythmical
+arrangement.”
+    FAIRCHILD, The Making of Poetry, p. 117.
+3. “A Syllable is a body of sound brought out with an independent, single,
+and unbroken breath (Sievers). This syllable may be long or short,
+according to the time it fills; compare the syllables in merrily with
+the syllables in corkscrew. Further, a syllable may be heavy or
+light (also called accented or unaccented) according as it receives
+more or less force or stress of tone: compare the two syllables of
+treamer. Lastly, a syllable may have increased or diminished height-of
+tone,–pitch: cf. the so-called ’rising inflection’ at the end of a
+question. Now, in spoken language, there are infinite degrees of length,
+of stress, of pitch....
+“It is a well-known property of human speech that it keeps up a ceaseless
+change between accented and unaccented syllables. A long succession of
+accented syllables becomes unbearably monotonous; a long succession of
+unaccented syllables is, in effect, impossible. Now when the ear detects
+at regular intervals a recurrence of accented syllables, varying with
+unaccented, it perceives Rhythm. Measured intervals of time are the
+basis of all verse, and their regularity marks off poetry from prose; so
+that Time is thus the chief element in Poetry, as it is in Music and in
+Dancing. From the idea of measuring these time-intervals, we derive the
+name Metre; Rhythm means pretty much the same thing,–’a flowing,’ an
+even, measured motion. This rhythm is found everywhere in nature: the beat
+of the heart, the ebb and flow of the sea, the alternation of day and
+night. Rhythm is not artificial, not an invention; it lies at the heart of
+things, and in rhythm the noblest emotions find their noblest expression."
+    GUMMERE, Handbook of Poetics, p. 133.
+4. “It was said of Chopin that in playing his waltzes his left hand kept
+absolutely perfect time, while his right hand constantly varied the rhythm
+of the melody, according to what musicians call tempo rubato,’stolen’ or
+distorted time. Whether this is true in fact, or even physically possible,
+has been doubted; but it represents a perfectly familiar possibility of
+the mind. Two streams of sound pass constantly through the inner ear of
+one who understands or appreciates the rhythm of our verse: one, never
+actually found in the real sounds which are uttered, is the absolute
+rhythm, its equal time-intervals moving on in infinitely perfect
+progression; the other, represented by the actual movement of the verse,
+is constantly shifting by quickening, retarding, strengthening or
+weakening its sounds, yet always hovers along the line of the perfect
+rhythm, and bids the ear refer to that perfect rhythm the succession of
+its pulsations."
+    ALDEN, An Introduction to Poetry, p. 188.
+5. “Many lines in Swinburne cannot be scanned at all except by the Lanier
+method, which reduces so-called feet to their purely musical equivalents
+of time bars. What, for instance, can be made by the formerly accepted
+systems of prosody of such hexameters as
+  ’Full-sailed, wide-winged, poised softly forever asway?’
+The usual explanation of this line is that Mr. Swinburne, carelessly,
+inadvertently, or for some occult purpose, interjected one line of five
+feet among his hexameters and the scansion usually followed is by
+arrangement into a pentameter, thus:
+  ’Full-sailed | wide-winged | poised softly | forever |  asway,’
+the first two feet being held to be spondees, and the third and fourth
+amphibrachs. It has also been proposed to make the third foot a spondee or
+an iambus, and the remaining feet anapaests, thus:
+  ’Full-sailed | wide-winged | poised soft- | ly forev- | er asway.’
+“The confusion of these ideas is enough to mark them as unscientific and
+worthless, to say nothing of the severe reflection they cast on the poet’s
+workmanship. We have not so known Mr. Swinburne, for, if there be anything
+he has taught us about himself it is his strenuous and sometimes absurd
+particularity about immaculate form. He would never overlook a line of
+five feet in a poem of hexameters. But–as will, I think, appear later and
+conclusively–the line is really of six feet, and is not iambic, trochaic,
+anapaestic, the spurious spondaic that some writers have tried to
+manufacture for English verse, or anything else recognized in Coleridge’s
+immortal stanza, or in text-books. It simply cannot be scanned by
+classical rules; it cannot be weighed justly, and its full meaning
+extracted, by any of the ’trip-time’ or ’march-time’ expedients of other
+investigators. It is purely music; and when read by the method of music
+appears perfectly designed and luminous with significance. Only a poet
+that was at heart a composer could have made such a phrase, based
+upon such intimate knowledge of music’s rhythmical laws."
+    C. E. RUSSELL, “Swinburne and Music” North American Review,
+November, 1907.
+6. Dr. Henry Osborn Taylor has kindly allowed me to quote this passage
+from his Classical Heritage of the Middle Ages, pp. 246, 247:
+“Classic metres expressed measured feelings. Hexameters had given voice to
+many emotions beautifully, with unfailing modulation of calm or storm.
+They had never revealed the infinite heart of God, or told the yearning of
+the soul responding; nor were they ever to be the instrument of these
+supreme disclosures in Christian times. Such unmeasured feelings could not
+be held within the controlled harmonies of the hexameter nor within
+sapphic or alcaic or Pindaric strophes. These antique forms of poetry
+definitely expressed their contents, although sometimes suggesting further
+unspoken feeling, which is so noticeable with Virgil. But characteristic
+Christian poetry, like the Latin mediaeval hymn, was not to express its
+meaning as definitely or contain its significance. Mediaeval hymns are
+childlike, having often a narrow clearness in their literal sense; and
+they may be childlike, too, in their expressed symbolism. Their
+significance reaches far beyond their utterance; they suggest, they echo,
+and they listen; around them rolls the voice of God, the infinitude of
+His love and wrath, heaven’s chorus and hell’s agonies; dies irae, dies
+illa–that line says little, but mountains of wrath press on it, from
+which the soul shall not escape.
+“Christian emotion quivers differently from any movement of the spirit in
+classic measures. The new quiver, the new shudder, the utter terror, and
+the utter love appear in mediaeval rhymed accentual poetry:
+  Desidero te millies,
+  Mê Jesu; quando venies?
+  Me laetum quando facies,
+  Ut vultu tuo saties?
+  Quo dolore
+  Quo moerore
+  Deprimuntur miseri,
+  Qui abyssis
+  Pro commissis
+  Submergentur inferi.
+  Recordare, Jesu pie,
+  Quod sum causa tuae viae;
+  Ne me perdas ilia die.
+       *       *       *       *       *
+  Lacrymosa dies illa
+  Qua resurget ex fa villa,
+  Judicandus homo reus;
+  Huic ergo parce, Deus!
+    Pie Jesu, Domine,
+    Dona eis requiem.
+“Let any one feel the emotion of these verses and then turn to some piece
+of classic poetry, a passage from Homer or Virgil, an elegiac couplet or a
+strophe from Sappho or Pindar or Catullus, and he will realize the
+difference, and the impossibility of setting the emotion of a mediaeval
+hymn in a classic metre.”
+7. ’Friends: I know how vain it is to gild a grief with words, and yet I
+wish to take from every grave its fear. Here in this world, where life and
+death are equal things, all should be brave enough to meet what all the
+dead have met. The future has been filled with fear, stained and polluted
+by the heartless past. From the wondrous tree of life the buds and
+blossoms fall with ripened fruit, and in the common bed of earth, the
+patriarchs and babes sleep side by side.
+“Why should we fear that which will come to all that is?
+“We cannot tell, we do not know, which is the greater blessing–life or
+death. We do not know whether the grave is the end of this life, or the
+door of another, or whether the night here is not somewhere else at dawn.
+Neither can we tell which is the more fortunate–the child dying in its
+mother’s arms, before its lips have learned to form a word, or he who
+journeys all the length of life’s uneven road, painfully taking the last
+slow steps with staff and crutch.
+“Every cradle asks us, ’Whence?’ and every coffin, ’Whither?’ The poor
+barbarian, weeping above his dead, can answer these questions as
+intelligently as the robed priest of the most authentic creed. The tearful
+ignorance of the one is just as consoling as the learned and unmeaning
+words of the other. No man, standing where the horizon of a life has
+touched a grave, has any right to prophesy a future filled with pain and
+tears. It may be that death gives all there is of worth to life. If those
+we press and strain against our hearts could never die, perhaps that love
+would wither from the earth. Maybe this common fate treads from out the
+paths between our hearts the weeds of selfishness and hate, and I had
+rather live and love where death is king, than have eternal life where
+love is not. Another life is naught, unless we know and love again the
+ones who love us here.
+“They who stand with aching hearts around this little grave need have no
+fear. The larger and the nobler faith in all that is and is to be tells us
+that death, even at its worst, is only perfect rest. We know that through
+the common wants of life–the needs and duties of each hour–their griefs
+will lessen day by day, until at last this grave will be to them a place
+of rest and peace–almost of joy. There is for them this consolation. The
+dead do not suffer. And if they live again, their lives will surely be as
+good as ours. We have no fear. We are all children of the same mother, and
+the same fate awaits us all.
+“We, too, have our religion, and it is this: Help for the living, hope for
+the dead.”
+    ROBERT G. INGERSOLL, “Address over a Little Boy’s Grave.”
+I have not attempted in this chapter to give elaborate illustrations of
+the varieties of rhyme and stanza in English poetry. Full illustrations
+will be found in Alden’s English Verse. A clear statement of the
+fundamental principles involved is given in W. H. Carruth’s Verse
+Writing.
+Free verse is suggestively discussed by Lowes, Convention and Revolt,
+chapters 6 and 7, and by Andrews, Writing and Reading of Verse, chapters
+5 and 19. Miss Amy Lowell has written fully about it in the Prefaces to
+Sword Blades and Poppy Seed and Can Grande’s Castle, in the final
+chapter of Tendencies in Modern American Poetry, in the Prefaces to
+Some Imagist Poets, and in the North American Review for January,
+1917. Mr. Braithwaite’s annual Anthologies of American Verse give a full
+bibliography of special articles upon this topic.
+An interesting classroom test of the difference between prose rhythm and
+verse rhythm with strongly marked metre and rhyme may be found in
+comparing Emerson’s original prose draft of his “Two Rivers,” as found in
+volume 9 of his Journal, with three of the stanzas of the finished poem:
+“Thy voice is sweet, Musketaquid, and repeats the music of the ram, but
+sweeter is the silent stream which flows even through thee, as thou
+through the land.
+“Thou art shut in thy banks, but the stream I love flows in thy water, and
+flows through rocks and through the air and through rays of light as well,
+and through darkness, and through men and women.
+“I hear and see the inundation and the eternal spending of the stream in
+winter and in summer, in men and animals, in passion and thought. Happy
+are they who can hear it.”
+  “Thy summer voice, Musketaquit,
+    Repeats the music of the rain;
+  But sweeter rivers pulsing flit
+    Through thee, as thou through Concord plain.
+  “Thou in thy narrow banks are pent;
+    The stream I love unbounded goes
+  Through flood and sea and firmament;
+    Through light, through life, it forward flows.
+  “I see the inundation sweet,
+    I hear the spending of the stream
+  Through years, through men, through nature fleet,
+    Through love and thought, through power and dream.”
+I also suggest for classroom discussion the following brief passages from
+recent verse, printed without the authors’ names:
+1. “The milkman never argues; he works alone and no one speaks to him;
+the city is asleep when he is on his job; he puts a bottle on six hundred
+porches and calls it a day’s work; he climbs two hundred wooden stairways;
+two horses are company for him; he never argues.”
+2. “Sometimes I have nervous moments–
+   there is a girl who looks at me strangely
+   as much as to say,
+   You are a young man,
+   and I am a young woman,
+   and what are you going to do about it?
+   And I look at her as much as to say,
+   I am going to keep the teacher’s desk
+     between us, my dear,
+   as long as I can.”
+3. “I hold her hands and press her to my breast.
+“I try to fill my arms with her loveliness, to plunder her sweet smile
+with kisses, to drink her dark glances with my eyes.
+“Ah, but where is it? Who can strain the blue from the sky?
+“I try to grasp the beauty; it eludes me, leaving only the body in my
+hands.
+“Baffled and weary, I came back. How can the body touch the flower which
+only the spirit may touch?”
+4. “Child, I smelt the flowers,
+   The golden flowers ... hiding in crowds like fairies at my feet,
+   And as I smelt them the endless smile of the infinite broke over me,
+     and I knew that they and you and I were one.
+   They and you and I, the cowherds and the cows, the jewels and the
+     potter’s wheel, the mothers and the light in baby’s eyes.
+   For the sempstress when she takes one stitch may make nine unnecessary;
+   And the smooth and shining stone that rolls and rolls like the great
+     river may gain no moss,
+   And it is extraordinary what a lot you can do with a platitude when you
+     dress it up in Blank Prose.
+   Child, I smelt the flowers.”
+Recent criticism has been rich in its discussions of the lyric. John
+Drinkwater’s little volume on The Lyric is suggestive. See also C. E.
+Whitmore’s article in the Pub. Mod. Lang. Ass., December, 1918. Rhys’s
+Lyric Poetry, Schelling’s English Lyric, Reed’s English Lyrical
+Poetry cover the whole field of the historical English lyric. A few books
+on special periods are indicated in the “Notes” to chapter ix.
+An appreciation of the lyric mood can be helped greatly by adequate oral
+reading in the classroom. For teachers who need suggestions as to oral
+interpretation, Professor Walter Barnes’s edition of Palgrave’s Golden
+Treasury (Row, Petersen & Co., Chicago) is to be commended.
+The student’s ability to analyse a lyric poem should be tested by frequent
+written exercises. The method of criticism may be worked out by the
+individual teacher, but I have found it useful to ask students to test a
+poem by some or all of the following questions:
+(a) What kind of experience, thought or emotion furnishes the basis for
+this lyric? What kind or degree of sensitiveness to the facts of nature?
+What sort of inner mood or passion? Is the “motive” of this lyric purely
+personal? If not, what other relationships or associations are involved?
+(b) What sort of imaginative transformation of the material furnished by
+the senses? What kind of imagery? Is it true poetry or only verse?
+(c) What degree of technical mastery of lyric structure? Subordination of
+material to unity of “tone”? What devices of rhythm or sound to heighten
+the intended effect? Noticeable words or phrases? Does the author’s power
+of artistic expression keep pace with his feeling and imagination?
+For a discussion of narrative verse in general, see Gummere’s Poeticsand Oldest English Epic, Hart’s Epic and Ballad, Council’s Study of
+Poetry, and Matthew Arnold’s essay “On Translating Homer.”
+For the further study of ballads, note G. L. Kittredge’s one volume
+edition of Child’s English and Scottish Popular Ballads, Gummere’s
+Popular Ballad, G. H. Stempel’s Book of Ballads, J. A. Lomax’s Cowboy
+Songs and other Frontier Ballads, and Hart’s summary of Child’s views in
+Pub. Mod. Lang. Ass., vol. 21, 1906. The Oxford Book of English Verse,
+Nos. 367-389, gives excellent specimens.
+All handbooks on Poetics discuss the Ode. Gosse’s English Odes and
+William Sharp’s Great Odes are good collections.
+For the sonnet, note Corson’s chapter in his Primer of English Verse,
+and the Introduction to Miss Lockwood’s collection. There are other
+well-known collections by Leigh Hunt, Hall Caine and William Sharp.
+Special articles on the sonnet are noted in Poole’s Index.
+The dramatic monologue is well discussed by Claude Howard, The Dramatic
+Monologue, and by S. S. Curry, The Dramatic Monologue in Tennyson and
+Browning.
+The various periods of English lyric poetry are covered, as has been
+already noted, by the general treatises of Rhys, Reed and Schelling. Old
+English lyrics are well translated by Cook and Tinker, and by Pancoast and
+Spaeth. W. P. Ker’s English Literature; Mediaeval is excellent, as is C.
+S. Baldwin’s English Mediaeval Literature. John Erskine’s Elizabethan
+Lyric is a valuable study. Schelling’s introduction to his Selections
+from the Elizabethan Lyric should also be noted, as well as his similar
+book on the Seventeenth-Century Lyric. Bernbaum’s English Poets of the
+Eighteenth Century is a careful selection, with a scholarly introduction.
+Studies of the English poetry of the Romantic period are very numerous:
+Oliver Elton’s Survey of English Literature, 1780-1830, is one of the
+best. Courthope’s History of English Poetry and Saintsbury’s History of
+Criticism are full of material bearing upon the questions discussed in
+this chapter.
+Professor Legouis’s account of the change in atmosphere as one passes from
+Old English to Old French poetry is so delightful that I refrain from
+spoiling it by a translation:
+“En quittant Beowulf ou la Bataille de Maldon pour le Roland, on a
+l’impression de sortir d’un lieu sombre pour entrer dans la lumière. Cette
+impression vous vient de tous les côtés à la fois, des lieux décrits, des
+sujets, de la manière de raconter, de l’esprit qui anime, de
+l’intelligence qui ordonne, mais, d’une façon encore plus immédiate et
+plus diffuse, de la différence des deux langues. On reconnaît sans doute
+généralement à nos vieux écrivains ce mérite d’être clairs, mais on est
+trop habitué à ne voir dans ce don que ce qui découle des tendances
+analytiques et des aptitudes logiques de leurs esprit. Aussi plusieurs
+critiques, quelques-uns français, ont-ils fait de cet attribut une manière
+de prétexte pour leur assigner en partage la prose et pour leur retirer
+la faculté poétique. Il n’en est pas ainsi. Cette clarté n’est pas
+purement abstraite. Elle est une véritable lumière qui rayonne même des
+voyelles et dans laquelle les meilleurs vers des trouvères–les seuls qui
+comptent–sont baignés. Comment dire l’éblouissement des yeux longtemps
+retenus dans la pénombre du Codex Exoniensis et devant qui passent
+soudain avec leurs brillantes syllables ’Halte-Clerc,’ l’épée d’Olivier,
+’Joyeuse’ celle de Charlemagne, ’Monjoie’ l’étendard des Francs? Avant
+toute description on est saisi comme par un brusque lever de soleil. Il
+est tels vers de nos vieilles romances d’où la lumière ruisselle sans
+même qu’on ait besoin de prendre garde à leur sens:
+  “’Bele Erembors a la fenestre au jor
+  Sor ses genolz tient paile de color,’
+[Footnote: “Fair Erembor at her window in daylight
+    Holds a coloured silk stuff on her knees."]
+ou bien
+  “’Bele Yolanz en chambre coie
+  Sor ses genolz pailes desploie
+  Coust un fil d’or, l’autre de soie...."
+[Footnote: “Fair Yoland in her quiet bower
+    Unfolds silk stuffs on her knees
+    Sewing now a thread of gold, now one of silk."]
+C’est plus que de la lumière qui s’échappe de ces mots,
+c’est de la couleur et de la plus riche."
+[Footnote: Emile Legouis, Défense de la Poésie Française, p. 44.]
+While this chapter does not attempt to comment upon the work of living
+American authors, except as illustrating certain general tendencies of the
+lyric, I think that teachers of poetry should avail themselves of the
+present interest in contemporary verse. Students of a carefully chosen
+volume of selections, like the Oxford Book, should be competent to pass
+some judgment upon strictly contemporary poetry, and I have found them
+keenly interested in criticizing the work that is appearing, month by
+month, in the magazines. The temperament and taste of the individual
+teacher must determine the relative amount of attention that can be given
+to our generation, as compared with the many generations of the past.
+Continue...
+
+This eBook of “A Study of Poetry” by Bliss Perry (Professor of English Literature in Harvard University
+Author of “A Study of Prose Fiction,” “Walt Whitman,” “The American Mind,” etc.) belongs to the public domain.
+Complete book. Authorama - Classic Literature, free of copyright. About...
+A Study Of PoetryBy Bliss PerryAt Amazon

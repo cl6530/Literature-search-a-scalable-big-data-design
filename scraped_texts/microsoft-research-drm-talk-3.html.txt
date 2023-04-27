@@ -1,0 +1,174 @@
+
+
+
+Raise your hand if you’re thinking something like, “But DRM
+doesn’t have to be proof against smart attackers, only average
+individuals! It’s like a speedbump!”
+Put your hand down.
+This is a fallacy for two reasons: one technical, and one social.
+They’re both bad for society, though.
+Here’s the technical reason: I don’t need to be a cracker to
+break your DRM. I only need to know how to search Google, or
+Kazaa, or any of the other general-purpose search tools for the
+cleartext that someone smarter than me has extracted.
+Raise your hand if you’re thinking something like, “But NGSCB can
+solve this problem: we’ll lock the secrets up on the logic board
+and goop it all up with epoxy.”
+Put your hand down.
+Raise your hand if you’re a co-author of the Darknet paper.
+Everyone in the first group, meet the co-authors of the Darknet
+paper. This is a paper that says, among other things, that DRM
+will fail for this very reason. Put your hands down, guys.
+Here’s the social reason that DRM fails: keeping an honest user
+honest is like keeping a tall user tall. DRM vendors tell us that
+their technology is meant to be proof against average users, not
+organized criminal gangs like the Ukranian pirates who stamp out
+millions of high-quality counterfeits. It’s not meant to be proof
+against sophisticated college kids. It’s not meant to be proof
+against anyone who knows how to edit her registry, or hold down
+the shift key at the right moment, or use a search engine. At the
+end of the day, the user DRM is meant to defend against is the
+most unsophisticated and least capable among us.
+Here’s a true story about a user I know who was stopped by DRM.
+She’s smart, college educated, and knows nothing about
+electronics. She has three kids. She has a DVD in the living room
+and an old VHS deck in the kids’ playroom. One day, she brought
+home the Toy Story DVD for the kids. That’s a substantial
+investment, and given the generally jam-smeared character of
+everything the kids get their paws on, she decided to tape the
+DVD off to VHS and give that to the kids – that way she could
+make a fresh VHS copy when the first one went south. She cabled
+her DVD into her VHS and pressed play on the DVD and record on
+the VCR and waited.
+Before I go farther, I want us all to stop a moment and marvel at
+this. Here is someone who is practically technophobic, but who
+was able to construct a mental model of sufficient accuracy that
+she figured out that she could connect her cables in the right
+order and dub her digital disc off to analog tape. I imagine that
+everyone in this room is the front-line tech support for someone
+in her or his family: wouldn’t it be great if all our non-geek
+friends and relatives were this clever and imaginative?
+I also want to point out that this is the proverbial honest user.
+She’s not making a copy for the next door neighbors. She’s not
+making a copy and selling it on a blanket on Canal Street. She’s
+not ripping it to her hard-drive, DivX encoding it and putting it
+in her Kazaa sharepoint. She’s doing something honest – moving
+it from one format to another. She’s home taping.
+Except she fails. There’s a DRM system called Macrovision
+embedded – by law – in every DVD player and VHS that messes
+with the vertical blanking interval in the signal and causes any
+tape made in this fashion to fail. Macrovision can be defeated
+for about $10 with a gadget readily available on eBay. But our
+infringer doesn’t know that. She’s “honest.” Technically
+unsophisticated. Not stupid, mind you – just naive.
+The Darknet paper addresses this possibility: it even predicts
+what this person will do in the long run: she’ll find out about
+Kazaa and the next time she wants to get a movie for the kids,
+she’ll download it from the net and burn it for them.
+In order to delay that day for as long as possible, our lawmakers
+and big rightsholder interests have come up with a disastrous
+policy called anticircumvention.
+Here’s how anticircumvention works: if you put a lock – an
+access control – around a copyrighted work, it is illegal to
+break that lock. It’s illegal to make a tool that breaks that
+lock. It’s illegal to tell someone how to make that tool. It’s
+illegal to tell someone where she can find out how to make that
+tool.
+Remember Schneier’s Law? Anyone can come up with a security
+system so clever that he can’t see its flaws. The only way to
+find the flaws in security is to disclose the system’s workings
+and invite public feedback. But now we live in a world where any
+cipher used to fence off a copyrighted work is off-limits to that
+kind of feedback. That’s something that a Princeton engineering
+prof named Ed Felten discovered when he submitted a paper to an
+academic conference on the failings in the Secure Digital Music
+Initiative, a watermarking scheme proposed by the recording
+industry. The RIAA responded by threatening to sue his ass if he
+tried it. We fought them because Ed is the kind of client that
+impact litigators love: unimpeachable and clean-cut and the RIAA
+folded. Lucky Ed. Maybe the next guy isn’t so lucky.
+Matter of fact, the next guy wasn’t. Dmitry Skylarov is a Russian
+programmer who gave a talk at a hacker con in Vegas on the
+failings in Adobe’s e-book locks. The FBI threw him in the slam
+for 30 days. He copped a plea, went home to Russia, and the
+Russian equivalent of the State Department issued a blanket
+warning to its researchers to stay away from American
+conferences, since we’d apparently turned into the kind of
+country where certain equations are illegal.
+Anticircumvention is a powerful tool for people who want to
+exclude competitors. If you claim that your car engine firmware
+is a “copyrighted work,” you can sue anyone who makes a tool for
+interfacing with it. That’s not just bad news for mechanics –
+think of the hotrodders who want to chip their cars to tweak the
+performance settings. We have companies like Lexmark claiming
+that their printer cartridges contain copyrighted works –
+software that trips an “I am empty” flag when the toner runs out,
+and have sued a competitor who made a remanufactured cartridge
+that reset the flag. Even garage-door opener companies have
+gotten in on the act, claiming that their receivers’ firmware are
+copyrighted works. Copyrighted cars, print carts and garage-door
+openers: what’s next, copyrighted light-fixtures?
+Even in the context of legitimate – excuse me, “traditional” –
+copyrighted works like movies on DVDs, anticircumvention is bad
+news. Copyright is a delicate balance. It gives creators and
+their assignees some rights, but it also reserves some rights to
+the public. For example, an author has no right to prohibit
+anyone from transcoding his books into assistive formats for the
+blind. More importantly, though, a creator has a very limited say
+over what you can do once you lawfully acquire her works. If I
+buy your book, your painting, or your DVD, it belongs to me. It’s
+my property. Not my “intellectual property” – a whacky kind of
+pseudo-property that’s swiss-cheesed with exceptions, easements
+and limitations – but real, no-fooling, actual tangible
+property – the kind of thing that courts have been managing
+through tort law for centuries.
+But anticirumvention lets rightsholders invent new and exciting
+copyrights for themselves – to write private laws without
+accountability or deliberation – that expropriate your interest
+in your physical property to their favor. Region-coded DVDs are
+an example of this: there’s no copyright here or in anywhere I
+know of that says that an author should be able to control where
+you enjoy her creative works, once you’ve paid for them. I can
+buy a book and throw it in my bag and take it anywhere from
+Toronto to Timbuktu, and read it wherever I am: I can even buy
+books in America and bring them to the UK, where the author may
+have an exclusive distribution deal with a local publisher who
+sells them for double the US shelf-price. When I’m done with it,
+I can sell it on or give it away in the UK. Copyright lawyers
+call this “First Sale,” but it may be simpler to think of it as
+“Capitalism.”
+The keys to decrypt a DVD are controlled by an org called
+DVD-CCA, and they have a bunch of licensing requirements for
+anyone who gets a key from them. Among these is something called
+region-coding: if you buy a DVD in France, it’ll have a flag set
+that says, “I am a French DVD.” Bring that DVD to America and
+your DVD player will compare the flag to its list of permitted
+regions, and if they don’t match, it will tell you that it’s not
+allowed to play your disc.
+Remember: there is no copyright that says that an author gets to
+do this. When we wrote the copyright statutes and granted authors
+the right to control display, performance, duplication,
+derivative works, and so forth, we didn’t leave out “geography"
+by accident. That was on-purpose.
+So when your French DVD won’t play in America, that’s not because
+it’d be illegal to do so: it’s because the studios have invented
+a business-model and then invented a copyright law to prop it up.
+The DVD is your property and so is the DVD player, but if you
+break the region-coding on your disc, you’re going to run afoul
+of anticircumvention.
+That’s what happened to Jon Johansen, a Norweigan teenager who
+wanted to watch French DVDs on his Norweigan DVD player. He and
+some pals wrote some code to break the CSS so that he could do
+so. He’s a wanted man here in America; in Norway the studios put
+the local fuzz up to bringing him up on charges of unlawfully
+trespassing upon a computer system. When his defense asked,
+“Which computer has Jon trespassed upon?” the answer was: “His
+own.”
+His no-fooling, real and physical property has been expropriated
+by the weird, notional, metaphorical intellectual property on his
+DVD: DRM only works if your record player becomes the property of
+whomever’s records you’re playing.
+Continue...
+
+This eText by Cory Doctorow from June 17, 2004, belongs to the public domain.
+Complete book. Authorama - Classic Literature, free of copyright. About...

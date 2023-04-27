@@ -1,0 +1,184 @@
+
+
+
+
+Allusion has already been made to the eclipses mentioned in
+Confucius’ history as a means by which the probability of his
+general truth as a historian may in a certain measure be gauged. A
+few words upon the Chinese calendar, as it is and was, may
+therefore not be amiss. The Chinese month has from first to last
+been uncompromisingly lunar; that is to say, the first day of each
+month, or “moon” as it may strictly and properly be called, always
+falls within the day (beginning at midnight) during which the new
+moon occurs. Of course, Peking is the administrative centre now,
+and therefore the observations are taken there with reference to
+the Peking meridian. As Confucius took his facts and records
+mainly from the Lu archives, and (we must suppose) noted celestial
+movements from what was seen by the Lu astronomers, it has always
+been presumed that the eclipses mentioned by him were observed
+from Lu too; that is, from a station over four degrees of
+longitude and one of latitude removed from the imperial capital as
+it then was (modern Ho-nan Fu). It was the duty of all sovereign
+princes to proclaim the first day of the moon at their ancestral
+temple; and even if the Chinese of those days had discovered the
+difference in “time” between east and west, these princes must
+each of them have proclaimed the day during which the new moon
+occurred as it occurred to themselves, in their own State, and not
+as it occurred to the Emperor’s astronomers. On the other hand,
+when eclipses were observed from the comparatively small territory
+of Lu, it must have occurred, at least occasionally, that visitors
+from other states had either the same eclipse or other eclipses to
+report. If the Emperor’s astronomer reported eclipses in Ho-nan-
+Fu on a given day, it is difficult to see how Lu, which was a
+centre almost of equal standing with the imperial capital for
+orthodoxy in rites and records, could have entirely ignored such
+reports.
+But the Chinese year has always been luni-solar. From the earliest
+times they had observed the twelve ecliptical “mansions” and
+zodiacal signs, and also that the time occupied by the sun in
+travelling through a mansion was rather longer than one lunation,
+or the time intervening between two new moons. Their object has
+accordingly always been to bring the lunar and solar years into
+manageable combination, so that the equinoxes, solstices, and
+“seasons” might occur with as much regularity as possible in the
+same months, and so that the husbandman might know when to sow his
+grain. Formerly they regulated this discrepancy according to the
+mean movements of the sun and moon; but, ever since the Jesuits
+first instructed them more accurately, they have regulated the two
+years, that is, the solar year and the twelve lunations, according
+to the true movements, and with reference to the meridian of
+Peking. If the moons were each exactly 29 1/2 days in length,
+instead of being 44 minutes 2.87 seconds longer, it would have
+been a simple matter to halve the ordinary lunar year, and make
+six months “large” (30 days) and six “small” (29 days); but the
+extra 44 minutes and a fraction accumulate, and the result is that
+there must always be a larger number of “great” months than
+“small” in the year. The way the Chinese arranged this was to call
+a month “great” (30 days) if the interval between mid-night
+(beginning of the new-moon day) and the hour of the next
+new moon was full 30 days or over in duration; if less than 30
+days, then the month was a “small” one (29 days). Not more than
+two long months ever followed in succession, and two short months
+never did so.
+But, in any case, even twelve regular moons of 291/2 days only
+make 354 days, whereas a solar year is about 3651/4 days, whilst
+the sun’s time in passing through a “mansion” (one-twelfth of the
+solar year) is about 301/2 days. Thus there was a “superfluity"
+of about ten days in every lunar year, or about one lunation in
+every third year; not to mention that a “mansion” was about a day
+longer than a lunation, and that therefore the husbandman was
+liable to be thrown out of his reckoning. In order to remedy this,
+the Chinese intercalated a month once in about thirty-three moons,
+and called the intercalary month by the same name as the one
+preceding it, both with regard to the common numbers 1-12, and
+with regard to the two endless cycles of twelve signs and sixty
+signs, by which moons are calculated for ever, in the past and in
+the future. Regarding the difficulty of seasons, the solar year
+was divided into twenty-four “joints,” and each “joint” was about
+half a “mansion” (the difference rarely exceeding one hour).
+However, the spring equinox is always the sixth “joint,” and is
+the middle of spring season: this and the other “joints” being all
+about 151/4 days in length, the Chinese seasons can be symmetrically
+divided with relation to both equinoxes and both solstices; for the
+intercalary moon (judiciously made unobtrusive, and kept out of vulgar
+sight as far as possible) settles the lunar year difficulty; and the
+seasons conform, as of course they should do, to the heat of the
+sun, which is  a much more natural and practical arrangement than
+our own arbitrarily assorted and unequal months.
+The endless sixty-year cycle of years is usually referred back to
+for a beginning to either 2697 or 2637 B.C.; but, apart from the
+fact that there is little or no accurate knowledge anterior to 842
+B.C., it is of no importance when it began, so long as sixty pairs
+of equinoxes and solstices are calculated backwards indefinitely.
+It goes back, in any case, to a date beyond which the memory of
+Chinese man runneth not to the contrary; it is unbroken and
+continuous; we are free to take up any date we like at sixty-year
+intervals, and say “here I agree to begin”: we cannot deny that
+1908 is the cycle year it purports to be; and even if we did,
+batches of sixty years backwards from any other cyclic year called
+1908, would always have a fixed relation to the other 4604 years
+recorded; nor, having accepted 1908, can we deny 1808, 1708, and
+so on, as far back as we like, in order to test how any given
+event, eclipse or other, coincides relatively with our own date:
+it is not a question of beginning, but of counting back, and
+stopping. We find Confucius of Lu (Chou clan state) using the
+calendar of the Chou dynasty (1122 B.C.-249 B.C.); whose founder
+had said: “In future we make the eleventh month the beginning of
+the year instead of the twelfth month.” The previous dynasty of
+Shang (1766-1123) had similarly said: “In future we make the
+twelfth month begin the year instead of the first.” The previous
+dynasty of Hia (2205-1767) and the individual emperors before had
+all said (or taken for granted): “The year begins in the first
+month,” from which we may naturally conclude that there could not
+have been an earlier calendar, as no “sage” could reasonably begin
+anywhere but at the beginning. At the same time, it must be
+explained that the astronomical order of the months, counting the
+first as being that when the sun enters Capricorn, is different
+from the civil order. Thus the Hia, Shang, and Chou first civil
+months were the third, second, and first astronomical months,
+representing the sun’s entry into Pisces, Aquarius, and
+Capricorn, respectively. When the First August Emperor
+conquered the whole of China, and proceeded to unify cart-axles,
+weights and measures, written characters, and many other
+discrepant popular arrangements, he said: “Let the tenth month be
+in future the first in the year instead of the eleventh.” That is
+to say, he took as civil first month the twelfth astronomical
+month, or that in which the sun enters Sagittarius. Thus we
+see that in 2000 years the calendar had got about 90 days out of
+gear; or, roughly, about an hour a year.
+All the above may, perhaps, be understood more clearly by
+considering the following unmistakably genuine statement made by
+the Emperor in 104 B.C., a hundred years after the Ts’in dynasty
+had been destroyed; after he had contemplated the tombs of the
+ancient monarchs as explained in the last Chapter; after the West
+of Asia had been discovered; and when it is possible (though
+there is no record of it) that Persians, Indians, Greeks, etc., may have
+intervened in discussion upon the calendar. He says: “After the
+Emperors Yu and Li (the two who fled from their metropolis in 771 B.C.
+and 842 B.C. respectively, as related), the Chou dynasty went wrong,
+and those who were doubly subjects began to wield power; astrologers
+ceased to keep reckoning of seasons; the princes no longer proclaimed
+the first day of each moon. Hereditary astronomers got scattered; some
+remained in All the Hia (orthodox China); others betook themselves to
+the various barbarians. In the twenty-sixth year of the Emperor Siang (626
+B.C.) there was an intercalary third month, which arrangement the
+’Springs and Autumns’ condemns (it should have been at the end of
+the year)... The First August Emperor took the tenth month as the
+beginning of the year... The present Emperor (of the Han dynasty)
+appointed two astronomers, the second of whom (a native of East Sz
+Ch’wan) advanced the calculations and improved the calendar. Then
+it was found that the measures of the Sun and the Mansions agreed
+with the principles adopted by the Hia dynasty... The first cyclic
+day and also the first lunar day of the eleventh moon has now been
+proved to be the winter solstice. I change the seventh year (of my
+present reign-period), and I make of it the first year of the new
+reign-period, to be called ’Great Beginning.’"–Accordingly what
+had up to that date been the seventh year (of a reign-period
+bearing another name) now became a year of 442 days; that is to
+say, the three months postponed in turn by the Hia, Shang, and
+Chou dynasties were taken up again, and accordingly that one
+correcting year consisted of fifteen months. With slight changes,
+always adopted only to be again rejected after a few years of
+trial, this has been the basis of all later calendars; and for
+this reason Confucius’ birthday is kept on the twenty-seventh day
+of the eighth moon instead of during the tenth moon, as it would
+have been according to Chou dates.
+The above examination into the calendar question tends to show
+still more clearly the good faith of the historians and the
+administration; it also illustrates the continuity and painstaking
+accuracy of the Chinese records, whatever other defects they may
+otherwise disclose.
+Continue...
+
+This electronic book of Ancient China Simplified by Edward Harper Parker,
+M.A., (Manc.), Professor of Chinese at the Victoria University of Manchester,
+London is public domain.
+Hypertext conversion by Philipp Lenssen.
+
+
+At Amazon: The Cambridge Illustrated History of China
+
+
+Last updated on November 2003.
+Complete book. Authorama - Classic Literature, free of copyright. About...
+Ancient China Simplified (1908)By Edward Harper ParkerAt Amazon

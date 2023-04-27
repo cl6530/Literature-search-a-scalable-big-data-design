@@ -1,0 +1,790 @@
+
+
+
+
+
+[Footnote: Read before the Aristotelian Society, December 1,
+1884, and first published in Mind, vol. x (1885).–This, and
+the following articles have received a very slight verbal
+revision, consisting mostly in the omission of redundancy.]
+The following inquiry is (to use a distinction familiar
+to readers of Mr. Shadworth Hodgson) not an inquiry into
+the ’how it comes,’ but into the ’what it is’ of
+cognition. What we call acts of cognition are evidently
+realized through what we call brains and their events,
+whether there be ’souls’ dynamically connected with the
+brains or not. But with neither brains nor souls has this
+essay any business to transact. In it we shall simply
+assume that cognition IS produced, somehow, and limit
+ourselves to asking what elements it contains, what
+factors it implies.
+Cognition is a function of consciousness. The first factor it
+implies is therefore a state of consciousness wherein the cognition
+shall take place. Having elsewhere used the word ’feeling’ to
+designate generically all states of consciousness considered
+subjectively, or without respect to their possible function, I shall
+then say that, whatever elements an act of cognition may imply
+besides, it at least implies the existence of a FEELING. [If the
+reader share the current antipathy to the word ’feeling,’ he may
+substitute for it, wherever I use it, the word ’idea,’ taken in the
+old broad Lockian sense, or he may use the clumsy phrase ’state of
+consciousness,’ or finally he may say ’thought’ instead.]
+Now it is to be observed that the common consent of mankind has
+agreed that some feelings are cognitive and some are simple
+facts having a subjective, or, what one might almost call a
+physical, existence, but no such self-transcendent function as
+would be implied in their being pieces of knowledge. Our task
+is again limited here. We are not to ask, ’How is self-transcendence
+possible?’ We are only to ask, ’How comes it that common sense
+has assigned a number of cases in which it is assumed not only to be
+possible but actual? And what are the marks used by common sense
+to distinguish those cases from the rest?’ In short, our inquiry is
+a chapter in descriptive psychology,–hardly anything more.
+Condillac embarked on a quest similar to this by his famous
+hypothesis of a statue to which various feelings were successively
+imparted. Its first feeling was supposed to be one of fragrance. But
+to avoid all possible complication with the question of genesis, let
+us not attribute even to a statue the possession of our imaginary
+feeling. Let us rather suppose it attached to no matter, nor
+localized at any point in space, but left swinging IN VACUO, as
+it were, by the direct creative FIAT of a god. And let us also, to
+escape entanglement with difficulties about the physical or
+psychical nature of its ’object’ not call it a feeling of
+fragrance or of any other determinate sort, but limit ourselves to
+assuming that it is a feeling of Q. What is true of it under this
+abstract name will be no less true of it in any more particular
+shape (such as fragrance, pain, hardness) which the reader may
+suppose.
+Now, if this feeling of Q be the only creation of the god, it will
+of course form the entire universe. And if, to escape the cavils of
+that large class of persons who believe that SEMPER IDEM SENTIRE AC
+NON SENTIRE are the same, [Footnote:1 ’The Relativity of Knowledge,’
+held in this sense, is, it may be observed in passing, one of the
+oddest of philosophic superstitions. Whatever facts may be cited in
+its favor are due to the properties of nerve-tissue, which may be
+exhausted by too prolonged an excitement. Patients with neuralgias
+that last unremittingly for days can, however, assure us that
+the limits of this nerve-law are pretty widely drawn. But if
+we physically could get a feeling that should last
+eternally unchanged, what atom of logical or psychological argument
+is there to prove that it would not be felt as long as it
+lasted, and felt for just what it is, all that time? The reason for
+the opposite prejudice seems to be our reluctance to think that
+so stupid a thing as such a feeling would necessarily be, should be
+allowed to fill eternity with its presence. An
+interminable acquaintance, leading to no knowledge-about,–such
+would be its condition.] we allow the feeling to be of as short a
+duration as they like, that universe will only need to last an
+infinitesimal part of a second. The feeling in question will thus be
+reduced to its fighting weight, and all that befalls it in the way
+of a cognitive function must be held to befall in the brief
+instant of its quickly snuffed-out life,–a life, it will also be
+noticed, that has no other moment of consciousness either preceding
+or following it.
+Well now, can our little feeling, thus left alone in the universe,–
+for the god and we psychological critics may be supposed left out of
+the account,–can the feeling, I say, be said to have any sort of a
+cognitive function? For it to KNOW, there must be something to be
+known. What is there, on the present supposition? One may reply,
+’the feeling’s content q.’ But does it not seem more proper to call
+this the feeling’s QUALITY than its content? Does not the
+word ’content’ suggest that the feeling has already dirempted itself
+as an act from its content as an object? And would it be quite safe
+to assume so promptly that the quality q of a feeling is one and the
+same thing with a feeling of the quality q? The quality q, so far,
+is an entirely subjective fact which the feeling carries so to speak
+endogenously, or in its pocket. If any one pleases to dignify so
+simple a fact as this by the name of knowledge, of course
+nothing can prevent him. But let us keep closer to the path of
+common usage, and reserve the name knowledge for the cognition of
+’realities,’ meaning by realities things that exist independently of
+the feeling through which their cognition occurs. If the content of
+the feeling occur nowhere in the universe outside of the feeling
+itself, and perish with the feeling, common usage refuses to call it
+a reality, and brands it as a subjective feature of the
+feeling’s constitution, or at the most as the feeling’s DREAM.
+For the feeling to be cognitive in the specific sense, then, it must
+be self-transcendent; and we must prevail upon the god to CREATE A
+REALITY OUTSIDE OF IT to correspond to its intrinsic quality Q. Thus
+only can it be redeemed from the condition of being a solipsism. If
+now the new created reality RESEMBLE the feeling’s quality Q I say
+that the feeling may be held by us TO BE COGNIZANT OF THAT REALITY.
+This first instalment of my thesis is sure to be attacked. But one
+word before defending it ’Reality’ has become our warrant for
+calling a feeling cognitive; but what becomes our warrant for
+calling anything reality? The only reply is–the faith of the
+present critic or inquirer. At every moment of his life he
+finds himself subject to a belief in SOME realities, even though his
+realities of this year should prove to be his illusions of the next.
+Whenever he finds that the feeling he is studying contemplates what
+he himself regards as a reality, he must of course admit the feeling
+itself to be truly cognitive. We are ourselves the critics here; and
+we shall find our burden much lightened by being allowed to take
+reality in this relative and provisional way. Every science must
+make some assumptions. Erkenntnisstheoretiker are but fallible
+mortals. When they study the function of cognition, they do it by
+means of the same function in themselves. And knowing that the
+fountain cannot go higher than its source, we should promptly
+confess that our results in this field are affected by our own
+liability to err. THE MOST WE CAN CLAIM IS, THAT WHAT WE SAY ABOUT
+COGNITION MAY BE COUNTED AS TRUE AS WHAT WE SAY ABOUT ANYTHING ELSE.
+If our hearers agree with us about what are to be held ’realities,’
+they will perhaps also agree to the reality of our doctrine of the
+way in which they are known. We cannot ask for more.
+Our terminology shall follow the spirit of these remarks. We will
+deny the function of knowledge to any feeling whose quality or
+content we do not ourselves believe to exist outside of that feeling
+as well as in it. We may call such a feeling a dream if we like; we
+shall have to see later whether we can call it a fiction or an
+error.
+To revert now to our thesis. Some persons will immediately cry out,
+’How CAN a reality resemble a feeling?’ Here we find how wise we
+were to name the quality of the feeling by an algebraic letter Q. We
+flank the whole difficulty of resemblance between an inner state
+and an outward reality, by leaving it free to any one to postulate
+as the reality whatever sort of thing he thinks CAN resemble a
+feeling,–if not an outward thing, then another feeling like
+the first one,–the mere feeling Q in the critic’s mind for example.
+Evading thus this objection, we turn to another which is sure to
+be urged.
+It will come from those philosophers to whom ’thought,’ in the sense
+of a knowledge of relations, is the all in all of mental life; and
+who hold a merely feeling consciousness to be no better–one would
+sometimes say from their utterances, a good deal worse–than no
+consciousness at all. Such phrases as these, for example, are common
+to-day in the mouths of those who claim to walk in the footprints
+of Kant and Hegel rather than in the ancestral English paths: ’A
+perception detached from all others, “left out of the heap we call a
+mind,” being out of all relation, has no qualities–is simply
+nothing. We can no more consider it than we can see vacancy.’ ’It is
+simply in itself fleeting, momentary, unnameable (because while we
+name it it has become another), and for the very same reason
+unknowable, the very negation of knowability.’ ’Exclude from what we
+have considered real all qualities constituted by relation, we find
+that none are left.’
+Altho such citations as these from the writings of Professor Green
+might be multiplied almost indefinitely, they would hardly repay
+the pains of collection, so egregiously false is the doctrine they
+teach. Our little supposed feeling, whatever it may be, from the
+cognitive point of view, whether a bit of knowledge or a dream, is
+certainly no psychical zero. It is a most positively and definitely
+qualified inner fact, with a complexion all its own. Of course there
+are many mental facts which it is NOT. It knows Q, if Q be a
+reality, with a very minimum of knowledge. It neither dates nor
+locates it. It neither classes nor names it. And it neither knows
+itself as a feeling, nor contrasts itself with other feelings, nor
+estimates its own duration or intensity. It is, in short, if there
+is no more of it than this, a most dumb and helpless and useless
+kind of thing.
+But if we must describe it by so many negations, and if it can say
+nothing ABOUT itself or ABOUT anything else, by what right do we
+deny that it is a psychical zero? And may not the ’relationists’ be
+right after all?
+In the innocent looking word ’about’ lies the solution of this
+riddle; and a simple enough solution it is when frankly looked at. A
+quotation from a too seldom quoted book, the Exploratio Philosophica
+of John Grote (London, 1865), p. 60, will form the best
+introduction to it.
+’Our knowledge,’ writes Grote, ’may be contemplated in either of two
+ways, or, to use other words, we may speak in a double manner of
+the “object” of knowledge. That is, we may either use language thus:
+we KNOW a thing, a man, etc.; or we may use it thus: we know such
+and such things ABOUT the thing, the man, etc. Language in general,
+following its true logical instinct, distinguishes between these two
+applications of the notion of knowledge, the one being yvwvai,
+noscere, kennen, connaitre, the other being eidevai, scire, wissen,
+savoir. In the origin, the former may be considered more what I have
+called phenomenal–it is the notion of knowledge as ACQUAINTANCE or
+familiarity with what is known; which notion is perhaps more akin to
+the phenomenal bodily communication, and is less purely
+intellectual than the other; it is the kind of knowledge which we
+have of a thing by the presentation to the senses or the
+representation of it in picture or type, a Vorstellung. The
+other, which is what we express in judgments or propositions, what
+is embodied in Begriffe or concepts without any necessary
+imaginative representation, is in its origin the more
+intellectual notion of knowledge. There is no reason, however, why
+we should not express our knowledge, whatever its kind, in
+either manner, provided only we do not confusedly express it, in the
+same proposition or piece of reasoning, in both.’
+Now obviously if our supposed feeling of Q is (if knowledge at all)
+only knowledge of the mere acquaintance-type, it is milking a he-
+ goat, as the ancients would have said, to try to extract from it
+any deliverance ABOUT anything under the sun, even about itself. And
+it is as unjust, after our failure, to turn upon it and call it a
+psychical nothing, as it would be, after our fruitless attack upon
+the billy-goat, to proclaim the non-lactiferous character of
+the whole goat-tribe. But the entire industry of the Hegelian school
+in trying to shove simple sensation out of the pale of philosophic
+recognition is founded on this false issue. It is always the
+’speechlessness’ of sensation, its inability to make any
+’statement,’[Footnote: See, for example, Green’s Introduction to
+Hume’s Treatise of Human Nature, p. 36.] that is held to make the
+very notion of it meaningless, and to justify the student of
+knowledge in scouting it out of existence. ’Significance,’ in the
+sense of standing as the sign of other mental states, is taken to be
+the sole function of what mental states we have; and from the
+perception that our little primitive sensation has as yet no
+significance in this literal sense, it is an easy step to call it
+first meaningless, next senseless, then vacuous, and finally to
+brand it as absurd and inadmissible. But in this universal
+liquidation, this everlasting slip, slip, slip, of
+direct acquaintance into knowledge-ABOUT, until at last nothing is
+left about which the knowledge can be supposed to obtain, does not
+all ’significance’ depart from the situation? And when our knowledge
+about things has reached its never so complicated perfection, must
+there not needs abide alongside of it and inextricably mixed in with
+it some acquaintance with WHAT things all this knowledge is about?
+Now, our supposed little feeling gives a WHAT; and if other feelings
+should succeed which remember the first, its WHAT may stand as
+subject or predicate of some piece of knowledge-about, of some
+judgment, perceiving relations between it and other WHATS which
+the other feelings may know. The hitherto dumb Q will then receive a
+name and be no longer speechless. But every name, as students
+of logic know, has its ’denotation’; and the denotation always means
+some reality or content, relationless as extra or with its
+internal relations unanalyzed, like the Q which our
+primitive sensation is supposed to know. No relation-
+expressing proposition is possible except on the basis of a
+preliminary acquaintance with such ’facts,’ with such contents, as
+this. Let the Q be fragrance, let it be toothache, or let it be a
+more complex kind of feeling, like that of the full-moon swimming in
+her blue abyss, it must first come in that simple shape, and be held
+fast in that first intention, before any knowledge ABOUT it can be
+attained. The knowledge ABOUT it is IT with a context added. Undo
+IT, and what is added cannot be CONtext. [Footnote: If A enters and
+B exclaims, ’Didn’t you see my brother on the stairs?’ we all hold
+that A may answer, ’I saw him, but didn’t know he was your brother’;
+ignorance of brotherhood not abolishing power to see. But those who,
+on account of the unrelatedness of the first facts with which we
+become acquainted, deny them to be ’known’ to us, ought in
+consistency to maintain that if A did not perceive the relationship
+of the man on the stairs to B, it was impossible he should
+have noticed him at all.]
+Let us say no more then about this objection, but enlarge our
+thesis, thus: If there be in the universe a Q other than the Q in
+the feeling, the latter may have acquaintance with an entity
+ejective to itself; an acquaintance moreover, which, as mere
+acquaintance, it would be hard to imagine susceptible either of
+improvement or increase, being in its way complete; and which would
+oblige us (so long as we refuse not to call acquaintance
+knowledge) to say not only that the feeling is cognitive, but that
+all qualities of feeling, SO LONG AS THERE IS ANYTHING OUTSIDE OF
+THEM WHICH THEY RESEMBLE, are feelings OF qualities of existence,
+and perceptions of outward fact.
+The point of this vindication of the cognitive function of the first
+feeling lies, it will be noticed, in the discovery that q does exist
+elsewhere than in it. In case this discovery were not made, we could
+not be sure the feeling was cognitive; and in case there were
+nothing outside to be discovered, we should have to call the feeling
+a dream. But the feeling itself cannot make the discovery. Its own q
+is the only q it grasps; and its own nature is not a particle
+altered by having the self-transcendent function of cognition either
+added to it or taken away. The function is accidental; synthetic,
+not analytic; and falls outside and not inside its being. [Footnote:
+It seems odd to call so important a function accidental, but I do
+not see how we can mend the matter. Just as, if we start with the
+reality and ask how it may come to be known, we can only reply by
+invoking a feeling which shall RECONSTRUCT it in its own more
+private fashion; so, if we start with the feeling and ask how it may
+come to know, we can only reply by invoking a reality which shall
+RECONSTRUCT it in its own more public fashion. In either case,
+however, the datum we start with remains just what it was. One may
+easily get lost in verbal mysteries about the difference between
+quality of feeling and feeling of quality, between receiving and
+reconstructing the knowledge of a reality. But at the end we must
+confess that the notion of real cognition involves an
+unmediated dualism of the knower and the known. See Bowne’s
+Metaphysics, New York, 1882, pp. 403-412, and various passages in
+Lotze, e.g., Logic, Sec. 308. [’Unmediated’ is a bad word to
+have used.–1909.]]
+A feeling feels as a gun shoots. If there be nothing to be felt or
+hit, they discharge themselves ins blaue hinein. If, however,
+something starts up opposite them, they no longer simply shoot or
+feel, they hit and know.
+But with this arises a worse objection than any yet made. We the
+critics look on and see a real q and a feeling of q; and because the
+two resemble each other, we say the one knows the other. But what
+right have we to say this until we know that the feeling of q means
+to stand for or represent just that SAME other q? Suppose, instead
+of one q, a number of real q’s in the field. If the gun shoots and
+hits, we can easily see which one of them it hits. But how can we
+distinguish which one the feeling knows? It knows the one it stands
+for. But which one DOES it stand for? It declares no intention in
+this respect. It merely resembles; it resembles all indifferently;
+and resembling, per se, is not necessarily representing or standing-
+for at all. Eggs resemble each other, but do not on that account
+represent, stand for, or know each other. And if you say this
+is because neither of them is a FEELING, then imagine the world to
+consist of nothing but toothaches, which ARE feelings, feelings
+resembling each other exactly,–would they know each other the
+better for all that?
+The case of q being a bare quality like that of toothache-pain is
+quite different from that of its being a concrete individual thing.
+There is practically no test for deciding whether the feeling of a
+bare quality means to represent it or not. It can DO nothing to the
+quality beyond resembling it, simply because an abstract quality is
+a thing to which nothing can be done. Being without context or
+environment or principium individuationis, a quiddity with
+no haecceity, a platonic idea, even duplicate editions of such a
+quality (were they possible), would be indiscernible, and no sign
+could be given, no result altered, whether the feeling I meant to
+stand for this edition or for that, or whether it simply resembled
+the quality without meaning to stand for it at all.
+If now we grant a genuine pluralism of editions to the quality q, by
+assigning to each a CONTEXT which shall distinguish it from its
+mates, we may proceed to explain which edition of it the feeling
+knows, by extending our principle of resemblance to the context too,
+and saying the feeling knows the particular q whose context it most
+exactly duplicates. But here again the theoretic doubt recurs:
+duplication and coincidence, are they knowledge? The gun shows which
+q it points to and hits, by BREAKING it. Until the feeling can show
+us which q it points to and knows, by some equally flagrant token,
+why are we not free to deny that it either points to or knows any
+one of the REAL q’s at all, and to affirm that the
+word ’resemblance’ exhaustively describes its relation to the
+reality?
+Well, as a matter of fact, every actual feeling DOES show us, quite
+as flagrantly as the gun, which q it points to; and practically in
+concrete cases the matter is decided by an element we have hitherto
+left out. Let us pass from abstractions to possible instances, and
+ask our obliging deus ex machina to frame for us a richer world. Let
+him send me, for example, a dream of the death of a certain man, and
+let him simultaneously cause the man to die. How would our practical
+instinct spontaneously decide whether this were a case of cognition
+of the reality, or only a sort of marvellous coincidence of a
+resembling reality with my dream? Just such puzzling cases as this
+are what the ’society for psychical research’ is busily
+collecting and trying to interpret in the most reasonable way.
+If my dream were the only one of the kind I ever had in my life, if
+the context of the death in the dream differed in many particulars
+from the real death’s context, and if my dream led me to no action
+about the death, unquestionably we should all call it a strange
+coincidence, and naught besides. But if the death in the dream had a
+long context, agreeing point for point with every feature that
+attended the real death; if I were constantly having such
+dreams, all equally perfect, and if on awaking I had a habit of
+ACTING immediately as if they were true and so getting ’the start’
+of my more tardily instructed neighbors,–we should in all
+probability have to admit that I had some mysterious kind of
+clairvoyant power, that my dreams in an inscrutable way meant just
+those realities they figured, and that the word ’coincidence’ failed
+to touch the root of the matter. And whatever doubts any one
+preserved would completely vanish, if it should appear that from the
+midst of my dream I had the power of INTERFERING with the course of
+the reality, and making the events in it turn this way or that,
+according as I dreamed they should. Then at least it would be
+certain that my waking critics and my dreaming self were dealing
+with the SAME.
+And thus do men invariably decide such a question. THE FALLING OF
+THE DREAM’S PRACTICAL CONSEQUENCES into the real world, and the
+EXTENT of the resemblance between the two worlds are the criteria
+they instinctively use. [Footnote: The thoroughgoing objector might,
+it is true, still return to the charge, and, granting a dream which
+should completely mirror the real universe, and all the actions
+dreamed in which should be instantly matched by duplicate actions in
+this universe, still insist that this is nothing more than harmony,
+and that it is as far as ever from being made clear whether
+the dream-world refers to that other world, all of whose details it
+so closely copies. This objection leads deep into metaphysics. I do
+not impugn its importance, and justice obliges me to say that but
+for the teachings of my colleague, Dr. Josiah Royce, I should
+neither have grasped its full force nor made my own practical and
+psychological point of view as clear to myself as it is. On this
+occasion I prefer to stick steadfastly to that point of view; but I
+hope that Dr. Royce’s more fundamental criticism of the function of
+cognition may ere long see the light. [I referred in this note to
+Royce’s religious aspect of philosophy, then about to be published.
+This powerful book maintained that the notion of REFERRING involved
+that of an inclusive mind that shall own both the real q and the
+mental q, and use the latter expressly as a representative symbol of
+the former. At the time I could not refute this transcendentalist
+opinion. Later, largely through the influence of Professor D. S.
+Miller (see his essay ’The meaning of truth and error,’ in the
+Philosophical Review for 1893, vol. 2 p. 403) I came to see that any
+definitely experienceable workings would serve as
+intermediaries quite as well as the absolute mind’s
+intentions would.]] All feeling is for the sake of action, all
+feeling results in action,–to-day no argument is needed to prove
+these truths. But by a most singular disposition of nature which we
+may conceive to have been different, MY FEELINGS ACT UPON THE
+REALITIES WITHIN MY CRITIC’S WORLD. Unless, then, my critic can
+prove that my feeling does not ’point to’ those realities which it
+acts upon, how can he continue to doubt that he and I are alike
+cognizant of one and the same real world? If the action is performed
+in one world, that must be the world the feeling intends; if in
+another world, THAT is the world the feeling has in mind. If your
+feeling bear no fruits in my world, I call it utterly detached from
+my world; I call it a solipsism, and call its world a dream-world.
+If your toothache do not prompt you to ACT as if I had a toothache,
+nor even as if I had a separate existence; if you neither say to me,
+’I know now how you must suffer!’ nor tell me of a remedy, I deny
+that your feeling, however it may resemble mine, is really cognizant
+of mine. It gives no SIGN of being cognizant, and such a sign is
+absolutely necessary to my admission that it is.
+Before I can think you to mean my world, you must affect my world;
+before I can think you to mean much of it, you must affect much of
+it; and before I can be sure you mean it AS I DO, you must affect it
+JUST AS I SHOULD if I were in your place. Then I, your critic, will
+gladly believe that we are thinking, not only of the same reality,
+but that we are thinking it ALIKE, and thinking of much of its
+extent.
+Without the practical effects of our neighbor’s feelings on our own
+world, we should never suspect the existence of our
+neighbor’s feelings at all, and of course should never
+find ourselves playing the critic as we do in this article. The
+constitution of nature is very peculiar. In the world of each of us
+are certain objects called human bodies, which move about and act on
+all the other objects there, and the occasions of their action are
+in the main what the occasions of our action would be, were they our
+bodies. They use words and gestures, which, if we used them, would
+have thoughts behind them,–no mere thoughts uberhaupt, however, but
+strictly determinate thoughts. I think you have the notion of
+fire in general, because I see you act towards this fire in my room
+just as I act towards it,–poke it and present your person towards
+it, and so forth. But that binds me to believe that if you feel
+’fire’ at all, THIS is the fire you feel. As a matter of fact,
+whenever we constitute ourselves into psychological critics, it is
+not by dint of discovering which reality a feeling ’resembles’ that
+we find out which reality it means. We become first aware of which
+one it means, and then we suppose that to be the one it resembles.
+We see each other looking at the same objects, pointing to them and
+turning them over in various ways, and thereupon we hope and trust
+that all of our several feelings resemble the reality and each
+other. But this is a thing of which we are never theoretically sure.
+Still, it would practically be a case of grubelsucht, if a ruffian
+were assaulting and drubbing my body, to spend much time in subtle
+speculation either as to whether his vision of my body resembled
+mine, or as to whether the body he really MEANT to insult were not
+some body in his mind’s eye, altogether other from my own. The
+practical point of view brushes such metaphysical cobwebs away. If
+what he have in mind be not MY body, why call we it a body at all?
+His mind is inferred by me as a term, to whose existence we trace
+the things that happen. The inference is quite void if the term,
+once inferred, be separated from its connection with the body
+that made me infer it, and connected with another that is not mine
+at all. No matter for the metaphysical puzzle of how our two minds,
+the ruffian’s and mine, can mean the same body. Men who see each
+other’s bodies sharing the same space, treading the same earth,
+splashing the same water, making the same air resonant, and pursuing
+the same game and eating out of the same dish, will never
+practically believe in a pluralism of solipsistic worlds.
+Where, however, the actions of one mind seem to take no effect in
+the world of the other, the case is different. This is what happens
+in poetry and fiction. Every one knows Ivanhoe, for example; but so
+long as we stick to the story pure and simple without regard to
+the facts of its production, few would hesitate to admit that there
+are as many different Ivanhoes as there are different minds
+cognizant of the story. [Footnote: That is, there is no REAL
+’Ivanhoe,’ not even the one in Sir Walter Scott’s mind as he was
+writing the story. That one is only the FIRST one of the Ivanhoe-
+solipsisms. It is quite true we can make it the real Ivanhoe if we
+like, and then say that the other Ivanhoes know it or do not know
+it, according as they refer to and resemble it or no. This is done
+by bringing in Sir Walter Scott himself as the author of the real
+Ivanhoe, and so making a complex object of both. This object,
+however, is not a story pure and simple. It has dynamic
+relations with the world common to the experience of all the
+readers. Sir Walter Scott’s Ivanhoe got itself printed in volumes
+which we all can handle, and to any one of which we can refer to
+see which of our versions be the true one, i.e., the original one
+of Scott himself. We can see the manuscript; in short we can
+get back to the Ivanhoe in Scott’s mind by many an avenue
+and channel of this real world of our experience,–a thing we can by
+no means do with either the Ivanhoe or the Rebecca, either the
+Templar or the Isaac of York, of the story taken simply as such, and
+detached from the conditions of its production. Everywhere, then, we
+have the same test: can we pass continuously from two objects in two
+minds to a third object which seems to be in BOTH minds, because
+each mind feels every modification imprinted on it by the other? If
+so, the first two objects named are derivatives, to say the least,
+from the same third object, and may be held, if they resemble each
+other, to refer to one and the same reality.] The fact that all
+these Ivanhoes RESEMBLE each other does not prove the contrary. But
+if an alteration invented by one man in his version were to
+reverberate immediately through all the other versions, and
+produce changes therein, we should then easily agree that all these
+thinkers were thinking the SAME Ivanhoe, and that, fiction or no
+fiction, it formed a little world common to them all.
+Having reached this point, we may take up our thesis and improve it
+again. Still calling the reality by the name of q and letting
+the critic’s feeling vouch for it, we can say that any other feeling
+will be held cognizant of q, provided it both resemble q, and refer
+to q, as shown by its either modifying q directly, or modifying some
+other reality, p or r, which the critic knows to be continuous with
+q. Or more shortly, thus: THE FEELING OF q KNOWS WHATEVER REALITY IT
+RESEMBLES, AND EITHER DIRECTLY OR INDIRECTLY OPERATES ON. If it
+resemble without operating, it is a dream; if it operate without
+resembling, it is an error. [Footnote: Among such errors are those
+cases in which our feeling operates on a reality which it does
+partially resemble, and yet does not intend: as for instance, when
+I take up your umbrella, meaning to take my own. I cannot be said
+here either to know your umbrella, or my own, which latter my
+feeling more completely resembles. I am mistaking them both,
+misrepresenting their context, etc.
+We have spoken in the text as if the critic were necessarily one
+mind, and the feeling criticised another. But the criticised feeling
+and its critic may be earlier and later feelings of the same mind,
+and here it might seem that we could dispense with the notion of
+operating, to prove that critic and criticised are referring to and
+meaning to represent the SAME. We think we see our past feelings
+directly, and know what they refer to without appeal. At the worst,
+we can always fix the intention of our present feeling and MAKE it
+refer to the same reality to which any one of our past feelings may
+have referred. So we need no ’operating’ here, to make sure that the
+feeling and its critic mean the same real q. Well, all the better if
+this is so! We have covered the more complex and difficult case in
+our text, and we may let this easier one go. The main thing
+at present is to stick to practical psychology, and ignore
+metaphysical difficulties.
+One more remark. Our formula contains, it will be observed, nothing
+to correspond to the great principle of cognition laid down by
+Professor Ferrier in his Institutes of Metaphysic and apparently
+adopted by all the followers of Fichte, the principle, namely, that
+for knowledge to be constituted there must be knowledge of the
+knowing mind along with whatever else is known: not q, as we have
+supposed, but q PLUS MYSELF, must be the least I can know. It is
+certain that the common sense of mankind never dreams of using any
+such principle when it tries to discriminate between conscious
+states that are knowledge and conscious states that are not. So
+that Ferrier’s principle, if it have any relevancy at all, must
+have relevancy to the metaphysical possibility of consciousness
+at large, and not to the practically recognized constitution
+of cognitive consciousness. We may therefore pass it by
+without further notice here.] It is to be feared that the reader may
+consider this formula rather insignificant and obvious, and hardly
+worth the labor of so many pages, especially when he considers that
+the only cases to which it applies are percepts, and that the whole
+field of symbolic or conceptual thinking seems to elude its grasp.
+Where the reality is either a material thing or act, or a state of
+the critic’s consciousness, I may both mirror it in my mind and
+operate upon it–in the latter case indirectly, of course–as
+soon as I perceive it. But there are many cognitions, universally
+allowed to be such, which neither mirror nor operate on their
+realities.
+In the whole field of symbolic thought we are universally held both
+to intend, to speak of, and to reach conclusions about–to know in
+short–particular realities, without having in our subjective
+consciousness any mind-stuff that resembles them even in a remote
+degree. We are instructed about them by language which awakens no
+consciousness beyond its sound; and we know WHICH realities they
+are by the faintest and most fragmentary glimpse of some remote
+context they may have and by no direct imagination of themselves. As
+minds may differ here, let me speak in the first person. I am sure
+that my own current thinking has WORDS for its almost exclusive
+subjective material, words which are made intelligible by being
+referred to some reality that lies beyond the horizon of direct
+consciousness, and of which I am only aware as of a terminal
+MORE existing in a certain direction, to which the words might lead
+but do not lead yet. The SUBJECT, or TOPIC, of the words is
+usually something towards which I mentally seem to pitch them in a
+backward way, almost as I might jerk my thumb over my shoulder to
+point at something, without looking round, if I were only entirely
+sure that it was there. The UPSHOT, or CONCLUSION, of the words is
+something towards which I seem to incline my head forwards, as if
+giving assent to its existence, tho all my mind’s eye catches sight
+of may be some tatter of an image connected with it, which tatter,
+however, if only endued with the feeling of familiarity and reality,
+makes me feel that the whole to which it belongs is rational and
+real, and fit to be let pass.
+ Here then is cognitive consciousness on a large scale, and yet what
+it knows, it hardly resembles in the least degree. The formula last
+laid down for our thesis must therefore be made more complete. We
+may now express it thus: A PERCEPT KNOWS WHATEVER REALITY IT
+DIRECTLY OR INDIRECTLY OPERATES ON AND RESEMBLES; ACONCEPTUAL
+FEELING, OR THOUGHT KNOWS A REALITY, WHENEVER IT ACTUALLY OR
+POTENTIALLY TERMINATES IN A PERCEPT THAT OPERATES ON, OR RESEMBLES
+THAT REALITY, OR IS OTHERWISE CONNECTED WITH IT OR WITH ITS CONTEXT.
+The latter percept may be either sensation or sensorial idea; and
+when I say the thought must TERMINATE in such a percept, I mean that
+it must ultimately be capable of leading up thereto,–by the way of
+practical
+ Is an incomplete ’thought about’ that reality, that reality is its
+’topic,’ etc. experience, if the terminal feeling be a sensation; by
+the way of logical or habitual suggestion, if it be only an image in
+the mind.
+Let an illustration make this plainer. I open the first book I take
+up, and read the first sentence that meets my eye: ’Newton saw
+the handiwork of God in the heavens as plainly as Paley in the
+animal kingdom.’ I immediately look back and try to analyze the
+subjective state in which I rapidly apprehended this sentence as I
+read it. In the first place there was an obvious feeling that the
+sentence was intelligible and rational and related to the world of
+realities. There was also a sense of agreement or harmony between
+’Newton,’ ’Paley,’ and ’God.’ There was no apparent image connected
+with the words ’heavens,’ or ’handiwork,’ or ’God’; they were
+words merely. With ’animal kingdom’ I think there was the faintest
+consciousness (it may possibly have been an image of the steps) of
+the Museum of Zoology in the town of Cambridge where I write. With
+’Paley’ there was an equally faint consciousness of a small
+dark leather book; and with ’Newton’ a pretty distinct vision of the
+right-hand lower corner of curling periwig. This is all the mind-
+stuff I can discover in my first consciousness of the meaning of
+this sentence, and I am afraid that even not all of this would have
+been present had I come upon the sentence in a genuine reading of
+the book, and not picked it out for an experiment. And yet my
+consciousness was truly cognitive. The sentence is ’about realities’
+which my psychological critic–for we must not forget him–
+acknowledges to be such, even as he acknowledges my distinct feeling
+that they ARE realities, and my acquiescence in the general
+rightness of what I read of them, to be true knowledge on my part.
+Now what justifies my critic in being as lenient as this? This
+singularly inadequate consciousness of mine, made up of symbols
+that neither resemble nor affect the realities they stand for,–how
+can he be sure it is cognizant of the very realities he has himself
+in mind?
+He is sure because in countless like cases he has seen such
+inadequate and symbolic thoughts, by developing themselves,
+terminate in percepts that practically modified and presumably
+resembled his own. By ’developing’ themselves is meant obeying their
+tendencies, following up the suggestions nascently present in them,
+working in the direction in which they seem to point, clearing up
+the penumbra, making distinct the halo, unravelling the
+fringe, which is part of their composition, and in the midst of
+which their more substantive kernel of subjective content seems
+consciously to lie. Thus I may develop my thought in the
+Paley direction by procuring the brown leather volume and bringing
+the passages about the animal kingdom before the critic’s eyes. I
+may satisfy him that the words mean for me just what they mean for
+him, by showing him IN CONCRETO the very animals and their
+arrangements, of which the pages treat. I may get Newton’s works and
+portraits; or if I follow the line of suggestion of the wig, I may
+smother my critic in seventeenth-century matters pertaining to
+Newton’s environment, to show that the word ’Newton’ has the same
+LOCUS and relations in both our minds. Finally I may, by act and
+word, persuade him that what I mean by God and the heavens and
+the analogy of the handiworks, is just what he means also.
+My demonstration in the last resort is to his SENSES. My thought
+makes me act on his senses much as he might himself act on
+them, were he pursuing the consequences of a perception of his own.
+Practically then MY thought terminates in HIS realities. He
+willingly supposes it, therefore, to be OF them, and inwardly to
+RESEMBLE what his own thought would be, were it of the same symbolic
+sort as mine. And the pivot and fulcrum and support of his
+mental persuasion, is the sensible operation which my thought leads
+me, or may lead, to effect–the bringing of Paley’s book, of
+Newton’s portrait, etc., before his very eyes.
+In the last analysis, then, we believe that we all know and think
+about and talk about the same world, because WE BELIEVE OUR
+PERCEPTS ARE POSSESSED BY US IN COMMON. And we believe this because
+the percepts of each one of us seem to be changed in consequence of
+changes in the percepts of someone else. What I am for you is in the
+first instance a percept of your own. Unexpectedly, however, I open
+and show you a book, uttering certain sounds the while. These acts
+are also your percepts, but they so resemble acts of yours with
+feelings prompting them, that you cannot doubt I have the
+feelings too, or that the book is one book felt in both our worlds.
+That it is felt in the same way, that my feelings of it resemble
+yours, is something of which we never can be sure, but which we
+assume as the simplest hypothesis that meets the case. As a matter
+of fact, we never ARE sure of it, and, as ERKENNTNISSTHEORETIKER, we
+can only say that of feelings that should NOT resemble each other,
+both could not know the same thing at the same time in the same way.
+[Footnote: Though both might terminate in the same thing and be
+incomplete thoughts ’about’ it.] If each holds to its own percept
+as the reality, it is bound to say of the other percept, that,
+though it may INTEND that reality, and prove this by working change
+upon it, yet, if it do not resemble it, it is all false and wrong.
+[Footnote: The difference between Idealism and Realism is
+immaterial here. What is said in the text is consistent with
+either theory. A law by which my percept shall change yours
+directly is no more mysterious than a law by which it shall
+first change a physical reality, and then the reality change
+yours. In either case you and I seem knit into a continuous
+world, and not to form a pair of solipsisms.]
+If this be so of percepts, how much more so of higher modes of
+thought! Even in the sphere of sensation individuals are
+probably different enough. Comparative study of the simplest
+conceptual elements seems to show a wider divergence still. And when
+it comes to general theories and emotional attitudes towards life,
+it is indeed time to say with Thackeray, ’My friend, two different
+universes walk about under your hat and under mine.’
+What can save us at all and prevent us from flying asunder into a
+chaos of mutually repellent solipsisms? Through what can our
+several minds commune? Through nothing but the mutual resemblance of
+those of our perceptual feelings which have this power of modifying
+one another, WHICH ARE MERE DUMB KNOWLEDGES-OF-ACQUAINTANCE, and
+which must also resemble their realities or not know them aright at
+all. In such pieces of knowledge-of-acquaintance all our knowledge-
+about must end, and carry a sense of this possible termination as
+part of its content. These percepts, these termini, these sensible
+things, these mere matters-of-acquaintance, are the only
+realities we ever directly know, and the whole history of our
+thought is the history of our substitution of one of them for
+another, and the reduction of the substitute to the status of a
+conceptual sign. Contemned though they be by some thinkers, these
+sensations are the mother-earth, the anchorage, the stable rock,
+the first and last limits, the terminus a quo and the terminus ad
+quem of the mind. to find such sensational termini should be our aim
+with all our higher thought. They end discussion; they destroy the
+false conceit of knowledge; and without them we are all at sea with
+each other’s meaning. If two men act alike on a percept, they
+believe themselves to feel alike about it; if not, they may suspect
+they know it in differing ways. We can never be sure we understand
+each other till we are able to bring the matter to this test.
+[Footnote: ’There  is no distinction of meaning so fine as to
+consist in anything but a possible difference of practice.... It
+appears, then, that the rule for attaining the [highest] grade
+of clearness of apprehension is as follows: Consider what
+effects, which might conceivably have practical bearings, we
+conceive the object of our conception to have. Then, our
+conception of these effects is the whole of our conception of the
+object.’ Charles S. Peirce: ’How to make our Ideas clear,’ in
+Popular Science Monthly, New York, January, 1878, p. 293.] This is
+why metaphysical discussions are so much like fighting with the air;
+they have no practical issue of a sensational kind. ’Scientific’
+theories, on the other hand, always terminate in definite
+percepts. You can deduce a possible sensation from your theory and,
+taking me into your laboratory, prove that your theory is true of my
+world by giving me the sensation then and there. Beautiful is the
+flight of conceptual reason through the upper air of truth.
+No wonder philosophers are dazzled by it still, and no wonder they
+look with some disdain at the low earth of feeling from which the
+goddess launched herself aloft. But woe to her if she return not
+home to its acquaintance; Nirgends haften dann die unsicheren
+Sohlen–every crazy wind will take her, and, like a fire-balloon at
+night, she will go out among the stars.
+NOTE.–The reader will easily see how much of the account of the
+truth-function developed later in Pragmatism was already explicit in
+this earlier article, and how much came to be defined later. In this
+earlier article we find distinctly asserted:–
+1. The reality, external to the true idea;
+2. The critic, reader, or epistemologist, with his own belief, as
+warrant for this reality’s existence;
+3. The experienceable environment, as the vehicle or
+medium connecting knower with known, and yielding the
+cognitive RELATION;
+4. The notion of POINTING, through this medium, to the reality, as
+one condition of our being said to know it;
+5. That of RESEMBLING it, and eventually AFFECTING it, as
+determining the pointing to IT and not to something else.
+6. The elimination of the ’epistemological gulf,’ so that the whole
+truth-relation falls inside of the continuities of
+concrete experience, and is constituted of particular processes,
+varying with every object and subject, and susceptible of being
+described in detail.
+The defects in this earlier account are:–
+1. The possibly undue prominence given to resembling, which altho a
+fundamental function in knowing truly, is so often dispensed with;
+2. The undue emphasis laid upon operating on the object itself,
+which in many cases is indeed decisive of that being what we refer
+to, but which is often lacking, or replaced by operations on other
+things related to the object.
+3. The imperfect development of the generalized notion of the
+WORKABILITY of the feeling or idea as equivalent to
+that SATISFACTORY ADAPTATION to the particular reality,
+which constitutes the truth of the idea. It is this more generalized
+notion, as covering all such specifications as pointing, fitting,
+operating or resembling, that distinguishes the developed view
+of Dewey, Schiller, and myself.
+4. The treatment, [earlier], of percepts as the only realm of
+reality. I now treat concepts as a co-ordinate realm.
+The next paper represents a somewhat broader grasp of the topic on
+the writer’s part.
+Continue...
+
+This e-book of The Meaning of Truth (a sequel to “Pragmatism”) by William James is in the public domain (via Project Gutenberg).
+This page has been created by Philipp Lenssen.
+Page last updated on January 2004.
+Complete book. Authorama - Classic Literature, free of copyright. About...
+William James : Writings 1902-1910 : The Varieties of Religious Experience / Pragmatism / A Pluralistic Universe / The Meaning of Truth / Some Problems of Philosophy / Essays (Library of America)By William JamesAt Amazon

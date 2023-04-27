@@ -1,0 +1,86 @@
+
+
+
+
+
+Since the inception of the law regulating creative property, there has been a 
+war against piracy. The precise contours of this concept, piracy, are hard 
+to sketch, but the animating injustice is easy to capture. As Lord Mansfield 
+wrote in a case that extended the reach of English copyright law to include 
+sheet music,
+A person may use the copy by playing it, but he has no right to rob the author 
+of the profit, by multiplying copies and disposing of them for his own use. [1]
+Today we are in the middle of another war against piracy. The Internet has 
+provoked this war. The Internet makes possible the efficient spread of content. 
+Peer-to-peer (p2p) file sharing is among the most efficient of the efficient 
+technologies the Internet enables. Using distributed intelligence, p2p systems 
+facilitate the easy spread of content in a way unimagined a generation ago. 
+This efficiency does not respect the traditional lines of copyright. The network 
+doesn’t discriminate between the sharing of copyrighted and uncopyrighted 
+content. Thus has there been a vast amount of sharing of copyrighted content. 
+That sharing in turn has excited the war, as copyright owners fear the sharing 
+will rob the author of the profit.
+The warriors have turned to the courts, to the legislatures, and increasingly 
+to technology to defend their property against this piracy. 
+A generation of Americans, the warriors warn, is being raised to believe 
+that property should be free. Forget tattoos, never mind body 
+piercingour kids are becoming thieves!
+There’s no doubt that piracy is wrong, and that pirates should be punished. 
+But before we summon the executioners, we should put this notion of piracy in 
+some context. For as the concept is increasingly used, at its core is an 
+extraordinary idea that is almost certainly wrong.
+The idea goes something like this:
+Creative work has value; whenever I use, or take, or build upon the creative 
+work of others, I am taking from them something of value. Whenever I take 
+something of value from someone else, I should have their permission. The taking 
+of something of value from someone else without permission is wrong. It is a 
+form of piracy.
+This view runs deep within the current debates. It is what NYU law professor 
+Rochelle Dreyfuss criticizes as the if value, then right theory of creative 
+property [2]if there is value, then someone must have a right to that value. It 
+is the perspective that led a composers’ rights organization, ASCAP, to sue the 
+Girl Scouts for failing to pay for the songs that girls sang around Girl Scout 
+campfires. [3] There was value (the songs) so there must have been a right
+even against the Girl Scouts.
+This idea is certainly a possible understanding of how creative poperty should 
+work. It might well be a possible design for a system of law protecting creative 
+property. But the if value, then right theory of creative property has never 
+been America’s theory of creative property. It has never taken hold within our 
+law. 
+Instead, in our tradition, intellectual property is an instrument. It sets the 
+groundwork for a richly creative society but remains subservient to the value of 
+creativity. The current debate has this turned around. We have become so 
+concerned with protecting the instrument that we are losing sight of the value.
+The source of this confusion is a distinction that the law no longer takes care 
+to drawthe distinction between republishing someone’s work on the one hand and 
+building upon or transforming that work on the other. Copyright law at its birth 
+had only publishing as its concern; copyright law today regulates both.
+Before the technologies of the Internet, this conflation didn’t matter all that 
+much. The technologies of publishing were expensive; that meant the vast 
+majority of publishing was commercial. Commercial entities could bear the burden 
+of the laweven the burden of the Byzantine complexity that copyright law has 
+become. It was just one more expense of doing business.
+But with the birth of the Internet, this natural limit to the reach of the law 
+has disappeared. The law controls not just the creativity of commercial creators 
+but effectively that of anyone. Although that expansion would not matter much if 
+copyright law regulated only copying, when the law regulates as broadly and 
+obscurely as it does, the extension matters a lot. The burden of this law now 
+vastly outweighs any original benefitcertainly as it affects noncommercial 
+creativity, and increasingly as it affects commercial creativity as well. Thus, 
+as we’ll see more clearly in the chapters below, the law’s role is less and less 
+to support creativity, and more and more to protect certain industries against 
+competition. Just at the time digital technology could unleash an extraordinary 
+range of commercial and noncommercial creativity, the law burdens this 
+creativity with insanely complex and vague rules and with the threat of 
+obscenely severe penalties. We may be seeing, as Richard Florida writes, the 
+Rise of the Creative Class. [4] Unfortunately, we are also seeing an 
+extraordinary rise of regulation of this creative class.
+These burdens make no sense in our tradition. We should begin by understanding 
+that tradition a bit more and by placing in their proper context the current 
+battles about behavior labeled piracy.
+Continue...
+
+“Free Culture” by Lawrence Lessig is available for free under a Creative Commons license.
+(You may redistribute, copy, or otherwise reuse/remix this book provided that you do so for non-commercial purposes and credit Professor Lessig.)
+Complete book. Authorama - Classic Literature, free of copyright. About...
+Free Culture: The Nature and Future of CreativityBy Lawrence LessigAt Amazon

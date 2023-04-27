@@ -1,0 +1,5 @@
+Available documents:
+
+/book?title=pragmatism (common basename)
+
+

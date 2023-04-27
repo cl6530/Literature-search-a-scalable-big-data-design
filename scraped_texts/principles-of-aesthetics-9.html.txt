@@ -1,0 +1,863 @@
+
+
+
+
+In this and the following chapters which treat of the arts, I plan to
+make a concrete application of the aesthetic theory thus far developed.
+I want to show how the general principles which we have tried to
+establish can be used to explain the facts of our artistic experience.
+In doing this I shall hope to achieve a double purpose: first, to
+verify anew our theory of art, and second, to deepen and enlighten
+appreciation.
+I begin with music because, as we shall see, there is a musical factor
+in all the arts, an understanding of which at the beginning will enable
+us to proceed much more easily in our survey of them. I shall confine
+myself to an elementary analysis; for a more detailed study would take
+us beyond the bounds of general aesthetics and would require a knowledge
+of the special technique of the arts which we cannot presuppose.
+Moreover, we shall not concern ourselves with the origin or history
+of the arts further than is needful for an understanding of their
+general character. We are investigating the theory, not the history,
+of taste, and are more interested in the present developed aesthetic
+consciousness than in its rudimentary forms.
+As we appreciate it to-day, music lends itself readily to our definition
+of art. It is a personal expression–who, when listening to music which
+he enjoys, does not feel himself poured forth in the tones? It is
+social and public–what brings us together under the sway of a common
+emotion more effectively than concert or opera? It is a fixed and
+permanent expression, for we can renew it so long as men preserve the
+score where it is written; and, finally, it is free–who can find any
+practical or moral or scientific purpose in an etude of Chopin or a
+symphony of Mozart? Music is the most signal example of a mode of
+expression that has attained to a complete and pure aesthetic character,
+an unmixed beauty. Yet this was not true of music in its earlier forms,
+and a long process of development was necessary before freedom was
+realized. For we must look for the beginning of music in any and all
+sounds through which primitive men sought to express and communicate
+themselves. These were, first of all, the cries of the human voice,
+expressive of fear and need and joy–at once direct outpourings of
+basic emotions and signals to one’s fellows, to help, to satisfy, and
+to sympathize. In the voice nature provided man with a direct and
+immediate instrument for the expression and communication of himself
+through sound. Then, perhaps by accident, man discovered that he could
+make sounds in other ways, through materials separate from his body,
+and so he constructed drums and cymbals and gongs; and by means of
+these, too, he communicated his needs and stimulated himself to rage
+and excitement–and his enemy to fear–in war dance and battle rush.
+And in doing this he was imitating nature, whose noises, exciting and
+terrifying, he had long known: the clap of thunder, the whistle of the
+wind, the roar of the waves, the crackling of burning wood, the crash
+of fallen and breaking things.
+Out of unbeautiful noise sprang beautiful music. Men discovered that
+through the voice they could make not only expressive noises, but also
+pleasant tones; they found, perhaps by accident, that they could do
+much the same thing with reeds and strings; they observed that when
+they beat their drums at regular intervals to mark the motion of the
+dance, they not only danced together more easily, but also experienced
+joy in the very sounds they made; or that when they threshed the corn
+with rhythmic strokes or rowed a boat in rhythmic unison, their task
+was lightened and their wearied attention distracted to the pleasure
+of their noise. Hence at their dances of love or war or religion, they
+sang instead of shouted; and their instruments of irregular and
+expressive noise became instruments of rhythmical and melodious tones.
+Eventually, having experienced the pleasure there is in tones and
+rhythmical sounds, they made them for their own sake, apart from any
+connection with tribal festivals, and the free art of music was born.
+And yet, as we shall see, the significance of music depends largely
+upon the fact that tones are akin to noises; music could not take such
+a hold of the emotions of men did they not overhear in the tones the
+meaningful and poignant noises of voice and nature; to understand
+music, we must think of it against its background of expressive noise.
+In music we still seem to hear a voice that breaks the silence and
+speaks, the thunder that terrifies.
+The material of music consists of tones, the conscious counterparts
+of periodic, longitudinal vibrations of the air. Tones differ among
+themselves in many attributes, of which the following are of chief
+importance for music: pitch, determined by rate of vibration, through
+which tones differ as higher and lower; color, determined by the
+complexity of the vibration wave, the presence of overtones of different
+pitch along with the fundamental tone in the total sound; intensity,
+dependent upon the amplitude of the vibration, through which tones of
+the same pitch differ as soft or loud; and finally, quality, that
+specific character of a tone, by reason of which middle C, for example,
+is more like the C of the octave below or above than like its nearer
+neighbors, B or D, whence the series of tones, although in pitch linear
+and one-dimensional, is in quality periodic, returning again and again
+upon itself, as we go up or down the scale.  [Footnote: “See Geza Revesz:
+Tonpsychologie."]
+The number of qualities in use in music–twelve in our scale of equal
+temperament–is, of course, not all there are in the world of tones;
+they are a human and arbitrary selection, governed by technical and
+historical motives, into which we shall not enter. Peoples with a
+different culture have made a different selection. But we are not
+concerned with the music of angels or of orientals, but with our own.
+With these twelve, with their possible variations in pitch, loudness,
+and tone-color, the musician has a rich and adequate material.
+All the elements of an aesthetic experience are present in striking
+simplicity even in the single musical tone. There is the sensuous
+medium, the sound; there is a life expressed, a feeling aroused in us,
+yet so completely objectified in the sound that it seems to belong to
+the latter on equal terms with color or quality or loudness; there is
+a unity and variety and orderly structure in the dominance of the
+fundamental among the overtones and the fusion of all in the total
+clang. Thus every note is a complete little aesthetic organism. Yet
+the beauty of single tones is very slight,–less, I think, than that
+of single colors; they need the contrast or the agreement in consonance
+with other tones in order to awaken much feeling; they must be members
+of a wider whole; observe how, when sounded after other tones, they
+become enriched through the contrasting or consonant memory of those
+tones. Nevertheless, the single tone has its feeling, however slight,
+and to understand this is to go a long way toward understanding the
+more complex structures of music.
+In the first place, tones, unlike noises, are all pleasant. Although
+we cannot be sure why this is true, there can be little doubt, I think,
+that the regularity of the vibrations of the former, in contrast with
+the irregularity of the latter, is largely responsible. The clang,
+with its ordered complexity, is a stimulus that incites the sense organ
+and connected motor tracts to a unified and definite response, unlike
+noise, which creates confusion. The pleasure in the single tone is
+similar, in its causes, to the pleasure in the consonance of two tones.
+As we should expect from this analogy, the pleasure is greater in rich
+tones, which contain many partials, than in thin tones, which are
+relatively uninteresting. But the feeling of tones is something more
+than mere pleasantness; it is also a mood. Now this mood of tones is
+partly due to associations,–some superficial in character, like the
+pastoral quality of flute tones or the martial character of bugle
+tones, others more fundamental; but it has also a still deeper-lying
+root. For a sound stimulus awakens not only a sensory process in the
+ear, the correlative of which is a sensation, but also incipient motor
+reactions, which, if carried out, would be an emotion, but which, being
+too slight and diffuse, produce only what we call a mood. Every
+sensation has a meaning for the organism in an environment where it
+has constantly to be on its guard for danger or assistance; every
+sensation is therefore connected with the mechanism of reaction, with
+its attendant emotions. In ordinary experience, there are objects
+present to which the organism may actually respond, but in the aesthetic
+experience there are no real objects towards which a significant
+reaction can take place; in music, the source of the sound is obviously
+of no practical importance, while in such arts as painting and sculpture
+where interesting objects are represented, the objects themselves are
+absent; hence the reaction is never carried out, but remains incipient,
+a vague feeling which, finding no object upon which it may work itself
+off, is suffused upon the sensation. These sense feelings are the
+subtle, but basal, material of all beauty.
+The variety of moods expressed in tones is almost endless. When we
+experience them, they come to us as the inner life of the total concrete
+tones, but they depend actually upon the working together of all the
+tonal attributes,–color, quality, pitch, and loudness. There is the
+subtle intimacy of violin tones compared with the clear arresting ring
+of the trumpet; the emotional differences between qualities like C and
+G, too delicate for expression in words; the piercing excitement of
+the high, bright tones, compared with the earnest depth of the low,
+dull tones; the almost terrifying effect of loud tones compared with
+the soothing influence of soft tones.
+The precise psychophysical mechanism through which the different moods
+are aroused is for the most part hidden from us; yet in certain
+particulars we can form some idea of it. For example, the richness of
+feeling in the tones of certain instruments as compared with others
+is doubtless due to the fact that through the presence of more overtones
+and the admixture of noise, the reaction is more complex; the tense
+excitement of high and loud tones, as compared with the soft and low,
+is probably connected with the fact that their higher vibration rate
+and greater amplitude of vibration produce a more marked effect, a
+more pervasive disturbance,–the organism does not right itself and
+recover so rapidly and easily. These direct and native elements of
+feeling are then broadened out and intensified through other elements
+that come in by way of association. For example, in order to sing high
+tones, a greater tension and exertion of the vocal chords is needed
+than for low tones; loud tones suggest loud noises, which, as in
+breaking and crashing and thundering, are inevitably associated with
+fear; the loud is also the near and present and threatening, the low
+is distant and safe. Although each tone, as separate and individual,
+possesses its own feeling in its own right, the tonal effects are
+immensely accentuated by contrast with one another,–the high against
+the low, the poor against the rich, the loud against the soft–and
+through the summation, by means of repetition, of the influences of
+many tones of like character; the full meaning of music depends upon
+the relations of tones, especially the temporal relations.
+This fact was fully recognized by Aristotle, who raised the question
+why tones are so much more expressive than colors. Music is almost the
+sole important art that relies on the expressiveness of the sense
+material alone, independent of any element of meaning. To be sure, the
+beauty of oriental rugs depends entirely on their color and line
+harmonies; for the meanings which the patterns have for their oriental
+makers is generally unknown to us of the western world; yet what we
+feel when we contemplate them cannot compare in volume and intensity
+with what we experience when we listen to music. And Aristotle correctly
+assigned one of the chief reasons for the superior significance of
+music–its temporal character. A color or line scheme may express a
+momentary mood, with perhaps just the most rudimentary movement as we
+go from the dark to the bright colors, or as we follow the motion of
+the lines as they curve or converge; yet it cannot express an action
+or process that begins, proceeds, continues, ends. When we look at the
+colors or lines of a painting or rug, we feel intensely, but there is
+no development or process of feeling; if the mind moves, it moves
+inevitably not with, but away from, what it sees. But tones are given
+to us in succession; we are forced to move with them; hence they come
+to express for us, in ways which we shall try to analyze, the changing
+and developing process of the inner life.
+In its temporal aspect, music has two chief characteristics, rhythm
+and melody. In our music these are inseparable; yet they can be
+separated for the purposes of analysis; and a rhythmical roll of
+drumbeats or a careless succession of tones harmonically related proves
+that each may produce an aesthetic effect without the other. We shall
+consider melody first.
+A mere succession of tones, however pleasing separately, does not make
+a melody; for melody depends on a definite scale and on certain
+relations between the tones of the scale. These relations illustrate
+the three modes of aesthetic unity. First, there is harmony. Tones are
+harmonically related when they belong to the leading chords of the
+key. The tones of such chords, when sounded together, are consonant.
+Now harmony, which is an aesthetic feeling, although not identical with
+consonance, which is a purely sensory relation between tones, depends
+nevertheless upon consonance. In order to understand harmony, we must
+therefore first understand consonance, and, in order to do this, we
+must begin by describing the experience and then look for its possible
+causes.  [Footnote: Consult the discussions in Karl Stumpf,
+Tonpsychologie; Carl Emil Seashore, The Psychology of Musical Talent,
+chap. VII.] As for the first, consonant tones, when sounded together,
+seem to fit one another, almost to fuse, despite the fact that the
+different tones are distinguishable in the whole. This fitting together,
+in turn, seems to depend on a resemblance or partial identity between
+them. For example, the most consonant tones are a note and its octave,
+which are, perhaps, actually identical in quality; but lesser intervals
+are also alike, as for example a note and its fifth, which are more
+readily mistaken for one another than two dissonant tones, say a note
+and its seventh. As for the explanation of consonance, we know that
+consonant tones have identical partial tones and are caused by vibration
+rates that stand to one another in simple ratios. Thus in a clang
+composed of a tone and its fifth, the first partial of the fifth is
+the second partial of the prime, and the vibration ratios are as two
+to three. The bearing of this second fact on the question of partial
+identity will become clear if we consider the concrete case of a tone
+produced by 24 vibrations per second, whose fifth would then be produced
+by 36 vibrations per second, and then consider the same tone and its
+dissonant second, the ratio of whose vibrations is 24 to 27; in the
+former case, there is a common part of 6 vibrations, a fourth of the
+total number of the first tone; in the latter, only 3, an eighth. That
+identity of partial tones is not a sufficient explanation of
+consonance–as Helmholtz thought it to be–is proved by the fact that
+simple tones, which have no partials, may still be consonant.
+Nevertheless, an identity of partials does undoubtedly contribute to
+the consonance of the complex tones used in our music; ultimately,
+however, the final reason for consonance must be sought in some
+underlying identity within the tones themselves, an identity that seems
+to be given psychologically in their resemblance, and with which
+physically the simplicity of their vibration ratios probably has
+something to do. And that in music the feeling of harmony should depend
+upon partial identity is what we should expect from our previous study
+of harmony in general.  [Footnote: See page 87.]
+The second of the tonal relations upon which melody depends is contrast.
+First, there is the contrast between the high and the low; even when
+notes are harmonically related, as a note and its fifth, they are in
+contrast, in so far as the one is measurably higher and more distant
+than the other. Of equal importance is the rivalry between the
+fundamental tones in the leading harmonic chords; for example, the
+rivalry between the tonic and the dominant. For each of these claims
+to be the center of the melodic progression, and draws to itself all
+the tones which belong to its chord. Dissonance is a cause of rivalry;
+for a dissonant tone is one that will not fit into a given harmony;
+yet since it is still a part of the melody, must have its home
+somewhere, and belongs therefore in another harmony, which, through
+this tone, is set up in rivalry with the prevailing one. A tone that
+did not belong to any harmony would not be a dissonance, but a
+discord,–a tone without meaning musically. Dissonances, like other
+contrasts, enrich the melody by establishing rival harmonies; discords
+destroy melodies. Just as the drama has little significance without
+conflict, so melodies are uninteresting without dissonances.
+Were it not for the third of the tonal relations, melodies would lack
+unity and system and go to pieces under the stress of rival forces.
+This third relation may be call finality;  [Footnote: The explanation
+of this is obscure; there is no unanimity among the specialists in
+musical theory.] it belongs among relations we have called evolutionary.
+By it is meant the fact that certain tones demand and naturally lead
+into other tones, in which they seem to find their completion or
+fulfillment. For example, the tones of a chord demand the fundamental
+tone of the chord; dissonances must be “resolved,"–must be followed
+by other tones of their own harmony; the diatonic tones over and above
+the tonic–the “upleader” and “downleader"–naturally lead into the
+tonic; and all the tones demand, either immediately or through the
+mediation of other tones, the tonic of the scale to which they belong.
+This principle of finality, which, in the classic music, is the basis
+of what is called “tonality,” by establishing the tonic as the center
+of reference and point of completion of all tones, gives to melody its
+dramatic unity. Through it, by creating the tonic chord as fundamental,
+the rivalry between the tonic, dominant, and subdominant is overcome,
+and all dissonances finally resolved into unity. Definite scales and
+tonal laws and schemes of composition are of the utmost importance for
+musical composition; there are, of course, many of these besides the
+classical, and they are all partly conventional; but that does not
+matter so long as, by being well known, they enable the melody to move
+along definite lines, arousing and fulfilling definite expectations.
+Those forms of modernist music that dispense with scales altogether,
+in which therefore there are no fixed points de repere like the
+tonic or dominant of the older music, can express chance momentary
+moods by means of rich and strange colors, but not an orderly and
+purposeful experience.
+Of course, in our modern harmonic music the melodic movement proceeds
+by means, not of single tones, but of chords. Yet no new principle is
+introduced by this fact. For the chords have in part merely the
+significance of highly enriched tones, the harmonized tones of the
+chords taking the place of the partials of the single notes and
+imparting a more voluminous color, which may have its own beauty as
+such; and, in addition, they simply confer upon the melody another
+dimension, as it were, the tonal relations of harmony and contrast
+operating between the tones of the chords simultaneously, as well as
+temporally between the successive elements of the melody.
+The orderly beauty which the tonal relations confer upon music is
+further enriched and complicated by rhythm. Rhythm in music is of two
+sorts: a rhythm of time and a rhythm of accent, or increased loudness.
+Through the one, the duration of a musical composition is divided up
+into approximately equal parts filled by notes and rests of definite
+length, and through the other, the light notes are subordinated to the
+heavy notes. The two, however, are interrelated; for the bars are
+divided from each other by the accents, and the accents recur at
+approximately equal intervals.
+The pleasure in rhythmical arrangement is derived from two sources:
+first, from the need for perspicuity which is fulfilled through the
+regular grouping of the tonal elements in the bars,–their length being
+adjusted to the average length of an attention wave, and the number
+of tones that fill them to the number of items which can be taken in
+at one act of attention,–and through the subordination of the light
+to the heavy within the bars, the bars to the measures, and the measures
+to the periods. The second source of satisfaction in rhythm is the
+combination of feelings of balance and harmony aroused–a rhythm is
+not only a pleasing perspicuous order, but an emotion.  [Footnote: See
+chap. V, p.90] For every recurring accent and interval competes with
+its predecessor for the mind’s attention, yet is in agreement with it
+since it, too, fulfills the law that pervades them all.
+The full significance of both melody and rhythm depends, however, upon
+their interrelation, the concrete musical structure, the motive or
+melody in the complete sense, being an indissoluble unity of both. Now
+if we take the term will with a broad meaning, Schopenhauer’s
+characterization of melody as an image of the will still remains the
+truest aesthetic interpretation of it. For, when we hear it, we not
+only hear, but attend to what we hear; we hear each tone in its
+relations of harmony or contrast or fulfillment to other tones,
+freighted with memories of its predecessors and carrying with it
+expectations, which the following tones fulfill or deny. The melody
+begins, let us suppose, with the tonic note. This note then becomes
+for us a plan or purpose; for as it goes, it leaves in the mind a
+memory of itself, no mere pale sensation–no image ever is–but a motor
+set, an expectation and desire to hear the note again. If the next
+note is harmonically related, this purpose is partially fulfilled and
+we get the satisfaction of a partial success. If, however, the tone
+does not belong to the tonic chord, but, let us suppose, to the
+subdominant, it comes as a hindrance, an obstacle, or perhaps as a new
+and rival purpose springing up in the course of the fulfillment of the
+old,–a purpose which can be satisfied only through the other tones
+of its chord. Hence the tension of conflicting expectations and the
+excitement as now the one and now the other is fulfilled in the
+succeeding notes. Yet, since all other harmonies are subordinated to
+the tonic harmony, and even through their very opposition increase our
+desire for it, they must give way to the fundamental purpose with which
+we started; and when the tonic does eventually triumph, it fulfills
+not only itself, but all lesser desires of the melody; in it we find
+what we have been seeking, we arrive where we set out to go. And in
+this success we not only obtain what we first wanted, but more–an
+experience enriched by every conflict, and harmonious ultimately through
+the inner adjustment and resolution of its elements; for in hearing
+the final note we hear the memories of all previous tones, also. When
+the departures from the keynote are many and distant and sudden, and
+the melody wanders into the bypaths of foreign harmonies, moving along
+broken and zigzag lines, it expresses an exciting, a dangerous and
+difficult adventure; when, however, the departures are gradual and
+confined for the most part within the limits of a single harmony,
+moving in a smooth and curving path, it expresses a life that is secure
+and happy, tending to repose as the line approaches the horizontal,
+and as repetitions of the same note predominate.
+Rhythm enters into melody to differentiate and emphasize. By means of
+accent and time-value, the different tones are weighted and their
+relative value fixed. The heavy tones assert their will with a more
+insistent energy; the long tones upon which we linger make a deeper
+and more lasting impression; while the light and short tones in contrast
+become points of mere passing and transition. If, moreover, we include
+the element of tempo, then all the temporal feelings are introduced
+into melody–the excitement of rapid motion, the calmness of the slow;
+the agony of delay, of waiting and postponement, with the triumph and
+relief when the expected note arrives at last. Finally, the effects
+of shading must be added, the contrasts between piano and
+forte–loudness that brings the tones so near that they may seem
+threatening in their insistence; softness that makes them seem far
+away and dreamlike.
+Following the large idea introduced by Schopenhauer, which was enriched
+by the minuter studies of Lotze, Wundt, and Lipps, we may sum the
+foregoing analysis in the statement that music expresses the abstract
+aspects of action, its ease or difficulty, its advance or retrocession,
+its home coming or its wandering, its hesitation or its surety, its
+conflicts and its contrasts, its force or its weakness, its swiftness
+or slowness, its abruptness or smoothness, its excitement or repose,
+its success or failure, its seriousness or play. Then, in addition,
+as we shall see, all modes of emotion that are congruous with this
+abstract form may by association be poured into its mold, so that the
+content of music becomes not a mere form of life, but life itself.
+It is, of course, obvious that our analysis has confined itself to the
+barest elements of the musical experience. Our music to-day, with its
+many-voiced harmonies, with its procession of chords instead of single
+tones, with its modulation into related keys, has an infinite wealth
+and complexity defying description. A large part of the astonishing
+effect of music is derived from the fact that in a brief space we seem
+to hear and absorb so much: the careers of multitudinous lives
+compressed into an instant. Yet the meaning of the complex whole can
+be understood, I think, from such an analysis of the simple structure
+as has been given.
+The methods by which the larger musical wholes are built up illustrate
+principles of aesthetic structure with which we are already familiar.
+There is the harmonious unification of parts through the simple
+repetition of motives, their inversion or imitation in higher or lower
+keys, either successively or simultaneously; the execution of the same
+theme in another time or tempo; and through the interweaving of themes.
+There is the balance of contrasted or competing themes; the
+subordination of the lesser to the more striking and insistent motives;
+the preparation for, emergence and triumph of, a final passage that
+resolves all dissonances and adjusts all conflicts. Because of music’s
+abstractness, the connection between the parts of a musical composition
+may be loose or subtle, taxing the synthetic powers even of the educated
+listener; yet some contrast or analogy of feeling must always unite
+them. The structure of the whole may be either static or dramatic; in
+the former case the dramatic element is confined to the themes, the
+purpose of the whole being merely to work out all their significant
+variations,–to embroider and repeat them in new keys and rhythms and
+tempos, and to contrast them with other themes. Repetition is the great
+creative principle of musical development, the composer seeking to say
+over again in ever new forms what he has said before. And this, again
+because of the abstractness of music, is a significant process; to
+repeat the concrete is tiresome and trivial, but an abstract form is
+always enriched by appearing in a new shape.
+The explanation of musical expression thus far given, although it
+suffices to account for the basis of all musical feeling, is, I think,
+inadequate to its full volume and intensity. There is a concreteness
+of emotional content in some musical compositions–an arousal of terror
+and longing and despair and joy–infinitely richer than any abstract
+forms of feeling.
+To account for this, two sources of explanation suggest themselves.
+First, the arousing of emotions through deep-lying effects of rhythm.
+It is a well-known fact, cited in most discussions of this subject,
+that the motor mechanism of the body is somehow attuned to rhythm.
+When we hear rhythmical sounds, we not only follow them with the
+attention, we follow them also with our muscles, with hand and foot
+and head and heart and respiratory apparatus. Even when we do not
+visibly move in unison with the rhythm–as we usually do not–we tend
+to do so, which proves that in any case the motor mechanism of the
+body is stimulated and brought into play by the sounds. There is a
+direct psychophysical connection between the hearing of rhythmic sounds
+and the tendency to execute certain movements. But there is an equally
+direct relation between emotions and tendencies to movements, through
+which the former find expression and are given effect in the outer
+world. To every kind of emotion–love and hate and fear and sorrow and
+joy–there corresponds a specific mode of motor manifestation. The
+connection between rhythmic sound and emotion is therefore plain; the
+link is a common motor scheme. Rhythms arouse into direct and immediate
+activity the motor “sets” that are the physical basis of the emotions,
+and hence arouse the corresponding emotions themselves, without any
+ground for them outside of the organism. And these emotions, since
+they are aroused by the sounds and not by any object to which they
+might be directed and upon which they might work themselves off in a
+meaningful reaction, are interwoven into the sounds,–they and the
+sounds come to us as a single indissoluble whole of experience. The
+emotions become the content of the sounds. And hence the strangeness
+of the musical experience–the fact that we feel so deeply over nothing.
+The second cause for the concreteness of the musical experience I take
+to be certain emotions and feelings which are aroused by association,
+not with the rhythmic elements of music alone, but with the tone-color,
+intensity, and melody also. There is a human quality, a poignancy and
+intimacy, about much music, which can be understood only through its
+analogy with the sounds of the human voice. For the human voice is
+emotionally expressive through its mere sound alone: one can know a
+large part of what is going on in the breasts of people who talk in
+a foreign tongue just by listening to the sound of their voices–their
+excitement or boredom, their anger, love, or resentment; and one becomes
+conscious of these emotions, as in hearing music, without knowing what
+they are all about. All human emotions betray themselves in speech
+through the rise and fall, range of intervals, loudness or softness,
+tempo and differences of duration of tone. Now, although it is far too
+much to say that music is actually an imitation of the voice, it is
+nevertheless true, as Diderot thought, that in certain musical passages
+we overhear the voice. There is never any exact similarity between
+music and vocal sounds, but there is enough resemblance to awaken by
+association the feelings that are the normal accompaniments of such
+sounds. Any tone analogies that there happen to be are felt as such.
+This is notably true of all music that has a peculiar lyrical and human
+quality,–the music that readily becomes popular because it seems to
+speak direct to the heart. Originally, all music was song, and since
+speech and song employ the same organ, it would be surprising indeed
+if something of the same expression of the emotions that overflows
+into the one should not also overflow into the other, and that musicians
+should not, unconsciously or consciously, tend to choose their melodies
+because of such analogies. Instrumental music probably got its first
+melodies from song, and despite its vast present complexity and
+independence, has never completely lost touch with song. Since the
+first meaningful sounds that we hear are those of the voice, music
+must always have for us the significance of a glorified speech.
+The fault of the original proposers of the speech theory was that they
+thought it a complete explanation of the facts of musical expression.
+Its explanatory value is, however, strictly limited, and supplemental
+to the more basic considerations adduced; yet it remains a necessary
+part of the complex theory of the complex fact we are studying. And
+the acceptance of it as such does not imply a belief in the speech
+theory of the origin of music. Song did not grow out of impassioned
+speech, but arose coeval with speech, when men found–perhaps by
+accident–that they could make with their voices pure and pleasing
+tones and intervals of tones, and express something of their inner
+selves in so doing. Yet, as I have suggested, it would be strange if
+speech did not react upon song–if the first vocal tones were not
+purified words, and the first intervals an approximation to those of
+speech. Thus in song, lyric poetry and music arose together as a single
+art for the expression of feeling, until the development of instrumental
+music freed the one and the invention of writing freed the other; while
+speech kept to its different and original purpose–the expression of
+ideas for practical ends, and produced an aesthetic form of its own
+only at a later period and under independent influences.
+The complete understanding of musical expression involves, finally,
+as was suggested at the beginning of this chapter, the recognition of
+the analogy that exists between music and the noises produced by nature
+and human activities. Through the imitation of their rhythm, force,
+and tempo, some of these can be directly suggested by musicians. Yet
+this direct suggestion, although employed by the greatest composers,
+plays a subordinate part in music, and, since it introduces an element
+of representation of the outer world–tonmalerei–is usually
+felt to involve a departure from the prime purpose of music: the
+expression of the inner world through the emotional effects of pure
+sound. In the best program music, therefore, the purpose of the composer
+is not the mere imitation of nature–which is never art at all, and
+in music is always recognized as an unsaesthetic tour de force
+of mere cleverness–but rather the arousal of the feelings caused by
+nature. And as an aid in the expression of such feelings, imitation,
+when delicately suggestive rather than blatant, will always play a
+part.
+There are, however, subtler and remoter analogies between music and
+noise, which produce their effects whether the musician wills them or
+not. Such, for example, are loud bursts of tone suggesting falling or
+crashing, events which usually have a terrifying significance;
+crescendoes, suggesting the approach of things, so often full of
+expectancy and excitement; diminuendoes, suggesting a gradual departure
+or fading away, bearing relief or regret. And there are doubtless
+hundreds of other such associations, too minute or remote or long-
+forgotten to recover, which add their mite of feeling to swell and
+make vast the musical emotion. As Fechner pointed out, these
+associations may work quite unconsciously, giving evidence of their
+functioning only through the feeling tones which they release. So
+important is the part which sound plays in our lives that there must
+be an especially large number of such underground associations aroused
+by music. All of our experiences are connected together by subconscious
+filiation; but it is only in art that their residual feeling tones
+have a full opportunity to come into the mind; for in everyday life
+they are crowded out by the hurry of practical concerns. In the earlier
+stages of the development of music they must have contributed a still
+larger share to musical expression, when the different forms of music
+were connected by habit and convention with particular crises and
+occasions, religious, domestic, and social, in the life of individuals
+and groups. But even to-day, despite the new freedom of music, they
+are not absent.
+Looking back over our analysis of music, we see that it is characterized
+by the expression of emotion without the representation of the causes
+or objects of emotion. This fact, which has now become a well-recognized
+part of aesthetic theory, distinguishes music from all the other arts.
+Music supplies us with no definite images of nature, as painting and
+sculpture do, and with no ideas, as poetry does. It contains feelings,
+but no meanings. Music offers us no background for emotion, no objects
+upon which it may be directed, no story, no mise en scene. It
+supplies us with the feeling tones of things and events, but not with
+the things or events themselves. It moves wholly in a world of its
+own, a world of pure feeling, with no embodiment save only sound. It
+may express terror, but not terror over this or that; joy, but whether
+the joy that comes from sight of the morning or of the beloved, it
+cannot tell. In one brief space of time, it may arouse despair, hope,
+triumph–but all over nothing.
+Yet–and this is the central paradox of music–despite its abstractness,
+nay, because of this very quality, it remains the most personal and
+intimate of the arts. For, itself offering no images of things and
+events to which we may attach the feelings which it arouses, we supply
+our own. We fill in the impersonal form of musical feeling with the
+concrete emotions of our own lives; it is our strivings, our hopes and
+fears, which music expresses. By denying us access to the world about
+us, music compels us to turn in upon ourselves; it is we who live there
+in the sounds. For, as we have seen, the rhythmic tones seize hold not
+only of our attention, but of our bodies also–hand and foot and head
+and heart, resounding throughout the whole organism. And, where our
+bodies are, there are we. Moreover, our life there in the sounds need
+not remain without objects because the music does not describe them
+to us; for out of our own inner selves we may build up an imaginary
+world for our feelings. As we listen to the music, we shall see the
+things we hope for or fear or desire; or else transport ourselves among
+purely fanciful objects and events. Music is a language which we all
+understand because it expresses the basic mold of all emotion and
+striving; yet it is a language which no two people understand in the
+same way, because each pours into that mold his own unique experience.
+In itself abstract and objectless, it may thus become, in varying ways,
+concrete and alive.
+The great variety in the interpretation of musical compositions has
+often been used as an argument against the existence of emotions in
+music, but is, as we have seen, the inevitable result of their
+abstractness. This abstractness may, indeed, be so great that apparently
+opposite concrete emotions, such as love and religious adoration,
+despair and joy, may be aroused in different people, according to
+different circumstances, by the same piece. The music of the opera can
+be used in the cathedral. Yet strikingly dissimilar emotions have
+common elements–worship is the love of God; joy may be a rage equally
+with disappointment; and at their highest intensity, all opposed
+emotions tend to pass over into each other: hope into fear, love into
+hate, exaltation into depression. The elementary feelings out of which
+our complex emotions are built are few and simple; hence each one of
+the latter is identical in some ingredients with the others. And even
+the elementary feelings may have common aspects of intensity and tempo,
+of strain and excitement. Some musical compositions, like the fugues
+of Bach, seem to express nothing more than such extremely abstract
+modes of feeling, without arousing any associations that would impel
+the mind to make a more concrete interpretation. To express feelings
+of this kind in language is, of course, impossible, for the reason
+that our emotional vocabularies have been constructed to communicate
+only the emotions of everyday life. Other types of music–like the
+romantic tone poetry of a later day–which are more abundant in their
+associations, and hence richer in their emotional content, are difficult
+of translation for another reason: the rapidity of succession and
+subtlety of intermixture of the expressed feelings are beyond the reach
+of words, even of a poet’s, which inevitably stabilize and isolate
+what they denote.
+But abstract and objectless emotions occur in other regions of
+experience beside the musical, even beyond the entire field of the
+aesthetic. All except the most healthy-minded and practical people are
+at times filled with vague fears, longings, and joys, the objects or
+causes of which they cannot formulate. Normally, feeling is directed
+towards definite objects and leads to action upon them, but may
+nevertheless become isolated from its proper connections, and function
+without issue. The extreme cases of this are the pathological states
+of mania and depression, where such feelings assume proportions
+dangerous to the existence of the individual. Intoxication and hysteria
+present analogous, though more transient phenomena. And one may observe
+the autonomous development of mere feeling even in the healthy life,
+as when one remains jolly after all occasion for it has ceased, or
+angry after the cause for anger has been removed. All feelings tend
+to acquire a strength beyond what is necessary for action and to endure
+after their proper objects and conditions have disappeared; hence the
+luxury of grief and revenge and sentimentality.
+In their most general character, musical emotions stand on a level
+with other purposeless emotions, except that they are deliberately
+induced and elaborated to an extent and complexity unmatched elsewhere.
+But while these emotions are morbid and evil outside of music, within
+music they are innocent. For outside of music they spring from
+dislocations of the practical and striving core of the personality,
+where, if persistently indulged in, they exacerbate the disturbance
+of which they are the sign, interfering with action and eventually
+endangering the health and happiness of the individual; while in music,
+being induced from the outside by mere sounds, they have no ground
+within the personality itself where they can take root, and hence exert
+only a harmless and transient effect upon the mind; they belong to the
+surface, not to the substance of the self, to imagination, not to the
+will. Or when, as sometimes happens, the deeper and perhaps morbid
+strata of the self are reached by the sounds, the feelings which are
+awakened from their sleep there, where they might be productive of
+evil dreams, find an orderly and welcome release in the sounds–they
+are not only aroused, but carried off by the music. This the Greeks
+understood when they employed music as a healer of the soul and called
+this effect catharsis.
+If, indeed, music were just a means for the arousal of feelings, it
+would not be a fine art, but an orgy. For, in order to be aesthetic,
+feelings must be not merely stimulated by, but objectified in, the
+sense medium, where they can be mastered and known. But the intimacy
+of music is not in contradiction with the freedom and objectivity
+characteristic of all art. For musical feelings, although they are
+experienced as our own, are nevertheless also experienced as the sounds;
+in music we live, not as we live ordinarily, within our bodies, but
+out there, in a rarer and unpractical medium–tone. And in this new
+region we gain dominion over our feelings, through the order which the
+form of the music imposes upon them, and also self-knowledge, because,
+in being externalized in the sounds, our feelings become an object for
+our reflection and understanding. In music the light of reflection is
+turned straight upon ourselves.
+The poignancy of music depends upon just this fact that through it we
+get a revelation of ourselves to ourselves. In the other arts, this
+revelation is indirect, occurring through the representation of the
+lives of other, real or fictitious, personalities; but in music, it
+is direct; for there the object of expression is oneself. Even in the
+lyric poem, where the reader and the poet tend to become identical,
+the unity is less complete; for when embodied in words, feelings become
+more exterior than when put forth into tones; a tone is closer to the
+self, because like a cry or a laugh, it is less articulate. Moreover,
+words are means of communication as well as expression; they therefore
+embody of any experience only as much as can be passed from speaker
+to hearer; the unique is for the most part lost on the way; but in
+music the full personal resonance of experience is retained. In music
+we get so close to ourselves that at times it is almost frightening.
+And this is the reason why, on all the high or serious occasions of
+human life, music is alone adequate to express its inner meaning. At
+a marriage or a funeral, in church or at a festival, the ceremonial
+is traditional and social; it expresses the historical and group
+significance of the situation, but not that which is unique and just
+one’s own; it always contains, moreover, much that is outgrown and
+unacceptable–a creed of life or love or death that belongs to the
+past, not to us. But the music embodies all that we really believe and
+feel about the fact, its intimate, emotional essence, clear of
+everything irrelevant and external.
+But music does more than express the inexpressible in ourselves; it
+gives us entrance into a supernatural world of feeling. Except at the
+rare high moments of our lives, its joys and despairs are too exalted
+for us; they are not ours; they belong to gods and heroes. In music
+the superman is born into our feelings. Music does for the emotions
+what mythology and poetry do for the imagination and philosophy for
+the intellect–it brings us into touch with a more magnificent life,
+for which we have perhaps the potency, but not the opportunity here.
+And in doing this, music performs a great service; for, outside of
+love and war, life, which offers endless occasions for intense thought
+and action, provides few for passionate feeling.
+Thus far our study of the art has been confined to so-called absolute
+music. We must now complete our survey by a rapid consideration of the
+union of music with the other arts. Because of its abstractness, music,
+of all the arts, lends itself most readily to combination with others;
+yet even in the case of music the possibility of union is limited by
+the existence of a clear identity between the arts combined. Thus,
+music goes well with the temporal arts, poetry, the dance, and the
+drama, and particularly well with the first two because they are
+rhythmical; it will also unite with architecture, because that is
+another abstract art; but with the static, concrete arts like painting
+and sculpture, it will not fuse. One might perhaps accompany a picture
+with a single chord whose emotional meaning was the same as that of
+the color scheme and the objects represented, but not with more; for
+the aesthetic experience of the picture is instantaneous and complete,
+while that of the music requires time for its development and fruition;
+hence the two would soon fall apart, and a person would either have
+to ignore the music or cease to look at the picture.
+Originally, of course, music was always combined with some other art,
+and first of all, probably with the dance. In its earliest form, the
+dance was a communal religious expression, about which we shall have
+little to say, since it belongs to the past, not to living art. For
+to-day the dance is a free art like music. The beauty of the dance
+consists, first, in the free and rhythmical expression of impulses to
+movement. This expression, which is direct for the dancer who actually
+carries out her impulses in real motion, is for the spectator indirect
+and ideal, for he experiences only movement-images aroused by movements
+seen, and then, by feeling these into the limbs of the dancer, dances
+with her in the imagination. And to secure this free and large, even
+though vicarious, expression of pent-up impulses to movement is very
+grateful to us whose whole movement life is impoverished, because
+restricted by convention and occupation to a few narrow types. But the
+dance would have little interest for men were it not for another element
+in its beauty: the expression of the amorous feelings of the spectator.
+These, although really located in the breast of the spectator, are
+nevertheless embodied in the personality of the dancer, whose charm
+they constitute. Finally, the content of the dance may be further
+enriched through the use of symbolic costume and mimetic gestures,
+suggesting emotions like joy or love or grief, emotionally toned ideas
+like spring, or actions such as courtship. Now music, with its own
+rhythmical order and voluminous emotional content, has an obvious
+kinship with the rhythmic form and amorous substance of the dance, and
+so can well serve to accompany it.
+The result of the union is to enforce the rhythmic experience through
+the medium of sound, the dance keeping time with the music, and, through
+the heightened emotional tone and increased suggestibility created by
+the music, to deepen the sympathetic rapport between dancer and
+spectator. Thus the music is given a concrete interpretation through
+the dance, and the dance gains in emotional power through the music.
+In the union, the gain to the dance is clear and absolute; but the
+music pays a price for the concreteness of content which it secures,
+by forfeiting its power to express chance inner moods–what it gains
+in definiteness it loses in scope and universality. And only music
+with a strong and evident rhythm is capable of union with the dance;
+the more complex and subtle music, aside from the impossibility of
+making its delicate rhythms fit into those of a dance, has a variety
+and sublimity of meaning so far transcending the personality of any
+human being, that to attempt to focus it in a dancer, no matter how
+charming, would be a travesty.
+Of equal naturalness and almost equal antiquity with the union of music
+with the dance, is its union with poetry. In song this union is a real
+fusion; for the tones are the vocal word-sounds themselves, purified
+into music. Here, of course, unlike absolute music, the tones are
+expressive, not only as other tones are through their mere sound, but
+also through their meaning. And this can well be; for as Schopenhauer
+remarked, just as the universal may be illustrated by any object which
+embodies it, so the vague musical content of a tone may be fused with
+the concrete meaning of a word of like feeling. And for many hearers
+music doubtless gains by thus becoming articulate; for, being unable
+to supply out of their own imagination the concreteness which music
+lacks, they welcome having this done for them by the poet; yet the
+gain is not without a corresponding loss. For when the musical meaning
+is specialized through the emotions that are the burden of the song,
+it necessarily loses the power which it would otherwise have of
+expressing one’s own inner life–once more, what it gains in
+definiteness it loses in scope. It no longer possesses the unique
+function of the musical. Hence, if we love the music, we shall not
+care whether or not we understand the meaning of the words, and what
+we shall value in the song will be only the peculiar intimacy which
+it derives from its instrument, the voice. Only rarely is it otherwise,
+as in some of the songs of Schumann, when the poetic interpretation
+is so beautiful and so completely at one with the musical feeling,
+that we prefer to accept it rather than substitute our own
+interpretation for the poet’s. But even so, the music, if genuine,
+will have value without the words. At the opposite pole are those
+songs, often popular, where the music, having little worth in itself,
+is a mere accompaniment for the words. In all cases, however, the music
+can lend to the poetry some of the intimacy which is its own, so that
+its burden has a deeper echo in the soul.
+Yet much of poetry is unfit for union with music. This is true, first,
+of all highly intellectual poetry, where the emotions are embodied in
+complex and abstract ideas. One could not, for example, readily set
+Browning to music. Music may be deep, mystic, even metaphysical in its
+meaning, but it cannot be dialectical. The emotions that accompany
+subtle thought, even when intense, are not of the voluminous, massive
+kind which music expresses; they lack the bodily resonance of the
+latter; they are, moreover, clean-cut and static, while in music
+everything flows in half-lights, like a river moving in moonlight.
+On the other hand, poems which express rapidly developing states of
+mind, which contain quick, subtle transitions, are equally unfit for
+union with music. For music, although always in motion, is always in
+slow motion; it needs time to get under way, and time for its
+development in embroidering, varying, and repeating its theme. And
+this difficulty applies in a general way to every union between poetry
+and music. For words are primarily practical and communicative, and
+therefore cut short the passion which they express; whereas tones,
+never having had any other purpose than expression, draw it out and
+let it have its way. Moreover, poetry, because of its definiteness,
+is compatible with only a limited range of variation, beyond which it
+becomes monotonous, while music, because of its abstractness, permits
+of variations almost endless, and is enriched by every new shape in
+which its meaning can appear. If, therefore, poetry is to keep time
+with the slow movement of the music and conform to its mode of
+development, the verses have to be repeated again and again; but this
+destroys the poetic form–as in the oratorio, with its senseless
+iterations.
+Finally, the temporal and developmental character of the drama would
+seem to fit it for union with music. Yet the union of these two arts
+is confronted with the same difficulties that beset the connection
+between poetry and music. The movement of the acting drama is swift
+and straight, that of music is slow and circular; hence if the music
+is to have its way, the action of the drama must stand. In consequence
+of this, there is little real action in most operas, prolonged dialogues
+in song taking its place. Only rarely–as for example in Strauss’
+“Salome,” perhaps–is the form of the drama preserved. As a rule the
+unity of the musical form is also destroyed, the thread of the story
+being substituted for it. Last, as in the song, the universality of
+the music is renounced in favor of the interpretation given to it by
+the program. In the leit-motif, indeed, as Wagner uses it, where
+a musical phrase is provided with a fixed connotation of ideas and
+acts which is understood by the hearer whenever it recurs, opera ceases
+to be music at all in the strict sense, and becomes a musical language.
+Yet in the opera, as in the song, the music, when genuine, possesses
+its own independent meaning, which can be appreciated without the
+mise en scene or the program. And then only rarely, as in the
+Toreador song in “Carmen,” is the action so close to the inner meaning
+of the music, that the latter seems to gain by the interpretation.
+It follows that Wagner’s dream of making the opera a sum of all the
+values of poetry, drama, and music, and so an art more beautiful than
+any one of them, is fallacious. For, as we have repeatedly seen, in
+uniting the arts, there is gain as well as loss; something of the form
+or meaning of each has to be sacrificed. The work that results from
+the combination is really a new art-form, in which the elements are
+changed and their individuality partly destroyed; and its value is a
+new value, which may be equal to, but is certainly no greater than,
+that of any other art-form. To put the matter epigrammatically, when
+the arts are added together, one plus one does not equal two, but only
+one again.
+Continue...
+
+This e-book of The Principles Of Aesthetics by Dewitt H. Parker,
+(Professor of Philosophy in the University of Michigan)
+is in the public domain.
+Hypertext conversion by Philipp Lenssen.
+
+
+At Amazon: The Substance of Style: How the Rise of Aesthetic Value Is Remaking Commerce, Culture, and Consciousness
+
+
+Last updated on November 2003.
+Complete book. Authorama - Classic Literature, free of copyright. About...
+The Principles Of AestheticsBy Dewitt H. ParkerAt Amazon

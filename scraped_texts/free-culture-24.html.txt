@@ -1,0 +1,44 @@
+
+
+
+
+
+Under the old system, a copyright owner had to file a registration with the 
+Copyright Office to register or renew a copyright. When filing that 
+registration, the copyright owner paid a fee. As with most government agencies, 
+the Copyright Office had little incentive to minimize the burden of 
+registration; it also had little incentive to minimize the fee. And as the 
+Copyright Office is not a main target of government policy- making, the office 
+has historically been terribly underfunded. Thus, when people who know something 
+about the process hear this idea about formalities, their first reaction is 
+panicnothing could be worse than forcing people to deal with the mess that is 
+the Copyright Office.
+Yet it is always astonishing to me that we, who come from a tradition of 
+extraordinary innovation in governmental design, can no longer think 
+innovatively about how governmental functions can be designed. Just because 
+there is a public purpose to a government role, it doesn’t follow that the 
+government must actually administer the role. Instead, we should be creating 
+incentives for private parties to serve the public, subject to standards that 
+the government sets.
+In the context of registration, one obvious model is the Internet. There are at 
+least 32 million Web sites registered around the world. Domain name owners for 
+these Web sites have to pay a fee to keep their registration alive. In the main 
+top-level domains (.com, .org, .net), there is a central registry. The actual 
+registrations are, however, performed by many competing registrars. That 
+competition drives the cost of registering down, and more importantly, it drives 
+the ease with which registration occurs up.
+We should adopt a similar model for the registration and renewal of copyrights. 
+The Copyright Office may well serve as the central registry, but it should not 
+be in the registrar business. Instead, it should establish a database, and a set 
+of standards for registrars. It should approve registrars that meet its 
+standards. Those registrars would then compete with one another to deliver the 
+cheapest and simplest systems for registering and renewing copyrights. That 
+competition would substantially lower the burden of this formalitywhile 
+producing a database of registrations that would facilitate the licensing of 
+content.
+Continue...
+
+“Free Culture” by Lawrence Lessig is available for free under a Creative Commons license.
+(You may redistribute, copy, or otherwise reuse/remix this book provided that you do so for non-commercial purposes and credit Professor Lessig.)
+Complete book. Authorama - Classic Literature, free of copyright. About...
+Free Culture: The Nature and Future of CreativityBy Lawrence LessigAt Amazon
