@@ -4,7 +4,7 @@ import json
 
 from werkzeug.wrappers import response
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='html_template')
 
 # Home Page
 # MongoDB:
