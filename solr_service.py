@@ -28,48 +28,56 @@ class MyConsumer(threading.Thread):
         consumer.subscribe(['books'])
 
         while not self._stop_event.is_set():
-            msg = consumer.poll(1.0)  # Poll for up to 1 second for new messages
-            if msg is None:
-                continue
-            if msg.error():
-                if msg.error().code() == KafkaError._PARTITION_EOF:
-                    print(f"Reached end of partition {msg.topic()}/{msg.partition()}")
+            try:
+                msg = consumer.poll(1.0)  # Poll for up to 1 second for new messages
+                if msg is None:
+                    continue
+                if msg.error():
+                    if msg.error().code() == KafkaError._PARTITION_EOF:
+                        print(f"Reached end of partition {msg.topic()}/{msg.partition()}")
+                    else:
+                        print(f"Error while consuming message: {msg.error()}")
                 else:
-                    print(f"Error while consuming message: {msg.error()}")
-            else:
-                # Update the following lines to call web crawler service
-                print(f"Received message: {msg.value().decode('utf-8')}")
-                book = requests.get('http://localhost:8888/load/abc').json()
+                    # Update the following lines to call web crawler service
+                    print(f"Received message: {msg.value().decode('utf-8')}")
+                    book_id = int(msg.value())
+                    
+                    web_svc_parms = {
+                        "id": book_id
+                    }
+                    
+                    web_svc_url = 'http://localhost:8888/query'
+                    book = requests.get(web_svc_url, params=web_svc_parms).json()
 
-                print(json.dumps(book))
+                    print(json.dumps(book))
 
-                '''
-                # uncomment after the crawler part is ready
-                # Set the Solr server URL and the core name
-                solr_url = "http://localhost:8983/solr"
-                core_name = "doc"
+                    # uncomment after the crawler part is ready
+                    # Set the Solr server URL and the core name
+                    solr_url = "http://localhost:8983/solr"
+                    core_name = "doc"
 
-                headers = {
-                    "Content-Type": "application/json"
-                }
+                    headers = {
+                        "Content-Type": "application/json"
+                    }
 
-                json_data = json.dumps(book)
+                    json_data = json.dumps(book[0])
 
-                response = requests.post(
-                    f"{solr_url}/{core_name}/update/json/docs",
-                    headers=headers,
-                    data=json_data
-                )
+                    response = requests.post(
+                        f"{solr_url}/{core_name}/update/json/docs",
+                        headers=headers,
+                        data=json_data
+                    )
 
-                # Print the HTTP response status code
-                print(response.status_code)
+                    # Print the HTTP response status code
+                    print(response.status_code)
 
-                # Commit the changes to Solr
-                requests.get(f"{solr_url}/{core_name}/update?commit=true")
+                    # Commit the changes to Solr
+                    requests.get(f"{solr_url}/{core_name}/update?commit=true")
 
-                # Print the HTTP response status code
-                print(response.status_code)
-                '''
+                    # Print the HTTP response status code
+                    print(response.status_code)
+            except:
+                print("Failed to fetch message")
 
         consumer.close()
 
@@ -87,6 +95,7 @@ class SolrQuery(Resource):
         sort = request.args.get('sort')
         start = request.args.get('start')
         rows = request.args.get('rows')
+        fq = request.args.get('fq')
         
         # Set the Solr server URL and the core name
         solr_url = "http://localhost:8983/solr"
@@ -105,8 +114,8 @@ class SolrQuery(Resource):
         if hl is not None:
             params["hl"] = hl
             
-        if hl is not None:
-            params["hl"] = hl
+        if indent is not None:
+            params["indent"] = indent
             
         if indent is not None:
             params["q.op"] = q_op
@@ -122,6 +131,9 @@ class SolrQuery(Resource):
             
         if rows is not None:
             params["rows"] = rows
+
+        if fq is not None:
+            params["fq"] = fq
             
         # add more params here, like fp
             
@@ -142,14 +154,13 @@ class SolrQuery(Resource):
 api.add_resource(SolrQuery, '/query')
 
 if __name__ == '__main__':
-    print("enter main")
+    print("Start Solr Service")
     consumer_thread = MyConsumer()
     consumer_thread.start()
     
     print("thread created")
     
-    app.run(debug=True, port=8889)
+    app.run(debug=False, port=8887)
     
     consumer_thread.stop()
     consumer_thread.join()
-    
