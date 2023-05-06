@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .center {
+              margin: 0 auto;
+              text-align: center;
+            }
+          </style>
+    </head>
+    <body>
+        <div class="center">
+		<h1 style="color: orange;">
+			Enjoy Searching!
+		</h1>
+
+        {% if error %}
+		<p class="error"><strong>Error:</strong> {{error}}</p>
+	    {% endif %}
+
+		<h2 style="color: green;">
+			Search Exact Author
+		</h2>
+		<form action="/mongo_search" method="POST">
+			<input type="text" name = "author" placeholder="author" /> </br>
+            <input type="submit" value = Search />
+        </form>
+
+		</br>
+
+        <h2 style="color: green;">
+			Search Everything
+		</h2>
+		<form action="/solr_search" method="POST">
+			<input type="text" name = "author" placeholder="author" /> </br>
+            <input type="text" name = "content" placeholder="content" /> </br>
+            <input type="text" name = "title" placeholder="title" /> </br>
+            <input type="text" name = "chapter" placeholder="chapter" /> </br>
+            <input type="submit" value = Search />
+        </form>
+
+        </br>
+
+        <style type="text/css">
+            table, th, td{
+                border: 1px solid black;
+            }
+        </style>
+
+        <a href="/">home</a>
+    </div>
+
+    </body>
+</html>
