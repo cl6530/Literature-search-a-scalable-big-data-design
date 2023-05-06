@@ -1,15 +1,15 @@
-version: '3'
+ version: '3'
 services:
   zookeeper:
     image: confluentinc/cp-zookeeper:7.3.2
-    container_name: zookeeper
+    container_name: zookeepernew
     environment:
       ZOOKEEPER_CLIENT_PORT: 2181
       ZOOKEEPER_TICK_TIME: 2000
 
   broker:
     image: confluentinc/cp-kafka:7.3.2
-    container_name: broker
+    container_name: brokernew
     ports:
     # To learn about configuring Kafka for access across networks see
     # https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/
@@ -24,13 +24,40 @@ services:
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
       KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
       KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+  #run this in kafka container to create kafka topic books:
+  #kafka-topics --bootstrap-server brokernew:9092 --create --topic books
 
-  # This is not solr cloud. Need to manually start solr cloud in the container.
+
+  # Need to manually create slor cloud inside the container
   solr:
     image: solr
-    container_name: solr
+    container_name: solrnew
     ports:
       - "8983:8983"
-    #need to manually create collection
-    #command: bin/solr create -c doc
-    
+    depends_on:
+      - broker
+    #command: 
+    #  - /bin/bash
+    #  - -c
+    #  - |
+    #    bin/solr start -cloud &&
+    #    bin/solr create -c doc &&
+    #    tail >& /dev/null
+
+  minio:
+    image: minio/minio
+    container_name: minio
+    ports:
+      - "9000:9000"
+    depends_on:
+      - broker
+    environment:
+      MINIO_ACCESS_KEY: 'cl6530'
+      MINIO_SECRET_KEY: 'chenxiliu'
+    command: server /data
+
+  mongodb:
+    image: mongo
+    container_name: mongodbnew
+    ports:
+      - "27017:27017"
