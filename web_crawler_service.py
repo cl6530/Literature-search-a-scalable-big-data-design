@@ -17,6 +17,7 @@ from minio import Minio
 import pymongo
 from werkzeug.wrappers import response
 
+# Kafka Producer Configuration
 config = {
         'bootstrap.servers': 'localhost:9092',  # Replace with your Kafka broker(s)
         'client.id': 'my_producer',
@@ -93,6 +94,9 @@ def save_book_as_json(book_details, output_dir):
         
     return filename
 
+# This class represent the separate thread that is responsible for
+# web crawling, uploading books (json files) to MinIO, storing book
+# metadata to MongoDB, and procuder the new book message to Kafka.  
 class MyPublisher(threading.Thread):
     def __init__(self, *args, **kwargs):
         print("MyPublisher init")
@@ -108,6 +112,7 @@ class MyPublisher(threading.Thread):
         # Create client of MinIO Storage
         client = Minio('localhost:9000', access_key='cl6530', secret_key='chenxiliu', secure=False)
         
+        # All books are stored in bucket 'books' in MinIO
         bucket = "books"
         if not client.bucket_exists(bucket):
             client.make_bucket(bucket)
@@ -132,20 +137,30 @@ class MyPublisher(threading.Thread):
                 print("Produced event to topic {topic}: key = {key:12} value = {value:12}".format(
                     topic=msg.topic(), key=msg.key().decode('utf-8'), value=msg.value().decode('utf-8')))
         
+        # The URL of the website that will be scraped by web crawler
         url = 'http://www.authorama.com/'
+        # Gather the links of the website
         book_links = get_all_links(url)
+        # Folder that contains the temporay book json files crawled
+        # from the website
         output_dir = '/tmp/books'
+        # Kafka Topics
         topic = "books"
+        # Count the number of books downloaded from the website, it
+        # is also used as the book ID.
         count = 1
+        # Fetch the book from every link
         for book_link in book_links:
             try:
                 # Build the json file locally
                 book_details = get_book_details(book_link)
                 file_path = save_book_as_json(book_details, output_dir)
                 
+                # Name the new object in MinIO as: 'book<ID>'
                 object = "book" + str(count)
                 # Upload book to MinIO storage
-                result = client.fput_object(bucket, object, file_path) #file_path is local path, MinIO uses [bucket and object] to fetch files
+                # file_path is local path, MinIO uses [bucket and object] to fetch files
+                result = client.fput_object(bucket, object, file_path)
                 print(
                     "created {0} object; etag: {1}, version-id: {2}".format(
                         result.object_name, result.etag, result.version_id,
@@ -164,14 +179,16 @@ class MyPublisher(threading.Thread):
                 mongo_result = mongo_collection.insert_one(mongo_document)
                 print(f"mongo_id={mongo_result.inserted_id}")
                 
-                # Produce new message to kafka
+                # Produce new message to kafka, key and value are both book ID.
                 producer.produce(topic, str(count), str(count), callback=delivery_callback)
                 
+                # Incrase the book ID
                 count += 1
                 print(f"count={count}")
                 
                 print("kafka produced")
             except:
+                # Catch any exceptions
                 count += 1
                 print(f"count={count}")
                 print("Failed to process the new book.")
@@ -183,21 +200,24 @@ class MyPublisher(threading.Thread):
 app = Flask(__name__)
 api = Api(app)
 
-# Create client of MinIO Storage
+# Create client of MinIO Storage for main thread
 client_main = Minio('localhost:9000', access_key='cl6530', secret_key='chenxiliu', secure=False)
 
-# Connect to the MongoDB container
+# Connect to the MongoDB container for main thread
 mongo_main_client = pymongo.MongoClient('localhost', 27017)
-# Select the database
+# Select the database for main thread
 mongo_main_db = mongo_main_client['books']
-# Select the collection
+# Select the collection for main thread
 mongo_main_collection = mongo_main_db['books_location']
 
+# REST API Endpoint for getting book content
 class BookQuery(Resource):
     def get(self):
+        # GET request handler
         print("enter BookQuery get")
         resp = []
         try:
+            # Fetch all book related data from request
             id = request.args.get('id')
             title = request.args.get('title')
             author = request.args.get('author')
@@ -205,8 +225,10 @@ class BookQuery(Resource):
             bucket = request.args.get('bucket')
             object = request.args.get('object')
             
+            # Build the query for MongoDB, initially empty
             mongo_query = {}
             
+            # Update the query based on the request
             if id is not None:
                 mongo_query["id"] = int(id)
                 
@@ -227,8 +249,12 @@ class BookQuery(Resource):
 
             print(f"mongo_query={mongo_query}")
             
+            # Run the query in MongoDB
             cursor = mongo_main_collection.find(mongo_query)
             
+            # Based the query results of MongoDB, read the
+            # corresponding file from MinIO and return it
+            # back in response.
             for document in cursor:
                 client_main.fget_object(document["bucket"], document["object"], '/tmp/books/tmp.json')
                 print('File downloaded')
@@ -240,22 +266,31 @@ class BookQuery(Resource):
         
         return resp
 
+# Simplified REST API endpoint for exact book search
+# on the web application. Not being used yet. This is
+# for future work that separates web crwaler service 
+# and file management service.
 class MongoQuery(Resource):
     def get(self):
+        # This function handles GET request.
         print("enter MongoQuery get")
         resp = []
         try:
             author = request.args.get('author')
 
+            # Author name must be included in request.
             if author is None:
                 return {}
             
+            # Build the query using author name.
             mongo_query = {"author": author}
 
             print(f"mongo_query={mongo_query}")
             
+            # Run the query
             cursor = mongo_main_collection.find(mongo_query)
             
+            # Return book metadata
             response = []
             for document in cursor:
                 response.append(document)
@@ -264,16 +299,19 @@ class MongoQuery(Resource):
         
         return resp
 
+# Deinf REST API path
 api.add_resource(BookQuery, '/query')
 api.add_resource(MongoQuery, '/search')
     
 if __name__ == '__main__':
     print("Start Web Crawler Service")
+    # Start the thread for web crawler
     producer_thread = MyPublisher()
     producer_thread.start()
     
     print("producer thread created")
     
+    # Start Flask RESTFul
     app.run(debug=False, port=8888)
     
     producer_thread.stop()

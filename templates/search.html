@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1 style="color: green;">
+			Search Results
+		</h1>
+
+        {% if error %}
+		<p class="error"><strong>Error:</strong> {{error}}</p>
+	    {% endif %}
+
+        {% for result in results %}
+            <p><strong>title: {{result.title|safe}}</strong></p>
+            <p><strong>author: {{result.author|safe}}</strong></p>
+            <p><strong>chapter: {{result.chapter|safe}}</strong></p>
+            {% if solr %}
+            <a href="/solr_read?id={{result.id}}">content: {{result.content|safe}}</a>
+            {% else %}
+            <p>content: {{result.content|safe}}</p>
+            {% endif %}
+            </br>
+        {% endfor %}
+
+        {% if solr %}
+        <a href="/solr_search?author={{author}}&title={{title}}&chapter={{chapter}}&content={{content}}&start={{start}}&rows={{rows}}">next page</a>
+        {% endif %}
+        </br>
+        <a href="/">home</a>
+
+        <script>
+
+        </script>
+
+    </body>
+</html>

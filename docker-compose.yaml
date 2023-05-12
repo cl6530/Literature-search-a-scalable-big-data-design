@@ -40,9 +40,7 @@ services:
     #  - /bin/bash
     #  - -c
     #  - |
-    #    bin/solr start -cloud &&
-    #    bin/solr create -c doc &&
-    #    tail >& /dev/null
+    #    bin/solr create -c doc
 
   minio:
     image: minio/minio

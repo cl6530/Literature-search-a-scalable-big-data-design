@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1 style="color: green;">
+			Read doc
+		</h1>
+
+        {% if error %}
+		<p class="error"><strong>Error:</strong> {{error}}</p>
+	    {% endif %}
+        <h2>Title: {{response.title|safe}}</h2>
+        <h2>Author: {{response.author|safe}}</h2>
+        <h2>chapter: {{response.chapter|safe}}</h2>
+        <p>{{response.content|safe}}</p>
+        <a href="/">home</a>
+
+        <script>
+
+        </script>
+
+    </body>
+</html>

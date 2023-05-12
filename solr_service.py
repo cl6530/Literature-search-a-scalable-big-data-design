@@ -7,12 +7,14 @@ import json
 import threading
 from confluent_kafka import Consumer, KafkaError
 
+# Kafka consumer configuration
 config = {
     'bootstrap.servers': 'localhost:9092',
     'group.id': 'books_group',
     'auto.offset.reset': 'earliest'
 }
 
+# The Kafka consumer running in a separate thread.
 class MyConsumer(threading.Thread):
     def __init__(self, *args, **kwargs):
         print("MyConsumer init")
@@ -24,9 +26,12 @@ class MyConsumer(threading.Thread):
 
     def run(self):
         print("MyConsumer run")
+        # Create Kafka consumer
         consumer = Consumer(config)
+        # Subscribe the consumer to Kafka topic 'books'
         consumer.subscribe(['books'])
 
+        # Consume from Kafka
         while not self._stop_event.is_set():
             try:
                 msg = consumer.poll(1.0)  # Poll for up to 1 second for new messages
@@ -38,7 +43,8 @@ class MyConsumer(threading.Thread):
                     else:
                         print(f"Error while consuming message: {msg.error()}")
                 else:
-                    # Update the following lines to call web crawler service
+                    # Consumed the book ID from Kafka, use the book ID to call
+                    # web crawler service to get the full content.
                     print(f"Received message: {msg.value().decode('utf-8')}")
                     book_id = int(msg.value())
                     
@@ -46,22 +52,25 @@ class MyConsumer(threading.Thread):
                         "id": book_id
                     }
                     
+                    # Send request to web crawler service
                     web_svc_url = 'http://localhost:8888/query'
                     book = requests.get(web_svc_url, params=web_svc_parms).json()
 
                     print(json.dumps(book))
 
-                    # uncomment after the crawler part is ready
                     # Set the Solr server URL and the core name
                     solr_url = "http://localhost:8983/solr"
                     core_name = "doc"
 
+                    # Set http request header
                     headers = {
                         "Content-Type": "application/json"
                     }
 
+                    # Convert book content to json data
                     json_data = json.dumps(book[0])
 
+                    # Upload the book to solr
                     response = requests.post(
                         f"{solr_url}/{core_name}/update/json/docs",
                         headers=headers,
@@ -84,9 +93,12 @@ class MyConsumer(threading.Thread):
 app = Flask(__name__)
 api = Api(app)
     
+# REST API endpoit for solr search
 class SolrQuery(Resource):
     def get(self):
+        # This function handles GET request
         print("enter get")
+        # Fetch query parameters from request
         q = request.args.get('q')
         hl = request.args.get('hl')
         indent = request.args.get('indent')
@@ -101,6 +113,8 @@ class SolrQuery(Resource):
         solr_url = "http://localhost:8983/solr"
         core_name = "doc"
         
+        # If there is no search query, return. This
+        # should never happen.
         if q is None:
             return {}
 
@@ -109,6 +123,7 @@ class SolrQuery(Resource):
             "Content-Type": "application/json"
         }
         
+        # Build the solr search parameters
         params = {"q": q}
         
         if hl is not None:
@@ -135,11 +150,9 @@ class SolrQuery(Resource):
         if fq is not None:
             params["fq"] = fq
             
-        # add more params here, like fp
-            
         print(f"params={params}")
 
-        # Send the HTTP request to Solr
+        # Send the HTTP request to Solr to search
         response = requests.get(
             f"{solr_url}/{core_name}/select",
             headers=headers,
@@ -155,11 +168,13 @@ api.add_resource(SolrQuery, '/query')
 
 if __name__ == '__main__':
     print("Start Solr Service")
+    # Start the thread for Kafka consumer
     consumer_thread = MyConsumer()
     consumer_thread.start()
     
     print("thread created")
     
+    # Start Flask RESTFul
     app.run(debug=False, port=8887)
     
     consumer_thread.stop()
