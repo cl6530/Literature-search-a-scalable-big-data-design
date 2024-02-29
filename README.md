@@ -1,1 +1,25 @@
-# literature-search-big-data
+# Literature search, a scalable big data design
+## 1. Introduction
+  As the volume of published literary texts continues to increase rapidly, it has become increasingly difficult to locate specific contents in a timely manner. To address this issue, a literature search engine focused on specific literature sources could facilitate quick and efficient retrieval of desired texts. By inputting paragraphs, quotes, or even individual words, such a search engine could be used to search publicly available patent literature and identify related works. 
+
+  We aim to create a keyword and phrase search system based on literary masterpieces, allowing users to enter any word or phrase and receive a list of books containing those words. This work proposes a solution on processing enormous amounts of texts that could be a fundamental component of a library management system. Thus this design will be a scalable solution for larger-scale applications in the future.
+
+  Our design is a real Big Data problem:
+Big volume: As our design aims to deal with large Volume that It involves processing and analyzing a massive volume of published literary texts, including books, articles, and patent literature, which grows rapidly over time.
+Velocity: As new literature is published and added to the database, our design aims to be able to handle the continuous influx of data and provide real-time or near-real-time search results to users.
+Veracity: Our design also aims to ensure the accuracy and reliability of search results for a successful big data project. This means the search engine must be able to distinguish between relevant and irrelevant content, as well as handle potential issues such as misspellings, synonyms
+Scalability: The design of the project must be able to accommodate the growing volume of data and user requests without significant degradation in performance. This requires a scalable architecture that can handle large-scale applications in the future.
+Variety: our design also aims to deal with variety that our objects are a wide variety of data types coming from diverse sources
+Value: Importantly, our project aims to provide a valuable service to users by enabling them to quickly and efficiently locate specific content in a vast pool of information. This can save time and resources for researchers, students, and other users who need to find relevant literature.
+
+## 2. Architecture design
+### 2.1  Architecture
+  To accommodate the above requirements, we have an architecture design like this shown in Figure 1. We developed a web crawler service for crawling the contents from the target website, save contents to our distributed file storage system, and save metadata to mongoDB. We initially designed to use hadoop HDFS, however, we met some difficulties setting up the docker environment with hadoop HDFS, we considered using Amazon S3 instead, but it cannot be put into a docker container, and finally we found that MinIO is an excellent alternative for hadoop HDFS. MinIO is an open-source object storage server that is compatible with Amazon S3 APIs, and can be used to store and retrieve unstructured data such as images, videos, log files, backups, and other files. 
+
+  MongoDB is a popular open-source document-oriented NoSQL database management system. It is designed to scale horizontally, meaning it can handle large amounts of data and high traffic loads by distributing data across multiple servers or nodes in a cluster. This allows for high availability and performance. MongoDB has flexible Schema, and is able to do querying and indexing. MongoDB provides a powerful query language that supports a wide range of query types, including filtering, sorting, and aggregation. It also supports indexing to improve query performance.
+
+  We then have a SOLR service responsible for query purposes,  saving and retrieving information from SOLR cloud. SOLR cloud is an open-source search platform that is used to index, search, and analyze large volumes of data. SOLR is designed to be highly scalable, performant, and provide fast, relevant search results. It supports features such as full-text search, faceted search, geospatial search, and relevance ranking, which can be used to build powerful search applications. Overall, SOLR is a powerful and flexible search platform that can be used in a wide range of applications and environments.
+
+  We use Kafka and REST API to communicate with the crawler service and SOLR service, and we developed a web application for users to interact with the searching system. Kafka is an open-source distributed streaming platform. It is designed to handle high-volume, real-time data streams efficiently and reliably. Kafka provides a messaging system that allows applications and systems to publish, subscribe, and process streams of records. Kafka is designed to handle high data throughput and large-scale deployments. It can horizontally scale by adding more brokers to a cluster and distributing the load across them. 
+
+
